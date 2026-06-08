@@ -1,3 +1,41 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "4c1df465336f40d7974e79c32fe4f564",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "sdf",
+        "Tên Bưu cục": "àtt",
+        "Họ và tên người sử dụng": "âs",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "ew",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-08T09:06:06",
+      "updatedAt": "2026-06-08T09:06:06"
+    }
+  ]
 }
