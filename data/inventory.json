@@ -197,6 +197,43 @@
       ],
       "createdAt": "2026-06-08T09:46:26",
       "updatedAt": "2026-06-08T09:46:26"
+    },
+    {
+      "id": "9e78799fcab5436ca4cf0f5ba581e0d6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "VPBĐT",
+        "Họ và tên người sử dụng": "lê thị thùy",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "phòng tckh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64RF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.61",
+        "MAC Address": "18:66:DA:28:F5:09"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canonlbp226dw",
+          "serial": "NPZA047586"
+        }
+      ],
+      "createdAt": "2026-06-08T09:49:27",
+      "updatedAt": "2026-06-08T09:49:27"
     }
   ]
 }
