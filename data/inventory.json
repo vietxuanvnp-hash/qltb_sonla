@@ -92,6 +92,43 @@
       "attachments": [],
       "createdAt": "2026-06-08T08:57:21",
       "updatedAt": "2026-06-08T08:57:21"
+    },
+    {
+      "id": "373974179129452da41517b1d6047542",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "sdf",
+        "Tên Bưu cục": "sdf",
+        "Họ và tên người sử dụng": "sdf",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "sdf",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-N70ACOU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "643D8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "211 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.130.18",
+        "MAC Address": "18:66:DA:28:CF:A5"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-08T08:57:46",
+      "updatedAt": "2026-06-08T08:57:46"
     }
   ]
 }
