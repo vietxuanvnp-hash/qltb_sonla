@@ -1,35 +1,3 @@
 {
-  "records": [
-    {
-      "id": "27a7588ad72e4dbcbe2fd44a1aed7667",
-      "category": "3. MÃ¡y TÃ­nh",
-      "fields": {
-        "MÃ£ BÄ XÃ£": "4809",
-        "TÃªn XÃ£": "XÃ£ ÄÃ´ng Kinh",
-        "MÃ£ BÆ°u cá»¥c": "484400",
-        "TÃªn BÆ°u cá»¥c": "ÄÃ´ng kin",
-        "Há» vÃ  tÃªn ngÆ°á»i sá»­ dá»¥ng": "Nguyá»n VÄn Nam",
-        "MÃ£ HRM": "00027592",
-        "Bá» pháº­n / PhÃ²ng ban": "XÃ£ ÄÃ´ng Kinh",
-        "MÃ£ váº­t tÆ°": "",
-        "TÃªn mÃ¡y (Hostname)": "DESKTOP-CFC4MOK",
-        "Loáº¡i mÃ¡y": "Laptop",
-        "HÃ£ng": "Dell Inc.",
-        "Model": "Latitude 5420",
-        "NÄm sáº£n xuáº¥t": "",
-        "Serial Number": "5MW08C3",
-        "CPU": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
-        "RAM": "15.7 GB",
-        "á» cá»©ng": "237 GB",
-        "Há» Äiá»u hÃ nh": "Microsoft Windows 11 Pro 10.0.26200",
-        "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "192.168.1.108",
-        "MAC Address": "B4:0E:DE:2B:2C:D0"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-08T08:35:58",
-      "updatedAt": "2026-06-08T08:35:58"
-    }
-  ]
+  "records": []
 }
