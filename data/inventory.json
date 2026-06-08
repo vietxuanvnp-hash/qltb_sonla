@@ -30,6 +30,37 @@
       "attachments": [],
       "createdAt": "2026-06-08T08:43:09",
       "updatedAt": "2026-06-08T08:43:09"
+    },
+    {
+      "id": "83a788e4c4eb4b37a09963c748edaf8b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4809",
+        "Tên Xã": "VP Bưu điện tỉnh",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "Đông kin",
+        "Họ và tên người sử dụng": "trần thành nam",
+        "Mã HRM": "00027592",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CFC4MOK",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 5420",
+        "Năm sản xuất": "",
+        "Serial Number": "5MW08C3",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.108",
+        "MAC Address": "B4:0E:DE:2B:2C:D0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-08T08:57:03",
+      "updatedAt": "2026-06-08T08:57:03"
     }
   ]
 }
