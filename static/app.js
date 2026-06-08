@@ -342,6 +342,9 @@ function renderFields(record = null) {
   attachmentSection.classList.toggle("is-hidden", !isComputer);
   if (isComputer) renderAttachmentOptions(record);
   else attachmentOptions.innerHTML = "";
+
+  // Cập nhật banner cảnh báo lấy thông tin máy
+  updateMachineInfoBanner();
 }
 
 function readFormFields() {
@@ -582,6 +585,18 @@ async function saveRecord(event) {
     return;
   }
 
+  // Kiểm tra bổ sung: Nhóm Máy Tính phải lấy thông tin phần cứng trước
+  if (category.value === "3. Máy Tính" && !formValues["Tên máy (Hostname)"]?.trim()) {
+    const banner = document.getElementById("machine-info-banner");
+    if (banner) {
+      banner.classList.remove("is-hidden");
+      banner.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+    formStatus.textContent = "Vui lòng lấy thông tin máy tính trước khi gửi phiếu. Xem hướng dẫn phía trên.";
+    formStatus.className = "status form-status is-error";
+    return;
+  }
+
   formStatus.textContent = "Đang lưu phiếu lên GitHub...";
   formStatus.className = "status form-status";
 
@@ -764,6 +779,7 @@ function applyClientInventory(fields) {
     const input = dynamicFields.querySelector(`[name="${CSS.escape(field)}"]`);
     if (input && value) input.value = value;
   }
+  updateMachineInfoBanner();
 }
 
 function loadClientInfoFromUrlParams() {
@@ -782,7 +798,78 @@ function loadClientInfoFromUrlParams() {
   window.history.replaceState({}, "", clean);
   formStatus.textContent = "Đã tự động điền thông tin máy tính. Hãy nhập bổ sung thông tin người sử dụng và gửi phiếu.";
   formStatus.className = "status form-status is-success";
+  updateMachineInfoBanner();
   return true;
+}
+
+// ─── Banner cảnh báo chưa lấy thông tin máy ──────────────────────────────────
+
+function updateMachineInfoBanner() {
+  const banner = document.getElementById("machine-info-banner");
+  if (!banner) return;
+
+  // Chỉ hiển thị khi nhóm là Máy Tính
+  if (category.value !== "3. Máy Tính") {
+    banner.classList.add("is-hidden");
+    return;
+  }
+
+  // Hostname trống = chưa chạy công cụ lấy thông tin
+  const hostnameInput = dynamicFields.querySelector('[name="Tên máy (Hostname)"]');
+  const hasInfo = hostnameInput && hostnameInput.value.trim();
+  banner.classList.toggle("is-hidden", Boolean(hasInfo));
+}
+
+// ─── Tải công cụ lấy thông tin máy ───────────────────────────────────────────
+// Dùng chung cho cả nút "Làm mới thông tin máy" và nút trong banner
+
+async function triggerBatDownload() {
+  // Thử giao thức vnpost:// (nếu đã đăng ký thì bat chạy tự động)
+  const iframe = document.createElement("iframe");
+  iframe.style.display = "none";
+  iframe.src = "vnpost://collect";
+  document.body.appendChild(iframe);
+  setTimeout(() => document.body.removeChild(iframe), 3000);
+
+  formStatus.innerHTML = `
+    <div class="auto-setup">
+      <strong>🔧 Đang tải công cụ thu thập thông tin...</strong><br>
+      <span id="dl-progress">Vui lòng chờ...</span>
+    </div>`;
+  formStatus.className = "status form-status";
+
+  const RAW_BAT_URL =
+    "https://raw.githubusercontent.com/nguyennam90/Check_thiet_bi/main/lay_thong_tin.bat";
+
+  try {
+    const res = await fetch(RAW_BAT_URL);
+    if (!res.ok) throw new Error("Không tải được file");
+    const blob = await res.blob();
+    const blobUrl = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = blobUrl;
+    a.download = "lay_thong_tin.bat";
+    a.style.display = "none";
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => { document.body.removeChild(a); URL.revokeObjectURL(blobUrl); }, 2000);
+
+    const dlEl = document.getElementById("dl-progress");
+    if (dlEl) dlEl.parentElement.innerHTML = `
+      <strong>✅ Tải xuống hoàn tất!</strong><br>
+      👇 Nhấn vào file <strong>lay_thong_tin.bat</strong> ở <strong>thanh tải xuống phía dưới trình duyệt</strong> để chạy ngay.<br>
+      <small style="opacity:.75">
+        • Chrome/Edge: thanh tải xuống xuất hiện ở góc dưới bên phải ▼<br>
+        • Nếu Windows hỏi xác nhận → chọn <em>"Run anyway"</em> hoặc <em>"Vẫn chạy"</em><br>
+        • Kaspersky: phiên bản mới không còn bị chặn (không dùng iex)
+      </small>`;
+    formStatus.className = "status form-status is-success";
+  } catch (err) {
+    const dlEl = document.getElementById("dl-progress");
+    if (dlEl) dlEl.textContent = "Không tải được file tự động. Vui lòng thử lại.";
+    formStatus.className = "status form-status is-error";
+  }
 }
 
 // ─── Xuất Excel (SheetJS) ────────────────────────────────────────────────────
@@ -963,69 +1050,14 @@ attachmentOptions.addEventListener("change", (event) => {
 });
 
 importButton.addEventListener("click", importExcel);
-category.addEventListener("change", () => renderFields());
+category.addEventListener("change", () => { renderFields(); updateMachineInfoBanner(); });
 form.addEventListener("submit", saveRecord);
 document.getElementById("btn-new").addEventListener("click", () => resetForm());
 document.getElementById("btn-local-info").addEventListener("click", () => {
-  // Bước 1: Nếu URL đã có params (mở bởi bat file) → điền ngay, không làm gì thêm
   if (loadClientInfoFromUrlParams()) return;
-
-  // Bước 2: Thử kích hoạt giao thức vnpost:// (chạy bat file trong nền)
-  formStatus.textContent = "Đang kích hoạt thu thập thông tin máy tính...";
-  formStatus.className = "status form-status";
-
-  // Thử mở protocol – nếu đã đăng ký thì Windows chạy bat và mở tab mới
-  const iframe = document.createElement("iframe");
-  iframe.style.display = "none";
-  iframe.src = "vnpost://collect";
-  document.body.appendChild(iframe);
-  setTimeout(() => document.body.removeChild(iframe), 3000);
-
-  // Sau 2.5 giây: nếu giao thức chưa cài → tự động tải file từ GitHub
-  setTimeout(async () => {
-    const RAW_BAT_URL =
-      "https://raw.githubusercontent.com/nguyennam90/Check_thiet_bi/main/lay_thong_tin.bat";
-
-    formStatus.innerHTML = `
-      <div class="auto-setup">
-        <strong>🔧 Đang tải công cụ thu thập thông tin về máy...</strong><br>
-        <span id="dl-progress">Vui lòng chờ...</span>
-      </div>`;
-    formStatus.className = "status form-status";
-
-    try {
-      // Fetch về blob để download attribute hoạt động (tránh lỗi cross-origin)
-      const res = await fetch(RAW_BAT_URL);
-      if (!res.ok) throw new Error("Không tải được file");
-      const blob = await res.blob();
-      const blobUrl = URL.createObjectURL(blob);
-
-      // Kích hoạt tải xuống — trình duyệt sẽ hiển thị file ở thanh tải xuống phía dưới
-      const a = document.createElement("a");
-      a.href = blobUrl;
-      a.download = "lay_thong_tin.bat";
-      a.style.display = "none";
-      document.body.appendChild(a);
-      a.click();
-      setTimeout(() => { document.body.removeChild(a); URL.revokeObjectURL(blobUrl); }, 2000);
-
-      // Hướng dẫn rõ ràng: nhấn vào file vừa tải ở thanh dưới trình duyệt
-      document.getElementById("dl-progress").parentElement.innerHTML = `
-        <strong>✅ Tải xuống hoàn tất!</strong><br>
-        👇 Nhấn vào file <strong>lay_thong_tin.bat</strong> ở <strong>thanh tải xuống phía dưới trình duyệt</strong> để chạy ngay.<br>
-        <small style="opacity:.75">
-          • Chrome/Edge: thanh tải xuống xuất hiện ở góc dưới bên phải ▼<br>
-          • Nếu Windows hỏi xác nhận → chọn <em>"Run anyway"</em> hoặc <em>"Vẫn chạy"</em><br>
-          • Sau lần này, nút sẽ hoạt động hoàn toàn tự động
-        </small>`;
-      formStatus.className = "status form-status is-success";
-    } catch (err) {
-      document.getElementById("dl-progress").textContent =
-        "Không tải được file tự động. Hãy chạy thủ công lay_thong_tin.bat.";
-      formStatus.className = "status form-status is-error";
-    }
-  }, 2500);
+  triggerBatDownload();
 });
+document.getElementById("btn-mib-download").addEventListener("click", triggerBatDownload);
 search.addEventListener("input", renderRecords);
 categoryFilter.addEventListener("change", renderRecords);
 

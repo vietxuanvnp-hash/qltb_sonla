@@ -74,6 +74,21 @@
               <select id="category" class="input" required></select>
             </label>
           </div>
+          <!-- Banner cảnh báo chưa lấy thông tin máy – chỉ hiện với nhóm Máy Tính -->
+          <div id="machine-info-banner" class="mib is-hidden" role="alert">
+            <div class="mib-icon">⚠️</div>
+            <div class="mib-body">
+              <strong>Cần lấy thông tin máy tính trước khi gửi phiếu</strong>
+              <p>Thực hiện theo 3 bước sau để điền thông tin phần cứng tự động:</p>
+              <ol class="mib-steps">
+                <li>Nhấn nút bên dưới để tải công cụ về máy</li>
+                <li>Chạy file <code>lay_thong_tin.bat</code> vừa tải<br>
+                    <small>(Windows hỏi xác nhận → chọn <em>"Run anyway"</em> / <em>"Vẫn chạy"</em>)</small></li>
+                <li>Trang tự động điền thông tin → kiểm tra rồi nhấn <strong>"Gửi phiếu"</strong></li>
+              </ol>
+              <button type="button" id="btn-mib-download" class="primary">⬇ Tải công cụ lấy thông tin máy</button>
+            </div>
+          </div>
           <div id="dynamic-fields" class="fields"></div>
           <section id="attachment-section" class="attachment-section is-hidden">
             <div class="attachment-heading">

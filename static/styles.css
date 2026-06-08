@@ -625,3 +625,72 @@ td:last-child {
     height: 46px;
   }
 }
+
+/* ── Banner yêu cầu lấy thông tin máy (Machine Info Banner) ──────────────── */
+
+.mib {
+  background: #fffbeb;
+  border: 2px solid #f59e0b;
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin-bottom: 18px;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  animation: mib-in 0.25s ease;
+}
+
+@keyframes mib-in {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.mib-icon {
+  font-size: 28px;
+  flex: 0 0 auto;
+  line-height: 1;
+  margin-top: 2px;
+}
+
+.mib-body > strong {
+  display: block;
+  font-size: 15px;
+  color: #92400e;
+  font-weight: 700;
+}
+
+.mib-body > p {
+  margin: 6px 0 8px;
+  color: #78350f;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+
+.mib-steps {
+  margin: 0 0 14px 20px;
+  padding: 0;
+  color: #78350f;
+  font-size: 13.5px;
+  line-height: 1.85;
+}
+
+.mib-steps code {
+  background: #fef3c7;
+  border: 1px solid #fcd34d;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 12px;
+}
+
+.mib-steps small {
+  display: block;
+  font-size: 12px;
+  opacity: 0.78;
+  margin-top: 1px;
+}
+
+.mib-steps em {
+  font-style: normal;
+  font-weight: 600;
+}
