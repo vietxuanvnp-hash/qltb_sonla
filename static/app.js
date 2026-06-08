@@ -871,30 +871,49 @@ document.getElementById("btn-local-info").addEventListener("click", () => {
   document.body.appendChild(iframe);
   setTimeout(() => document.body.removeChild(iframe), 3000);
 
-  // Sau 2.5 giây: kiểm tra xem tab mới có xuất hiện không
-  // Nếu không → tự động tải file lay_thong_tin.bat từ GitHub (không cần admin gửi file)
-  setTimeout(() => {
+  // Sau 2.5 giây: nếu giao thức chưa cài → tự động tải file từ GitHub
+  setTimeout(async () => {
     const RAW_BAT_URL =
       "https://raw.githubusercontent.com/nguyennam90/Check_thiet_bi/main/lay_thong_tin.bat";
 
     formStatus.innerHTML = `
       <div class="auto-setup">
-        <strong>🔧 Đang tự động chuẩn bị...</strong><br>
-        Hệ thống đang tải công cụ thu thập thông tin về máy bạn.
-        Hãy <strong>chạy file vừa tải xuống</strong> (lay_thong_tin.bat) —
-        file sẽ tự thiết lập và mở form đã điền sẵn thông tin máy.<br>
-        <small style="opacity:.7">Sau lần đầu tiên, nút này sẽ hoạt động tự động không cần tải lại.</small>
+        <strong>🔧 Đang tải công cụ thu thập thông tin về máy...</strong><br>
+        <span id="dl-progress">Vui lòng chờ...</span>
       </div>`;
-    formStatus.className = "status form-status is-success";
+    formStatus.className = "status form-status";
 
-    // Tự động kích hoạt download — nhân viên không cần tìm file ở đâu
-    const a = document.createElement("a");
-    a.href = RAW_BAT_URL;
-    a.download = "lay_thong_tin.bat";
-    a.style.display = "none";
-    document.body.appendChild(a);
-    a.click();
-    setTimeout(() => document.body.removeChild(a), 1000);
+    try {
+      // Fetch về blob để download attribute hoạt động (tránh lỗi cross-origin)
+      const res = await fetch(RAW_BAT_URL);
+      if (!res.ok) throw new Error("Không tải được file");
+      const blob = await res.blob();
+      const blobUrl = URL.createObjectURL(blob);
+
+      // Kích hoạt tải xuống — trình duyệt sẽ hiển thị file ở thanh tải xuống phía dưới
+      const a = document.createElement("a");
+      a.href = blobUrl;
+      a.download = "lay_thong_tin.bat";
+      a.style.display = "none";
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => { document.body.removeChild(a); URL.revokeObjectURL(blobUrl); }, 2000);
+
+      // Hướng dẫn rõ ràng: nhấn vào file vừa tải ở thanh dưới trình duyệt
+      document.getElementById("dl-progress").parentElement.innerHTML = `
+        <strong>✅ Tải xuống hoàn tất!</strong><br>
+        👇 Nhấn vào file <strong>lay_thong_tin.bat</strong> ở <strong>thanh tải xuống phía dưới trình duyệt</strong> để chạy ngay.<br>
+        <small style="opacity:.75">
+          • Chrome/Edge: thanh tải xuống xuất hiện ở góc dưới bên phải ▼<br>
+          • Nếu Windows hỏi xác nhận → chọn <em>"Run anyway"</em> hoặc <em>"Vẫn chạy"</em><br>
+          • Sau lần này, nút sẽ hoạt động hoàn toàn tự động
+        </small>`;
+      formStatus.className = "status form-status is-success";
+    } catch (err) {
+      document.getElementById("dl-progress").textContent =
+        "Không tải được file tự động. Hãy chạy thủ công lay_thong_tin.bat.";
+      formStatus.className = "status form-status is-error";
+    }
   }, 2500);
 });
 search.addEventListener("input", renderRecords);
