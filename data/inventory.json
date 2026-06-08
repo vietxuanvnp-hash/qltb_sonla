@@ -61,6 +61,37 @@
       "attachments": [],
       "createdAt": "2026-06-08T08:57:03",
       "updatedAt": "2026-06-08T08:57:03"
+    },
+    {
+      "id": "0866a1e5307a42a4b76ee5a3f22b4a28",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "dfs",
+        "Tên Bưu cục": "sdf",
+        "Họ và tên người sử dụng": "sdf",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "sdf",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-08T08:57:21",
+      "updatedAt": "2026-06-08T08:57:21"
     }
   ]
 }
