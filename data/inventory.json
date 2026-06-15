@@ -1,3 +1,41 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "61b5930c1ae1401580e67471e5f2cbb9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3600",
+        "Tên Xã": "phường Tô Hiệu",
+        "Mã Bưu cục": "360000",
+        "Tên Bưu cục": "phường Tô Hiệu",
+        "Họ và tên người sử dụng": "Nguyễn Thành Luân",
+        "Mã HRM": "00081163",
+        "Bộ phận / Phòng ban": "Giám đốc BĐP Tô Hiệu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-GD-LUANT",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz",
+        "RAM": "7,9 GB",
+        "Ổ cứng": "704 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.55",
+        "MAC Address": "F4:6D:04:3D:88:EC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON/LBP251dw",
+          "serial": "NEHA014914"
+        }
+      ],
+      "createdAt": "2026-06-15T08:11:52",
+      "updatedAt": "2026-06-15T08:11:52"
+    }
+  ]
 }
