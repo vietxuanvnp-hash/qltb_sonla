@@ -38,19 +38,21 @@ jobs:
           import os, json
 
           token = os.environ.get("WRITE_TOKEN", "")
+          repo_full = os.environ.get("GITHUB_REPOSITORY", "nguyennam90/Check_thiet_bi")
+          owner, repo = repo_full.split("/", 1)
 
-          config_js = """/**
+          config_js = f"""/**
            * Cấu hình GitHub – Tự động tạo bởi GitHub Actions.
            * Không chỉnh sửa file này trực tiếp.
            * Token được inject từ GitHub Secret WRITE_TOKEN (không lưu trong code).
            */
-          const GITHUB_CONFIG = {
-            owner: "nguyennam90",
-            repo:  "Check_thiet_bi",
+          const GITHUB_CONFIG = {{
+            owner: "{owner}",
+            repo:  "{repo}",
             branch: "main",
             dataFile: "data/inventory.json",
-            writeToken: \"""" + token + """\",
-          };
+            writeToken: "{token}",
+          }};
           """
 
           with open("static/github-config.js", "w", encoding="utf-8") as f:
@@ -58,6 +60,7 @@ jobs:
 
           if token:
               print(f"[OK] WRITE_TOKEN da duoc inject ({len(token)} ky tu)")
+              print(f"[OK] Repo detected: {owner}/{repo}")
           else:
               print("[WARN] WRITE_TOKEN chua duoc cau hinh - client se khong the gui phieu")
           PYEOF

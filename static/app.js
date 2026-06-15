@@ -9,6 +9,7 @@ const GITHUB_API = "https://api.github.com";
 const COMMON_REQUIRED = [
   "Mã Bưu cục", "Tên Bưu cục",
   "Họ và tên người sử dụng",
+  "Mã HRM",
   "Bộ phận / Phòng ban",
   "Tên tài sản\n(Theo danh mục CCDC)",
 ];
@@ -839,12 +840,18 @@ async function triggerBatDownload() {
   formStatus.className = "status form-status";
 
   const RAW_BAT_URL =
-    "https://raw.githubusercontent.com/nguyennam90/Check_thiet_bi/main/lay_thong_tin.bat";
+    `https://raw.githubusercontent.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/${GITHUB_CONFIG.branch}/lay_thong_tin.bat`;
 
   try {
     const res = await fetch(RAW_BAT_URL);
     if (!res.ok) throw new Error("Không tải được file");
-    const blob = await res.blob();
+    let text = await res.text();
+    
+    // Tự động thay thế URL máy chủ trong file .bat bằng URL hiện tại của trang web
+    const currentUrl = window.location.origin + window.location.pathname.replace(/\/$/, "");
+    text = text.replaceAll("https://nguyennam90.github.io/Check_thiet_bi", currentUrl);
+
+    const blob = new Blob([text], { type: "text/plain;charset=utf-8" });
     const blobUrl = URL.createObjectURL(blob);
 
     const a = document.createElement("a");
