@@ -67,6 +67,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:19:36",
       "updatedAt": "2026-06-15T08:19:36"
+    },
+    {
+      "id": "3a08461d6454485d8fac0640decfe163",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "36",
+        "Họ và tên người sử dụng": "Hoàng Anh Tuấn",
+        "Mã HRM": "00056369",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TTVH-TUANHA",
+        "Loại máy": "Desktop",
+        "Hãng": "ASRock",
+        "Model": "B660M-HDV",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400F",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "2222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.39.101",
+        "MAC Address": "9C:6B:00:07:57:7C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T08:26:29",
+      "updatedAt": "2026-06-15T08:26:29"
     }
   ]
 }
