@@ -36,6 +36,37 @@
       ],
       "createdAt": "2026-06-15T08:11:52",
       "updatedAt": "2026-06-15T08:11:52"
+    },
+    {
+      "id": "81d506ba3a764aa186bca2c4d87ba30b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "Bưu điện tỉnh Sơn La",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "Trung tâm Vận Hành",
+        "Họ và tên người sử dụng": "Lèo Việt Xuấn",
+        "Mã HRM": "00056386",
+        "Bộ phận / Phòng ban": "Trung tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-KTNV-XUANLV",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWJ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "11.7 GB",
+        "Ổ cứng": "386 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.50",
+        "MAC Address": "F4:6B:8C:CC:BA:0A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T08:19:36",
+      "updatedAt": "2026-06-15T08:19:36"
     }
   ]
 }
