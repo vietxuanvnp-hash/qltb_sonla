@@ -98,6 +98,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:26:29",
       "updatedAt": "2026-06-15T08:26:29"
+    },
+    {
+      "id": "577ab205c3a84e95a27dbdc1b5b26c4f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "BĐT Sơn La",
+        "Họ và tên người sử dụng": "Lê Tuấn Anh",
+        "Mã HRM": "00235865",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-KTNV-ANHTL",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "2022",
+        "Serial Number": "YLT0AAXE",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.168.110",
+        "MAC Address": "F4:6B:8C:CC:B9:C2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T08:27:09",
+      "updatedAt": "2026-06-15T08:27:09"
     }
   ]
 }
