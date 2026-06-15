@@ -103,10 +103,10 @@
       "id": "577ab205c3a84e95a27dbdc1b5b26c4f",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "Bưu điện tỉnh Sơn La",
         "Mã Bưu cục": "36",
-        "Tên Bưu cục": "BĐT Sơn La",
+        "Tên Bưu cục": "Bưu điện tỉnh Sơn La",
         "Họ và tên người sử dụng": "Lê Tuấn Anh",
         "Mã HRM": "00235865",
         "Bộ phận / Phòng ban": "Trung tâm vận hành",
@@ -128,7 +128,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-15T08:27:09",
-      "updatedAt": "2026-06-15T08:27:09"
+      "updatedAt": "2026-06-15T08:42:43"
     },
     {
       "id": "35aa463f68f941cf89059d3fc798c1a4",
