@@ -129,6 +129,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:27:09",
       "updatedAt": "2026-06-15T08:27:09"
+    },
+    {
+      "id": "35aa463f68f941cf89059d3fc798c1a4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "Trung tâm Vận Hành",
+        "Họ và tên người sử dụng": "Nguyễn Kỳ Anh",
+        "Mã HRM": "00056381",
+        "Bộ phận / Phòng ban": "Trung tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SL-KTNV-ANHNK",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAY4",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "11.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.90",
+        "MAC Address": "F4:6B:8C:CC:B9:1E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T08:42:05",
+      "updatedAt": "2026-06-15T08:42:05"
     }
   ]
 }
