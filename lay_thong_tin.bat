@@ -4,7 +4,7 @@ chcp 65001 >nul 2>&1
 :: ─────────────────────────────────────────────────────────────────────────────
 :: VNPost Device Inventory – Thu thap thong tin may tinh
 :: Phien ban KHONG dung iex – tranh Kaspersky Adaptive Anomaly Control chan
-:: Web: https://nguyennam90.github.io/Check_thiet_bi/
+:: Web: https://vietxuanvnp-hash.github.io/qltb_sonla/
 :: ─────────────────────────────────────────────────────────────────────────────
 ::
 :: Kaspersky chan rule: "PowerShell script executes unknown dynamic code"
@@ -14,7 +14,7 @@ chcp 65001 >nul 2>&1
 :: ─────────────────────────────────────────────────────────────────────────────
 
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
- "$u='https://nguyennam90.github.io/Check_thiet_bi';" ^
+ "$u='https://vietxuanvnp-hash.github.io/qltb_sonla/';" ^
  "try{" ^
  "  $d=Join-Path $env:LOCALAPPDATA 'VNPost';" ^
  "  New-Item -ItemType Directory -Path $d -Force|Out-Null;" ^
