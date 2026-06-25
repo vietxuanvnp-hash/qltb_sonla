@@ -46,10 +46,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "$pk='HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*','HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*';" ^
  "$office=(Get-ItemProperty $pk -EA SilentlyContinue|Where-Object{$_.DisplayName -match 'Microsoft 365|Microsoft Office'}|Select-Object -First 1 -ExpandProperty DisplayName);" ^
  "$av=(Get-CimInstance -Namespace 'root\SecurityCenter2' -ClassName AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
-
 "Add-Type -AssemblyName System.Web;" ^
  "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
  "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '));" ^
-
 "Start-Process($u+'/?'+$q)"
 
