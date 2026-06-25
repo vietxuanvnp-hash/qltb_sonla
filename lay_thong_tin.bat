@@ -1,6 +1,7 @@
 @echo off
 chcp 65001 >nul
 setlocal EnableExtensions EnableDelayedExpansion
+
 echo Lay thong tin may tinh tu dong...
 
 set "HOSTNAME=%COMPUTERNAME%"
@@ -13,7 +14,6 @@ for /f "delims=" %%a in ('powershell -NoProfile -Command "[math]::Round(((Get-Ci
 for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_BIOS).SerialNumber"') do set "SERIAL=%%a"
 for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_OperatingSystem).Caption"') do set "OS=%%a"
 
-<<<<<<< HEAD
 for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-NetIPConfiguration | Where {$_.IPv4DefaultGateway} | Select -First 1 -Expand IPv4Address).IPAddress"') do set "IP=%%a"
 for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-NetIPConfiguration | Where {$_.IPv4DefaultGateway} | Select -First 1 -Expand NetAdapter).MacAddress"') do set "MAC=%%a"
 
@@ -35,4 +35,3 @@ powershell -NoProfile -Command "$d=@{hostname='%HOSTNAME%';cpu='%CPU%';hang='%HA
 echo Hoan tat.
 echo Hay Chon trinh duyet web de vao hoan thanh phieu..
 pause
-
