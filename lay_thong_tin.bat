@@ -35,3 +35,4 @@ powershell -NoProfile -Command "$d=@{hostname='%HOSTNAME%';cpu='%CPU%';hang='%HA
 echo Hoan tat.
 echo Hay Chon trinh duyet web de vao hoan thanh phieu..
 pause
+
