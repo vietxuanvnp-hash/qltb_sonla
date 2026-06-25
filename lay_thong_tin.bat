@@ -3,7 +3,6 @@ chcp 65001 >nul 2>&1
 
 :: ─────────────────────────────────────────────────────────────────────────────
 :: VNPost Device Inventory – Thu thap thong tin may tinh
-:: Phien ban KHONG dung iex – tranh Kaspersky chan
 :: Web: https://vietxuanvnp-hash.github.io/qltb_sonla/
 :: ─────────────────────────────────────────────────────────────────────────────
 
@@ -43,15 +42,26 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "$office=(Get-ItemProperty $pk -EA SilentlyContinue|Where-Object{$_.DisplayName -match 'Microsoft 365|Microsoft Office'}|Select-Object -First 1 -ExpandProperty DisplayName);" ^
  "$av=(Get-CimInstance -Namespace 'root\SecurityCenter2' -ClassName AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
 
-:: ================== LẤY LICENSE WINDOWS & OFFICE ==================
- "$winLic = try { (Get-WmiObject -Query \"SELECT LicenseStatus FROM SoftwareLicensingProduct WHERE Name like '%%Windows%%' and PartialProductKey is not null\" -EA SilentlyContinue | Select-Object -First 1).LicenseStatus; switch($winLic){0{'Unlicensed'};1{'Licensed'};default{'Unknown'}} } catch {'Unknown'};" ^
- "$offLic = try { if (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration' -EA SilentlyContinue) {'Licensed'} else {'Không có / Chưa phát hiện'} } catch {'Không có'};" ^
+:: ================== LẤY PRODUCT KEY WINDOWS & OFFICE ==================
+ "$winKey = try {" ^
+ "  $key = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform' -Name 'BackupProductKeyDefault' -EA SilentlyContinue).BackupProductKeyDefault;" ^
+ "  if(-not $key){ $key = 'Không tìm thấy' };" ^
+ "  $key" ^
+ "} catch { 'Không tìm thấy' };" ^
 
-:: Xây dựng URL + Mở web
+ "$offKey = try {" ^
+ "  $key = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration' -Name 'ProductKey' -EA SilentlyContinue).ProductKey;" ^
+ "  if(-not $key){ $key = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Office\16.0\Common\InstallRoot' -EA SilentlyContinue).ProductKey };" ^
+ "  if(-not $key){ $key = 'Không tìm thấy / Volume License' };" ^
+ "  $key" ^
+ "} catch { 'Không tìm thấy / Volume License' };" ^
+
+:: Xây dựng URL
  "Add-Type -AssemblyName System.Web;" ^
  "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
  "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())" ^
  "+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)" ^
  "+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '))" ^
- "+'&licenseWin='+(E $winLic)+'&licenseOff='+(E $offLic);" ^
+ "+'&licenseWin='+(E $winKey)+'&licenseOff='+(E $offKey);" ^
+
  "Start-Process($u+'/?'+$q)" 
