@@ -1,53 +1,51 @@
 @echo off
-chcp 65001 >nul 2>&1
+chcp 65001 >nul
+setlocal EnableExtensions EnableDelayedExpansion
 
-:: ─────────────────────────────────────────────────────────────────────────────
-:: VNPost Device Inventory – Thu thap thong tin may tinh
-:: Phien ban KHONG dung iex – tranh Kaspersky Adaptive Anomaly Control chan
-:: Web: https://nguyennam90.github.io/Check_thiet_bi/
-:: ─────────────────────────────────────────────────────────────────────────────
-::
-:: Kaspersky chan rule: "PowerShell script executes unknown dynamic code"
-:: Vi le do cu dung:  iex ((Get-Content '%~f0') -join [char]10)  <-- bi chan
-:: Giai phap moi:     powershell -Command "code tinh" ^           <-- khong bi chan
-::                    (toan bo code duoc viet thang, khong doc tu file luc chay)
-:: ─────────────────────────────────────────────────────────────────────────────
+echo Lay thong tin may tinh...
 
-powershell -NoProfile -ExecutionPolicy Bypass -Command ^
- "$u='https://nguyennam90.github.io/Check_thiet_bi';" ^
- "try{" ^
- "  $d=Join-Path $env:LOCALAPPDATA 'VNPost';" ^
- "  New-Item -ItemType Directory -Path $d -Force|Out-Null;" ^
- "  $s=$MyInvocation.MyCommand.Path;" ^
- "  if($s -and (Test-Path $s)){Copy-Item $s (Join-Path $d 'lay_thong_tin.bat') -Force};" ^
- "  $bat=Join-Path $d 'lay_thong_tin.bat';" ^
- "  $q34=[char]34;" ^
- "  $cv='cmd.exe /c start /min '+$q34+$q34+' '+$q34+$bat+$q34;" ^
- "  $rb='HKCU:\SOFTWARE\Classes\vnpost';" ^
- "  New-Item -Path $rb -Force|Out-Null;" ^
- "  Set-ItemProperty -Path $rb -Name '(Default)' -Value 'URL:VNPost Device Inventory';" ^
- "  Set-ItemProperty -Path $rb -Name 'URL Protocol' -Value '';" ^
- "  New-Item -Path ($rb+'\shell\open\command') -Force|Out-Null;" ^
- "  Set-ItemProperty -Path ($rb+'\shell\open\command') -Name '(Default)' -Value $cv" ^
- "}catch{};" ^
- "$cpu=(Get-CimInstance Win32_Processor|Select-Object -First 1).Name;" ^
- "$cs=Get-CimInstance Win32_ComputerSystem|Select-Object -First 1;" ^
- "$bios=Get-CimInstance Win32_BIOS|Select-Object -First 1;" ^
- "$os=Get-CimInstance Win32_OperatingSystem|Select-Object -First 1;" ^
- "$ds=Get-CimInstance Win32_LogicalDisk -Filter 'DriveType=3'|Measure-Object Size -Sum;" ^
- "$na=Get-CimInstance Win32_NetworkAdapterConfiguration|Where-Object{$_.IPEnabled}|Select-Object -First 1;" ^
- "$ram=[math]::Round($cs.TotalPhysicalMemory/1GB,1);" ^
- "$serial=$bios.SerialNumber.Trim();" ^
- "$gb=[math]::Round($ds.Sum/1GB,0);" ^
- "$osn=($os.Caption+' '+$os.Version).Trim();" ^
- "$ip=($na.IPAddress|Where-Object{$_ -notmatch ':'}|Select-Object -First 1);" ^
- "$mac=$na.MACAddress;" ^
- "$type=if($cs.PCSystemType-eq 2){'Laptop'}else{'Desktop'};" ^
- "$pk='HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*','HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*';" ^
- "$office=(Get-ItemProperty $pk -EA SilentlyContinue|Where-Object{$_.DisplayName -match 'Microsoft 365|Microsoft Office'}|Select-Object -First 1 -ExpandProperty DisplayName);" ^
- "$av=(Get-CimInstance -Namespace 'root\SecurityCenter2' -ClassName AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
-"Add-Type -AssemblyName System.Web;" ^
- "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
- "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '));" ^
-"Start-Process($u+'/?'+$q)"
+set "HOSTNAME=%COMPUTERNAME%"
+
+for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_Processor).Name"') do set "CPU=%%a"
+for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_ComputerSystem).Manufacturer"') do set "HANG=%%a"
+for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_ComputerSystem).Model"') do set "MODEL=%%a"
+for /f "delims=" %%a in ('powershell -NoProfile -Command "[math]::Round((Get-CimInstance Win32_ComputerSystem).TotalPhysicalMemory/1GB,2)"') do set "RAM=%%a GB"
+for /f "delims=" %%a in ('powershell -NoProfile -Command "[math]::Round(((Get-CimInstance Win32_DiskDrive|Measure-Object Size -Sum).Sum)/1GB,2)"') do set "DISK=%%a GB"
+for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_BIOS).SerialNumber"') do set "SERIAL=%%a"
+for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_OperatingSystem).Caption"') do set "OS=%%a"
+
+for /f "delims=" %%a in ('powershell -NoProfile -Command "Get-NetIPConfiguration | Where {$_.IPv4DefaultGateway} | Select -First 1 -Expand IPv4Address | Select -Expand IPAddress"') do set "IP=%%a"
+
+for /f "delims=" %%a in ('powershell -NoProfile -Command "Get-NetIPConfiguration | Where {$_.IPv4DefaultGateway} | Select -First 1 -Expand NetAdapter | Select -Expand MacAddress"') do set "MAC=%%a"
+
+if not defined IP set "IP=Khong tim thay"
+if not defined MAC set "MAC=Khong tim thay"
+
+for /f "delims=" %%a in ('powershell -NoProfile -Command "if(Test-Path ''HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration''){''Microsoft Office ClickToRun''} elseif(Test-Path ''HKLM:\SOFTWARE\Microsoft\Office''){''Microsoft Office''}"') do set "OFFICE=%%a"
+
+if not defined OFFICE set "OFFICE=Khong tim thay"
+
+for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance SoftwareLicensingService).OA3xOriginalProductKey"') do set "OEMKEY=%%a"
+
+if defined OEMKEY (
+set "LICENSEWIN=OEM Key: %OEMKEY%"
+) else (
+set "LICENSEWIN=Khong co OEM Key"
+)
+
+set "LICENSEOFF=Khong tim thay"
+
+for /f "delims=" %%a in ('powershell -NoProfile -Command "Get-ChildItem ''C:\Program Files'',''C:\Program Files (x86)'' -Filter ospp.vbs -Recurse -ErrorAction SilentlyContinue | Select -First 1 -Expand FullName"') do set "OSPP=%%a"
+
+if defined OSPP (
+for /f "delims=" %%a in ('cscript //nologo "%OSPP%" /dstatus ^| findstr /i "Last 5"') do set "LICENSEOFF=%%a"
+)
+
+set "URL=https://vietxuanvnp-hash.github.io/qltb_sonla"
+
+powershell -NoProfile -Command "$p=@{hostname='%HOSTNAME%';cpu='%CPU%';hang='%HANG%';model='%MODEL%';ram='%RAM%';disk='%DISK%';serial='%SERIAL%';os='%OS%';ip='%IP%';mac='%MAC%';loaiMay='May tinh';office='%OFFICE%';antivirus='Windows Defender';licenseWin='%LICENSEWIN%';licenseOff='%LICENSEOFF%'}; $q=$p.GetEnumerator()|ForEach-Object{$_.Key+'='+[uri]::EscapeDataString([string]$_.Value)}; Start-Process ('%URL%?' + ($q -join '&'))"
+
+echo Hoan tat.
+pause
+
 
