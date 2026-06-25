@@ -156,9 +156,6 @@ function isLongField(field) {
 }
 
 function fieldInputType(field) {
- if (field === "License Windows" || field === "License Office") {
-    return "select";
-  }
   if (/ngày|thời hạn kiểm định/i.test(field)) return "date";
   if (/năm sản xuất|năm sử dụng|counter/i.test(field)) return "number";
   return "text";
@@ -329,22 +326,6 @@ function renderFields(record = null) {
       const isReq = reqSet.has(field);
       const reqAttr = isReq ? " required" : "";
       const reqMark = isReq ? ` <span class="req-mark" title="Bắt buộc">*</span>` : "";
-   // ====Thêm logic render dropdown=====
-      if (field === "License Windows" || field === "License Office") {
-  const value = values[field] || "";
-  return `<label class="${wide}${isReq ? " is-required" : ""}">
-    <span>${escapeHtml(field)}${reqMark}</span>
-    <select class="input" name="${escapeHtml(field)}" id="${id}"${reqAttr}>
-      <option value="">-- Chọn --</option>
-      <option value="Licensed" ${value === "Licensed" ? "selected" : ""}>Licensed</option>
-      <option value="Unlicensed" ${value === "Unlicensed" ? "selected" : ""}>Unlicensed</option>
-      <option value="Volume License" ${value === "Volume License" ? "selected" : ""}>Volume License</option>
-      <option value="OEM" ${value === "OEM" ? "selected" : ""}>OEM</option>
-      <option value="Retail" ${value === "Retail" ? "selected" : ""}>Retail</option>
-      <option value="Không có" ${value === "Không có" ? "selected" : ""}>Không có</option>
-    </select>
-  </label>`;
-}
       if (isLongField(field)) {
         return `<label class="${wide}${isReq ? " is-required" : ""}">
           <span>${escapeHtml(field)}${reqMark}</span>
