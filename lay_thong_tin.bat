@@ -45,18 +45,21 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "$type=if($cs.PCSystemType-eq 2){'Laptop'}else{'Desktop'};" ^
  "$pk='HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*','HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*';" ^
  "$office=(Get-ItemProperty $pk -EA SilentlyContinue|Where-Object{$_.DisplayName -match 'Microsoft 365|Microsoft Office'}|Select-Object -First 1 -ExpandProperty DisplayName);" ^
-:: ================== LẤY LICENSE ==================
-for /f "delims=" %%a in ('powershell -NoProfile -Command ^
-"Get-WmiObject -Query \"SELECT Name, LicenseStatus FROM SoftwareLicensingProduct WHERE Name like '%%Windows%%' and PartialProductKey is not null\" ^| Select-Object -First 1 LicenseStatus"') do set WIN_LICENSE=%%a
-
-for /f "delims=" %%a in ('powershell -NoProfile -Command ^
-"if (Get-Command Get-OfficeLicense -ErrorAction SilentlyContinue) { Get-OfficeLicense } else { \"Office Not Detected\" }"') do set OFFICE_LICENSE=%%a
-
-if "%WIN_LICENSE%"=="1" set WIN_LICENSE=Licensed
-if "%WIN_LICENSE%"=="0" set WIN_LICENSE=Unlicensed
-:: ================================================
  "$av=(Get-CimInstance -Namespace 'root\SecurityCenter2' -ClassName AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
+ :: ================== LẤY LICENSE WINDOWS & OFFICE ==================
+ "$winLic = try { (Get-WmiObject -Query \"SELECT LicenseStatus FROM SoftwareLicensingProduct WHERE Name like '%%Windows%%' and PartialProductKey is not null\" -EA SilentlyContinue | Select-Object -First 1).LicenseStatus; switch($winLic){0{'Unlicensed'};1{'Licensed'};default{'Unknown'}} } catch {'Unknown'};" ^
+ "$offLic = try { if (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration' -EA SilentlyContinue) {'Licensed'} else {'Không có / Chưa phát hiện'} } catch {'Không có'};" ^
+
+:: Xây dựng URL
  "Add-Type -AssemblyName System.Web;" ^
+ "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
+ "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())" ^
+ "+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)" ^
+ "+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '))" ^
+
+:: ================== THÊM 2 TRƯỜNG LICENSE MỚI ==================
+ "+'&licenseWin='+(E $winLic)+'&licenseOff='+(E $offLic);" ^
+"Add-Type -AssemblyName System.Web;" ^
  "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
  "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '));" ^
  "Start-Process($u+'/?'+$q)"
