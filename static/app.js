@@ -38,7 +38,7 @@ function buildSchema() {
   const allSheets = [
     {
       id: "3. Máy Tính", name: "Máy Tính",
-      fields: ["STT","Mã Tỉnh","Tên Tỉnh","Mã BĐ Xã","Tên Xã","Mã Bưu cục","Tên Bưu cục","Họ và tên người sử dụng","Mã HRM","Bộ phận / Phòng ban","Mã vật tư","Số thẻ\n(Số mã trên phiếu kê tài sản)","Tên tài sản\n(Theo danh mục CCDC)","Tên máy (Hostname)","Loại máy","Hãng","Model","Năm sản xuất","Serial Number","CPU","RAM","Ổ cứng","Hệ điều hành","Office","Antivirus","IP Address","MAC Address","Nước sản xuất","Đơn vị bảo hành\n(Nhà cung cấp)","Năm sử dụng","Thời gian bảo hành (Còn/Hết)","Tình trạng"],
+      fields: ["STT","Mã Tỉnh","Tên Tỉnh","Mã BĐ Xã","Tên Xã","Mã Bưu cục","Tên Bưu cục","Họ và tên người sử dụng","Mã HRM","Bộ phận / Phòng ban","Mã vật tư","Số thẻ\n(Số mã trên phiếu kê tài sản)","Tên tài sản\n(Theo danh mục CCDC)","Tên máy (Hostname)","Loại máy","Hãng","Model","Năm sản xuất","Serial Number","CPU","RAM","Ổ cứng","Hệ điều hành","Office","License Windows","License Office","Antivirus","IP Address","MAC Address","Nước sản xuất","Đơn vị bảo hành\n(Nhà cung cấp)","Năm sử dụng","Thời gian bảo hành (Còn/Hết)","Tình trạng"],
     },
     {
       id: "4A. Máy In Laser", name: "Máy In Laser",
