@@ -1,7 +1,10 @@
 @echo off
 chcp 65001 >nul
 setlocal EnableExtensions EnableDelayedExpansion
+<<<<<<< HEAD
 
+=======
+>>>>>>> c795836 (Trien khai repo qltb_sonla)
 echo Lay thong tin may tinh tu dong...
 
 set "HOSTNAME=%COMPUTERNAME%"
