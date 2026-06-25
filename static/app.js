@@ -769,6 +769,9 @@ const URL_PARAM_MAP = {
   loaiMay:  "Loại máy",
   office:   "Office",
   antivirus: "Antivirus",
+  // === THÊM 2 TRƯỜNG MỚI ===
+  licenseWin:  "License Windows",
+  licenseOff:  "License Office"
 };
 
 function applyClientInventory(fields) {
