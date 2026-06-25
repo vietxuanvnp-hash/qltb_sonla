@@ -326,6 +326,15 @@ function renderFields(record = null) {
       const isReq = reqSet.has(field);
       const reqAttr = isReq ? " required" : "";
       const reqMark = isReq ? ` <span class="req-mark" title="Bắt buộc">*</span>` : "";
+      // ================== License Windows & Office - Input text thông thường ==================
+      if (field === "License Windows" || field === "License Office") {
+        return `<label class="${wide}${isReq ? " is-required" : ""}">
+          <span>${escapeHtml(field)}${reqMark}</span>
+          <input class="input" name="${escapeHtml(field)}" id="${id}" 
+                 type="text" value="${escapeHtml(value)}"${reqAttr} />
+        </label>`;
+      }
+      // ====================================================================================
       if (isLongField(field)) {
         return `<label class="${wide}${isReq ? " is-required" : ""}">
           <span>${escapeHtml(field)}${reqMark}</span>
