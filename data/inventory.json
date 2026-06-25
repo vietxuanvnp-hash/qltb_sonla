@@ -197,6 +197,45 @@
       ],
       "createdAt": "2026-06-16T02:04:50",
       "updatedAt": "2026-06-16T02:04:50"
+    },
+    {
+      "id": "d1fdd28fa8684be58e70aad84c9c98fd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "t1",
+        "Tên Xã": "t2",
+        "Mã Bưu cục": "t3",
+        "Tên Bưu cục": "t4",
+        "Họ và tên người sử dụng": "tt5",
+        "Mã HRM": "t6",
+        "Bộ phận / Phòng ban": "t7",
+        "Mã vật tư": "y8",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "May tinh",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "1234",
+        "Serial Number": "31M80T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "462.04 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro",
+        "Office": "",
+        "License Windows": "OEM Key: NXX68-CFDBK-X8RJP-4GK97-M4G4C",
+        "License Office": "Khong tim thay",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.88",
+        "MAC Address": "B8-85-84-AA-FB-79"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "test",
+          "serial": "12345"
+        }
+      ],
+      "createdAt": "2026-06-25T13:43:17",
+      "updatedAt": "2026-06-25T13:43:17"
     }
   ]
 }
