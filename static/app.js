@@ -156,6 +156,9 @@ function isLongField(field) {
 }
 
 function fieldInputType(field) {
+ if (field === "License Windows" || field === "License Office") {
+    return "select";
+  }
   if (/ngày|thời hạn kiểm định/i.test(field)) return "date";
   if (/năm sản xuất|năm sử dụng|counter/i.test(field)) return "number";
   return "text";
