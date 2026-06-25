@@ -4,11 +4,17 @@ chcp 65001 >nul 2>&1
 :: ─────────────────────────────────────────────────────────────────────────────
 :: VNPost Device Inventory – Thu thap thong tin may tinh
 :: Phien ban KHONG dung iex – tranh Kaspersky Adaptive Anomaly Control chan
-:: Web: https://vietxuanvnp-hash.github.io/qltb_sonla/
+:: Web: https://nguyennam90.github.io/Check_thiet_bi/
+:: ─────────────────────────────────────────────────────────────────────────────
+::
+:: Kaspersky chan rule: "PowerShell script executes unknown dynamic code"
+:: Vi le do cu dung:  iex ((Get-Content '%~f0') -join [char]10)  <-- bi chan
+:: Giai phap moi:     powershell -Command "code tinh" ^           <-- khong bi chan
+::                    (toan bo code duoc viet thang, khong doc tu file luc chay)
 :: ─────────────────────────────────────────────────────────────────────────────
 
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
- "$u='https://vietxuanvnp-hash.github.io/qltb_sonla/';" ^
+ "$u='https://nguyennam90.github.io/Check_thiet_bi';" ^
  "try{" ^
  "  $d=Join-Path $env:LOCALAPPDATA 'VNPost';" ^
  "  New-Item -ItemType Directory -Path $d -Force|Out-Null;" ^
@@ -40,7 +46,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "$pk='HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*','HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*';" ^
  "$office=(Get-ItemProperty $pk -EA SilentlyContinue|Where-Object{$_.DisplayName -match 'Microsoft 365|Microsoft Office'}|Select-Object -First 1 -ExpandProperty DisplayName);" ^
  "$av=(Get-CimInstance -Namespace 'root\SecurityCenter2' -ClassName AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
-"Add-Type -AssemblyName System.Web;" ^
+ "Add-Type -AssemblyName System.Web;" ^
  "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
  "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '));" ^
  "Start-Process($u+'/?'+$q)"
+
