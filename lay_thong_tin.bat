@@ -6,15 +6,9 @@ chcp 65001 >nul 2>&1
 :: Phien ban KHONG dung iex – tranh Kaspersky Adaptive Anomaly Control chan
 :: Web: https://vietxuanvnp-hash.github.io/qltb_sonla/
 :: ─────────────────────────────────────────────────────────────────────────────
-::
-:: Kaspersky chan rule: "PowerShell script executes unknown dynamic code"
-:: Vi le do cu dung:  iex ((Get-Content '%~f0') -join [char]10)  <-- bi chan
-:: Giai phap moi:     powershell -Command "code tinh" ^           <-- khong bi chan
-::                    (toan bo code duoc viet thang, khong doc tu file luc chay)
-:: ─────────────────────────────────────────────────────────────────────────────
 
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
- "$u='https://vietxuanvnp-hash.github.io/qltb_sonla';" ^
+ "$u='https://vietxuanvnp-hash.github.io/qltb_sonla/';" ^
  "try{" ^
  "  $d=Join-Path $env:LOCALAPPDATA 'VNPost';" ^
  "  New-Item -ItemType Directory -Path $d -Force|Out-Null;" ^
@@ -46,26 +40,16 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "$pk='HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*','HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*';" ^
  "$office=(Get-ItemProperty $pk -EA SilentlyContinue|Where-Object{$_.DisplayName -match 'Microsoft 365|Microsoft Office'}|Select-Object -First 1 -ExpandProperty DisplayName);" ^
  "$av=(Get-CimInstance -Namespace 'root\SecurityCenter2' -ClassName AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
- :: ================== LẤY PRODUCT KEY WINDOWS & OFFICE ==================
- "$winKey = try {" ^
- "  $key = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform' -Name 'BackupProductKeyDefault' -EA SilentlyContinue).BackupProductKeyDefault;" ^
- "  if(-not $key){ $key = 'Không tìm thấy' };" ^
- "  $key" ^
- "} catch { 'Không tìm thấy' };" ^
 
- "$offKey = try {" ^
- "  $key = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration' -Name 'ProductKey' -EA SilentlyContinue).ProductKey;" ^
- "  if(-not $key){ $key = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Office\16.0\Common\InstallRoot' -EA SilentlyContinue).ProductKey };" ^
- "  if(-not $key){ $key = 'Không tìm thấy / Volume License' };" ^
- "  $key" ^
- "} catch { 'Không tìm thấy / Volume License' };" ^
+:: ================== LẤY PRODUCT KEY WINDOWS & OFFICE ==================
+ "$winKey = try { (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform' -Name 'BackupProductKeyDefault' -EA SilentlyContinue).BackupProductKeyDefault } catch { 'Không tìm thấy' };" ^
+ "$offKey = try { (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Office\ClickToRun\Configuration' -Name 'ProductKey' -EA SilentlyContinue).ProductKey } catch { 'Không tìm thấy' };" ^
 
-:: Xây dựng URL
  "Add-Type -AssemblyName System.Web;" ^
  "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
- "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())" ^
- "+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)" ^
- "+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '))" ^
+ "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '))" ^
+
+:: ================== THÊM VÀO URL ==================
  "+'&licenseWin='+(E $winKey)+'&licenseOff='+(E $offKey);" ^
 
- "Start-Process($u+'/?'+$q)" 
+ "Start-Process($u+'/?'+$q)"
