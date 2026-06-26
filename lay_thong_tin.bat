@@ -3,7 +3,23 @@ chcp 65001 >nul
 setlocal EnableExtensions EnableDelayedExpansion
 
 echo Lay thong tin may tinh tu dong...
-
+powershell -NoProfile -ExecutionPolicy Bypass -Command ^
+ "$u='https://vietxuanvnp-hash.github.io/qltb_sonla';" ^
+ "try{" ^
+ "  $d=Join-Path $env:LOCALAPPDATA 'VNPost';" ^
+ "  New-Item -ItemType Directory -Path $d -Force|Out-Null;" ^
+ "  $s=$MyInvocation.MyCommand.Path;" ^
+ "  if($s -and (Test-Path $s)){Copy-Item $s (Join-Path $d 'lay_thong_tin.bat') -Force};" ^
+ "  $bat=Join-Path $d 'lay_thong_tin.bat';" ^
+ "  $q34=[char]34;" ^
+ "  $cv='cmd.exe /c start /min '+$q34+$q34+' '+$q34+$bat+$q34;" ^
+ "  $rb='HKCU:\SOFTWARE\Classes\vnpost';" ^
+ "  New-Item -Path $rb -Force|Out-Null;" ^
+ "  Set-ItemProperty -Path $rb -Name '(Default)' -Value 'URL:VNPost Device Inventory';" ^
+ "  Set-ItemProperty -Path $rb -Name 'URL Protocol' -Value '';" ^
+ "  New-Item -Path ($rb+'\shell\open\command') -Force|Out-Null;" ^
+ "  Set-ItemProperty -Path ($rb+'\shell\open\command') -Name '(Default)' -Value $cv" ^
+ "}catch{};" ^
 set "HOSTNAME=%COMPUTERNAME%"
 
 for /f "delims=" %%a in ('powershell -NoProfile -Command "(Get-CimInstance Win32_Processor).Name"') do set "CPU=%%a"
