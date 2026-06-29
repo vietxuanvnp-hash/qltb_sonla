@@ -263,6 +263,50 @@
       "attachments": [],
       "createdAt": "2026-06-29T09:02:08",
       "updatedAt": "2026-06-29T09:02:08"
+    },
+    {
+      "id": "cfa485b15b2a47c6ab4edf6a4861ef09",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3619",
+        "Tên Xã": "XÃ THUẬN CHÂU",
+        "Mã Bưu cục": "365700",
+        "Tên Bưu cục": "BƯU CỤC GIAO DỊCH TRUNG TÂM",
+        "Họ và tên người sử dụng": "LÒ THỊ NHÂM",
+        "Mã HRM": "00056714",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-GD2-HANG",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWH",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.16.121",
+        "MAC Address": "F4:6B:8C:CC:B9:DB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASER JET PRO 4003dn",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T09:18:43",
+      "updatedAt": "2026-06-29T09:18:43"
     }
   ]
 }
