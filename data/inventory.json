@@ -236,6 +236,39 @@
       ],
       "createdAt": "2026-06-25T13:43:17",
       "updatedAt": "2026-06-25T13:43:17"
+    },
+    {
+      "id": "3e7dc1bad0b3409fa4730115463ce58b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Thuận Châu",
+        "Mã Bưu cục": "3657",
+        "Tên Bưu cục": "Bưu cục Xã Thuận Châu",
+        "Họ và tên người sử dụng": "Lò Duy Hoàng",
+        "Mã HRM": "00056586",
+        "Bộ phận / Phòng ban": "Phòng Giám Đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TSQHUR5",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT009334365",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "License Windows": "OEM PYK9N-446C9-XK9KD-4P8TH-8HV8Y",
+        "License Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.16.12",
+        "MAC Address": "CC:28:AA:B2:3C:68"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T08:17:55",
+      "updatedAt": "2026-06-29T08:17:55"
     }
   ]
 }
