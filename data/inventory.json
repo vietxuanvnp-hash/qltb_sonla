@@ -230,6 +230,39 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:17:55",
       "updatedAt": "2026-06-29T08:17:55"
+    },
+    {
+      "id": "47becf8028e645ca811b7793b67a041e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3659",
+        "Tên Xã": "Thuận Châu",
+        "Mã Bưu cục": "365700",
+        "Tên Bưu cục": "Bưu điện xã Thuận Châu",
+        "Họ và tên người sử dụng": "Quàng Thị Vân Ly",
+        "Mã HRM": "00277606",
+        "Bộ phận / Phòng ban": "Bưu điện xã Thuận Châu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-KHOALT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11CS002KVE",
+        "Năm sản xuất": "",
+        "Serial Number": "PC2EPHAV",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.16.118",
+        "MAC Address": "04:7C:16:1E:C0:9B"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T09:02:08",
+      "updatedAt": "2026-06-29T09:02:08"
     }
   ]
 }
