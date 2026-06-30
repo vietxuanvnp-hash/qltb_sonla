@@ -501,6 +501,50 @@
       ],
       "createdAt": "2026-06-30T02:18:55",
       "updatedAt": "2026-06-30T02:18:55"
+    },
+    {
+      "id": "e7e5f21214d44906ac3bd1b5f32759ee",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Nậm Lầu",
+        "Mã Bưu cục": "366500",
+        "Tên Bưu cục": "Bưu điện xã Púng Tra",
+        "Họ và tên người sử dụng": "Lường Thị Loan",
+        "Mã HRM": "00076296",
+        "Bộ phận / Phòng ban": "điểm giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "J3MSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM 7NR46-YDG4W-HJ4T8-X9GM9-9HJV2",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.2.15",
+        "MAC Address": "A4:6B:B6:4C:36:9B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2021-08-20T04:33:36",
+      "updatedAt": "2021-08-20T04:33:36"
     }
   ]
 }
