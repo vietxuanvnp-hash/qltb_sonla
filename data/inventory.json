@@ -1745,6 +1745,39 @@
       "attachments": [],
       "createdAt": "2026-06-30T11:03:58",
       "updatedAt": "2026-06-30T11:03:58"
+    },
+    {
+      "id": "d1232eb3695946089b7af3c1d610721a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366160",
+        "Tên Bưu cục": "mường é",
+        "Họ và tên người sử dụng": "Lường Thị Nướn",
+        "Mã HRM": "00105454",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-ME-HAIQV",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434RY0P",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "514 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel J462D",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "C4:34:6B:4F:F8:F0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T11:15:19",
+      "updatedAt": "2026-06-30T11:15:19"
     }
   ]
 }
