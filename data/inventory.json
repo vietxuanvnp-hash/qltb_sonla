@@ -1615,6 +1615,39 @@
       ],
       "createdAt": "2026-06-30T09:29:08",
       "updatedAt": "2026-06-30T09:29:08"
+    },
+    {
+      "id": "f0fac5b91c8241218cf20fae8194ddfe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366210",
+        "Tên Bưu cục": "PHỔNG LẬP",
+        "Họ và tên người sử dụng": "LƯỜNG THỊ NƯỚN",
+        "Mã HRM": "00105454",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-PL-NUONL",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "E0:D5:5E:34:AC:5A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T09:37:25",
+      "updatedAt": "2026-06-30T09:37:25"
     }
   ]
 }
