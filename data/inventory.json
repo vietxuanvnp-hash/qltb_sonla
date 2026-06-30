@@ -788,6 +788,45 @@
       ],
       "createdAt": "2026-06-30T03:42:57",
       "updatedAt": "2026-06-30T03:42:57"
+    },
+    {
+      "id": "e40cc29ed1484f4980b75c408d3b4843",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3638",
+        "Tên Bưu cục": "Bưu điện xã Phù Yên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "00056627",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-PGD-HANT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWN",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.17.5",
+        "MAC Address": "F4:6B:8C:CC:B9:CC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother",
+          "serial": "HL-B2000D"
+        }
+      ],
+      "createdAt": "2026-06-30T04:00:40",
+      "updatedAt": "2026-06-30T04:00:40"
     }
   ]
 }
