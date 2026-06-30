@@ -716,6 +716,39 @@
       ],
       "createdAt": "2026-06-30T03:24:35",
       "updatedAt": "2026-06-30T03:24:35"
+    },
+    {
+      "id": "2d464f377e5a458c9e649a106f9b8069",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3645",
+        "Tên Bưu cục": "YÊN CHÂU",
+        "Họ và tên người sử dụng": "CẦM THỊ LIÊN HƯƠNG",
+        "Mã HRM": "00227975",
+        "Bộ phận / Phòng ban": "PHÒNG TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HUONGCTL-3645",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT00925936C",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM P4D39-PWN8G-YH3GD-6KJD2-CKCTB",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.14.66",
+        "MAC Address": "CC:28:AA:B2:39:D3"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T03:30:31",
+      "updatedAt": "2026-06-30T03:30:31"
     }
   ]
 }
