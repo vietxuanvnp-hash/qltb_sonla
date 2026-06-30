@@ -1184,6 +1184,45 @@
       "attachments": [],
       "createdAt": "2026-06-30T07:58:27",
       "updatedAt": "2026-06-30T07:58:27"
+    },
+    {
+      "id": "5032270f2dfe492cb98c527b87b3bb90",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3632",
+        "Tên Xã": "Bắc Yên",
+        "Mã Bưu cục": "364300",
+        "Tên Bưu cục": "Bắc Yên",
+        "Họ và tên người sử dụng": "Đào Thị Thu Trang",
+        "Mã HRM": "00056912",
+        "Bộ phận / Phòng ban": "KSV quầy giáo dịch Bắc Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-N6Q43A6",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11CS002KVE",
+        "Năm sản xuất": "",
+        "Serial Number": "PC2EPHC7",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.19.17",
+        "MAC Address": "04:7C:16:1E:BD:FC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T08:11:35",
+      "updatedAt": "2026-06-30T08:11:35"
     }
   ]
 }
