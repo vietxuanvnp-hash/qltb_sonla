@@ -970,6 +970,55 @@
       ],
       "createdAt": "2026-06-30T07:04:47",
       "updatedAt": "2026-06-30T07:04:47"
+    },
+    {
+      "id": "f1b164ac94c24ec5a52f2ca34222f231",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Mai Sơn",
+        "Tên Xã": "Mai Sơn",
+        "Mã Bưu cục": "361500",
+        "Tên Bưu cục": "Bưu cục Trung Tâm",
+        "Họ và tên người sử dụng": "Phạm Thuỳ Dương",
+        "Mã HRM": "00087200",
+        "Bộ phận / Phòng ban": "Bưu cục Trung Tâm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-GDTT5",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "585 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.23.13",
+        "MAC Address": "E0:D5:5E:13:92:4B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA  ZD620",
+          "serial": "D3J183401728"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "20213010558434"
+        }
+      ],
+      "createdAt": "2026-06-30T07:31:33",
+      "updatedAt": "2026-06-30T07:31:33"
     }
   ]
 }
