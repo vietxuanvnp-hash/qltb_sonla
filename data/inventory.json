@@ -379,6 +379,45 @@
       "attachments": [],
       "createdAt": "2026-06-30T01:19:39",
       "updatedAt": "2026-06-30T01:19:39"
+    },
+    {
+      "id": "9c4680f0f1de49399d2dba135d43cda4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366800",
+        "Tên Bưu cục": "Sông Mã",
+        "Họ và tên người sử dụng": "Đào Lâm Phương",
+        "Mã HRM": "00056488",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-PHUONGDL",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWY",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.103",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser jet pro m203dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T01:38:54",
+      "updatedAt": "2026-06-30T01:38:54"
     }
   ]
 }
