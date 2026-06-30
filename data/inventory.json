@@ -1489,6 +1489,50 @@
       "attachments": [],
       "createdAt": "2026-06-30T08:45:31",
       "updatedAt": "2026-06-30T08:45:31"
+    },
+    {
+      "id": "3be1c329c2924fe3a5d56dec615cd1f6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Thuận Châu",
+        "Mã Bưu cục": "365780",
+        "Tên Bưu cục": "Bưu điện văn hóa xã Thôm Mòn",
+        "Họ và tên người sử dụng": "Lường Thị Thiệm",
+        "Mã HRM": "00056851",
+        "Bộ phận / Phòng ban": "Điểm văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-S7BQTM4",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LXV",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM CN8MC-GFTBH-KR49V-7VJ34-BY6P3",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "F8:ED:FC:6A:70:DB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T08:46:18",
+      "updatedAt": "2026-06-30T08:46:18"
     }
   ]
 }
