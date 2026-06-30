@@ -672,6 +672,50 @@
       ],
       "createdAt": "2026-06-30T03:19:49",
       "updatedAt": "2026-06-30T03:19:49"
+    },
+    {
+      "id": "b8e5ee73649941489026e1d3c2293686",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Muổi Nọi",
+        "Mã Bưu cục": "365916",
+        "Tên Bưu cục": "Bưu điện xã Muổi Nọi",
+        "Họ và tên người sử dụng": "Nguyễn Thị Tuyết",
+        "Mã HRM": "0056811",
+        "Bộ phận / Phòng ban": "Điểm giao dịch xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-MN-LALV",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434RXTP",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "580 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "40:A8:F0:65:99:8C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T03:24:35",
+      "updatedAt": "2026-06-30T03:24:35"
     }
   ]
 }
