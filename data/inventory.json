@@ -1058,6 +1058,50 @@
       ],
       "createdAt": "2026-06-30T07:34:12",
       "updatedAt": "2026-06-30T07:34:12"
+    },
+    {
+      "id": "97ee43f4886d4c6ba0c1c6617a0a7cee",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3632",
+        "Tên Xã": "Bắc Yên",
+        "Mã Bưu cục": "364300",
+        "Tên Bưu cục": "Bắc Yên",
+        "Họ và tên người sử dụng": "Đào Thị Thu Trang",
+        "Mã HRM": "0056912",
+        "Bộ phận / Phòng ban": "Phòng giao dịch Bắc Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-BY-GDTT-TRA",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAY3",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "10.27.19.15",
+        "MAC Address": "F4:6B:8C:CC:B9:B5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "honeywell",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T07:36:43",
+      "updatedAt": "2026-06-30T07:36:43"
     }
   ]
 }
