@@ -1681,6 +1681,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T10:48:21",
       "updatedAt": "2026-06-30T10:48:21"
+    },
+    {
+      "id": "d73fc27852734f25b56514cae2d0ef83",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "367340",
+        "Tên Xã": "xã Bó sinh, Sơn La",
+        "Mã Bưu cục": "367340",
+        "Tên Bưu cục": "BĐ VHX Bó Sinh",
+        "Họ và tên người sử dụng": "Bạc Cầm Núi",
+        "Mã HRM": "00056732",
+        "Bộ phận / Phòng ban": "Bản Phống 2",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "máy in",
+        "Khổ giấy": "",
+        "Hãng": "Hp LaserJet P2035",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T10:55:04",
+      "updatedAt": "2026-06-30T10:55:04"
     }
   ]
 }
