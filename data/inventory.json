@@ -1373,6 +1373,50 @@
       ],
       "createdAt": "2026-06-30T08:24:00",
       "updatedAt": "2026-06-30T08:24:00"
+    },
+    {
+      "id": "79700af318f44ca3b25e81d8d44b9855",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Thuận Châu",
+        "Mã Bưu cục": "365811",
+        "Tên Bưu cục": "Bưu điện văn hóa xã Tông Lạnh",
+        "Họ và tên người sử dụng": "Lò Thị Linh",
+        "Mã HRM": "00076047",
+        "Bộ phận / Phòng ban": "điểm giao dịch xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-TL-LINHL",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S15R",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "580 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "C4:34:6B:4F:F8:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T08:31:11",
+      "updatedAt": "2026-06-30T08:31:11"
     }
   ]
 }
