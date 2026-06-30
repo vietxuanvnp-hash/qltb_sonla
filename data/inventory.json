@@ -827,6 +827,39 @@
       ],
       "createdAt": "2026-06-30T04:00:40",
       "updatedAt": "2026-06-30T04:00:40"
+    },
+    {
+      "id": "2a774f1ed7a84bbea69103f481e613bf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363810",
+        "Tên Bưu cục": "BĐ VHX TÂN LANG",
+        "Họ và tên người sử dụng": "SA THỊ MY",
+        "Mã HRM": "00218231",
+        "Bộ phận / Phòng ban": "nhân viên vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-J9P6PAR",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221N5",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM JQNTG-XXCX8-7BHF2-JQ9MW-RX9C3",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "10:B6:76:9E:22:C6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T04:40:17",
+      "updatedAt": "2026-06-30T04:40:17"
     }
   ]
 }
