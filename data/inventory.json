@@ -1102,6 +1102,55 @@
       ],
       "createdAt": "2026-06-30T07:36:43",
       "updatedAt": "2026-06-30T07:36:43"
+    },
+    {
+      "id": "9abbfb97a52046ccb00494a78ac5e660",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003652",
+        "Tên Xã": "Chiềng Mung",
+        "Mã Bưu cục": "361810",
+        "Tên Bưu cục": "Nà sản",
+        "Họ và tên người sử dụng": "Lò Văn Cương",
+        "Mã HRM": "00277608",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-NS-THU",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LXW",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM JV8NW-8XG89-GFDPT-DCW4Q-GF4TQ",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "F8:ED:FC:6A:70:DC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": "1"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "1"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-30T07:42:56",
+      "updatedAt": "2026-06-30T07:42:56"
     }
   ]
 }
