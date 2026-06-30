@@ -926,6 +926,50 @@
       "attachments": [],
       "createdAt": "2026-06-30T05:12:22",
       "updatedAt": "2026-06-30T05:12:22"
+    },
+    {
+      "id": "c6b5ca8285194903b573b1ac92a4388f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3657",
+        "Tên Xã": "THUẬN CHÂU",
+        "Mã Bưu cục": "365810",
+        "Tên Bưu cục": "BƯU CỤC CHIỀNG PẤC",
+        "Họ và tên người sử dụng": "QUÀNG THỊ NINH",
+        "Mã HRM": "00260970",
+        "Bộ phận / Phòng ban": "QUẦY GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-CP-02",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWQ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "246 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "192.168.1.112",
+        "MAC Address": "F4:6B:8C:CC:B8:E9"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": "PC45D"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-30T07:04:47",
+      "updatedAt": "2026-06-30T07:04:47"
     }
   ]
 }
