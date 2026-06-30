@@ -1648,6 +1648,39 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:37:25",
       "updatedAt": "2026-06-30T09:37:25"
+    },
+    {
+      "id": "03ff1edb96ba4ad18b3cc75b51361235",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "367340",
+        "Tên Xã": "xã Bó sinh, Sơn La",
+        "Mã Bưu cục": "367340",
+        "Tên Bưu cục": "BĐ VHX Bó Sinh",
+        "Họ và tên người sử dụng": "Bạc Cầm Núi",
+        "Mã HRM": "00056732",
+        "Bộ phận / Phòng ban": "Bản Phống 2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-BS",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAX5",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "F4:6B:8C:CC:BA:4F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T10:48:21",
+      "updatedAt": "2026-06-30T10:48:21"
     }
   ]
 }
