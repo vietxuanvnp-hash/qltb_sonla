@@ -860,6 +860,39 @@
       "attachments": [],
       "createdAt": "2026-06-30T04:40:17",
       "updatedAt": "2026-06-30T04:40:17"
+    },
+    {
+      "id": "7d4155a7ec264ea9ac18713dc3c1b61a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363770",
+        "Tên Bưu cục": "VHX MƯỜNG DO",
+        "Họ và tên người sử dụng": "Lê Văn Hiệp",
+        "Mã HRM": "00072974",
+        "Bộ phận / Phòng ban": "bưu điện xã mường bang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-MUONGDO",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221XY",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office 365 - en-us",
+        "License Windows": "OEM NM8DF-D83HB-DG7P2-787VF-FC223",
+        "License Office": "Microsoft Office 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "10:B6:76:9E:22:19"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T04:46:15",
+      "updatedAt": "2026-06-30T04:46:15"
     }
   ]
 }
