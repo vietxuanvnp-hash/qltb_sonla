@@ -346,6 +346,39 @@
       ],
       "createdAt": "2026-06-30T01:18:22",
       "updatedAt": "2026-06-30T01:18:22"
+    },
+    {
+      "id": "1d6b986128394d75950e3ad90e8e51b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3663",
+        "Tên Xã": "Xã Sông Mã",
+        "Mã Bưu cục": "3663",
+        "Tên Bưu cục": "BC Xã Sông Mã",
+        "Họ và tên người sử dụng": "Bùi Văn Nam",
+        "Mã HRM": "00071385",
+        "Bộ phận / Phòng ban": "NV Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-KD-NAMBD",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "0",
+        "Serial Number": "S9PFWT00933136C",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "OEM BV97C-DCN2T-3FPRD-RTRFT-VCFJY",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.18.11",
+        "MAC Address": "CC:28:AA:B2:3B:3E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T01:19:39",
+      "updatedAt": "2026-06-30T01:19:39"
     }
   ]
 }
