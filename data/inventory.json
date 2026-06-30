@@ -1295,6 +1295,45 @@
       ],
       "createdAt": "2026-06-30T08:18:00",
       "updatedAt": "2026-06-30T08:18:00"
+    },
+    {
+      "id": "6f72f68349fc495e9598b8a6fd6a9ed3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3632",
+        "Tên Xã": "BẮC YÊN",
+        "Mã Bưu cục": "364300",
+        "Tên Bưu cục": "BẮC YÊN",
+        "Họ và tên người sử dụng": "ĐINH VĂN CỨU",
+        "Mã HRM": "00263250",
+        "Bộ phận / Phòng ban": "THỦ QUỸ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-BY-TQ-HIENT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11CS002KVE",
+        "Năm sản xuất": "",
+        "Serial Number": "PC2EPHDM",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.19.60",
+        "MAC Address": "04:7C:16:1E:BD:DC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp laser jet p2035",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T08:18:41",
+      "updatedAt": "2026-06-30T08:18:41"
     }
   ]
 }
