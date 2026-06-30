@@ -1456,6 +1456,39 @@
       ],
       "createdAt": "2026-06-30T08:41:07",
       "updatedAt": "2026-06-30T08:41:07"
+    },
+    {
+      "id": "ac4f655c243e4b159bb2232dfaf334a5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362470",
+        "Tên Bưu cục": "BĐX CHIỀNG HẶC",
+        "Họ và tên người sử dụng": "HOÀNG THANH GIANG",
+        "Mã HRM": "00105429",
+        "Bộ phận / Phòng ban": "BĐT SƠN LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-AR32KN2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221WS",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM JMM2N-9VD8Y-Y8KC2-C4CXV-CYVKD",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "10:B6:76:9E:C6:11"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T08:45:31",
+      "updatedAt": "2026-06-30T08:45:31"
     }
   ]
 }
