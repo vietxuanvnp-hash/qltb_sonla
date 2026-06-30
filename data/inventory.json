@@ -462,6 +462,45 @@
       ],
       "createdAt": "2026-06-30T02:12:01",
       "updatedAt": "2026-06-30T02:12:01"
+    },
+    {
+      "id": "d1ea0f20f7804802a64564c34cb138b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3609",
+        "Tên Xã": "Văn phòng BĐT Sơn La",
+        "Mã Bưu cục": "361066",
+        "Tên Bưu cục": "Tỉnh Sơn La",
+        "Họ và tên người sử dụng": "PHẠM DUY TÙNG",
+        "Mã HRM": "00231471",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TUNGPD-TCKH",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT00932836A",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise 10.0.26200",
+        "Office": "Microsoft 365 - vi-vn",
+        "License Windows": "OEM VGMX8-N3Y8J-JJ9Y9-QXB4R-7H7CM",
+        "License Office": "Microsoft 365 - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.157.52",
+        "MAC Address": "CC:28:AA:B2:3B:23"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Máy in Canon - LBP243dw",
+          "serial": "PCFA013145"
+        }
+      ],
+      "createdAt": "2026-06-30T02:18:55",
+      "updatedAt": "2026-06-30T02:18:55"
     }
   ]
 }
