@@ -1019,6 +1019,45 @@
       ],
       "createdAt": "2026-06-30T07:31:33",
       "updatedAt": "2026-06-30T07:31:33"
+    },
+    {
+      "id": "32b4c1736739499b9d16b0c2585de8b9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3650",
+        "Tên Xã": "Mai Sơn",
+        "Mã Bưu cục": "361500",
+        "Tên Bưu cục": "Bưu cục trung tâm",
+        "Họ và tên người sử dụng": "Vì Thị Thanh Kiều",
+        "Mã HRM": "00056406",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-KSV-KIEU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3670",
+        "Năm sản xuất": "",
+        "Serial Number": "JMZ41H2",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.23.35",
+        "MAC Address": "8C:EC:4B:A4:D0:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": "NMYA530038"
+        }
+      ],
+      "createdAt": "2026-06-30T07:34:12",
+      "updatedAt": "2026-06-30T07:34:12"
     }
   ]
 }
