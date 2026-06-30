@@ -307,6 +307,45 @@
       ],
       "createdAt": "2026-06-29T09:18:43",
       "updatedAt": "2026-06-29T09:18:43"
+    },
+    {
+      "id": "52f10f7c257a47e68562295103628784",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3624",
+        "Tên Xã": "Xã Yên Châu",
+        "Mã Bưu cục": "362400",
+        "Tên Bưu cục": "Bưu điện xã Yên Châu",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương",
+        "Mã HRM": "00227986",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-YC-KD-HUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434RYG5",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "520 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.14.72",
+        "MAC Address": "A0:D3:C1:15:3A:45"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "SHARP AR-6023NV",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T01:18:22",
+      "updatedAt": "2026-06-30T01:18:22"
     }
   ]
 }
