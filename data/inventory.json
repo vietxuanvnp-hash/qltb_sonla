@@ -1153,48 +1153,37 @@
       "updatedAt": "2026-06-30T07:42:56"
     },
     {
-      "id": "41883d66d94743768b5a32a56244cc55",
+      "id": "f7973f414f7b41fc9bd0d3234443bfb5",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "367700",
-        "Tên Bưu cục": "Bưu Điện Xã Sốp Cộp",
-        "Họ và tên người sử dụng": "Nguyễn Mai Linh",
-        "Mã HRM": "00270836",
-        "Bộ phận / Phòng ban": "Nhân Viên Kinh Doanh tại điểm phục vụ",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "SLA-SC-GD-02",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11SYS0T500",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "YLT0AAX6",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
-        "RAM": "3.7 GB",
-        "Ổ cứng": "239 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
-        "License Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.27.15.206",
-        "MAC Address": "F4:6B:8C:CC:B9:1D"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "Intermec PC43d",
-          "serial": ""
-        },
-        {
-          "type": "photocopier",
-          "name": "Brother",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-30T07:58:24",
-      "updatedAt": "2026-06-30T07:58:24"
+      "attachments": [],
+      "createdAt": "2026-06-30T07:58:27",
+      "updatedAt": "2026-06-30T07:58:27"
     }
   ]
 }
