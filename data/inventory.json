@@ -633,6 +633,45 @@
       ],
       "createdAt": "2026-06-30T03:04:28",
       "updatedAt": "2026-06-30T03:04:28"
+    },
+    {
+      "id": "48440e7e1b804e2d873744cd43e36fe7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "364510",
+        "Tên Xã": "Xã tạ khoa",
+        "Mã Bưu cục": "34616",
+        "Tên Bưu cục": "Tạ khoa",
+        "Họ và tên người sử dụng": "Quàng Thị Tuyết",
+        "Mã HRM": "00109626",
+        "Bộ phận / Phòng ban": "Giám đốc Bưu điện xã Tạ khoa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-BY-MK-TUYET",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXL",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F4:6B:8C:CC:B8:DB"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T03:19:49",
+      "updatedAt": "2026-06-30T03:19:49"
     }
   ]
 }
