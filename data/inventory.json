@@ -2061,6 +2061,45 @@
       ],
       "createdAt": "2026-07-01T08:31:57",
       "updatedAt": "2026-07-01T08:31:57"
+    },
+    {
+      "id": "845a3297b7704824ab6cf7a4039922df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3632",
+        "Tên Xã": "Bắc Yên",
+        "Mã Bưu cục": "364450",
+        "Tên Bưu cục": "Pắc Ngà",
+        "Họ và tên người sử dụng": "Vì Thị Quế",
+        "Mã HRM": "00257817",
+        "Bộ phận / Phòng ban": "Bưu điện VHX Pắc Ngà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-BY-HN-GIANG",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11CS002KVE",
+        "Năm sản xuất": "",
+        "Serial Number": "PC2EPHBQ",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "70:32:17:34:AC:6F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother HB-2000D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T09:05:24",
+      "updatedAt": "2026-07-01T09:05:24"
     }
   ]
 }
