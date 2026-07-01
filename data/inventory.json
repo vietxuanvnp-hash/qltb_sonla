@@ -1939,6 +1939,45 @@
       ],
       "createdAt": "2026-07-01T01:57:32",
       "updatedAt": "2026-07-01T01:57:32"
+    },
+    {
+      "id": "c1d10f4c711d41218192225927cd4f0a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3633",
+        "Tên Xã": "Tà Xùa",
+        "Mã Bưu cục": "364399",
+        "Tên Bưu cục": "Làng Chếu",
+        "Họ và tên người sử dụng": "Hạng A Nếnh",
+        "Mã HRM": "00258100",
+        "Bộ phận / Phòng ban": "VHX Làng Chếu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "GLHSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "OEM Q84RY-BN2C7-X27K8-VFB6Q-8K8V2",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.20",
+        "MAC Address": "B0:7B:25:11:1E:85"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother HL -B2000D",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T02:41:31",
+      "updatedAt": "2026-07-01T02:41:31"
     }
   ]
 }
