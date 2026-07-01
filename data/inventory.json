@@ -1817,6 +1817,45 @@
       ],
       "createdAt": "2026-06-30T11:15:27",
       "updatedAt": "2026-06-30T11:15:27"
+    },
+    {
+      "id": "b1682f79965f49b3805c50ca28393ed8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3633",
+        "Tên Xã": "Tà Xùa",
+        "Mã Bưu cục": "364430",
+        "Tên Bưu cục": "Xím Vàng",
+        "Họ và tên người sử dụng": "Giàng A Chư",
+        "Mã HRM": "00056909",
+        "Bộ phận / Phòng ban": "Điểm Bưu điện xã Xím Vàng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXA",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.115.180",
+        "MAC Address": "64:D6:9A:E3:82:7B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T01:13:24",
+      "updatedAt": "2026-07-01T01:13:24"
     }
   ]
 }
