@@ -1856,6 +1856,45 @@
       ],
       "createdAt": "2026-07-01T01:13:24",
       "updatedAt": "2026-07-01T01:13:24"
+    },
+    {
+      "id": "be243ceccbb64b31a0e29a1b393f4ea5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3660",
+        "Tên Xã": "xã chiềng khoong",
+        "Mã Bưu cục": "366910",
+        "Tên Bưu cục": "Mường cai",
+        "Họ và tên người sử dụng": "Lò văn pâng",
+        "Mã HRM": "00242926",
+        "Bộ phận / Phòng ban": "Văn hóa mường cai xã chiềng khoong tỉnh sơn la",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-MCAI",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7788",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2020 @ 2.90GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "234 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "D8:CB:8A:C4:C0:D3"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T01:52:15",
+      "updatedAt": "2026-07-01T01:52:15"
     }
   ]
 }
