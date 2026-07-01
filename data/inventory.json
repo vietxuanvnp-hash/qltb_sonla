@@ -1895,6 +1895,50 @@
       ],
       "createdAt": "2026-07-01T01:52:15",
       "updatedAt": "2026-07-01T01:52:15"
+    },
+    {
+      "id": "41084d76f8d2406c9f2115d648294415",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3632",
+        "Tên Xã": "Bắc Yên",
+        "Mã Bưu cục": "364571",
+        "Tên Bưu cục": "Song Pe",
+        "Họ và tên người sử dụng": "Hà Văn Thức",
+        "Mã HRM": "00056893",
+        "Bộ phận / Phòng ban": "Điểm VHX Song Pe",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NHUR1P3",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "17YSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "License Windows": "OEM QR969-NGVYT-C298C-TCMRH-46YMP",
+        "License Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "A4:6B:B6:4B:3F:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T01:57:32",
+      "updatedAt": "2026-07-01T01:57:32"
     }
   ]
 }
