@@ -1978,6 +1978,50 @@
       ],
       "createdAt": "2026-07-01T02:41:31",
       "updatedAt": "2026-07-01T02:41:31"
+    },
+    {
+      "id": "77a2bfe22bf8417baf84fc992e141157",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3633",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Tà Xùa",
+        "Tên Bưu cục": "Tà Xùa",
+        "Họ và tên người sử dụng": "Hạng Thị Kênh",
+        "Mã HRM": "00248831",
+        "Bộ phận / Phòng ban": "Bưu điện VHX Tà Xùa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-BY-TX-KENHT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11CS002KVE",
+        "Năm sản xuất": "",
+        "Serial Number": "PC2EPHCL",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "70:32:17:34:B4:BC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon lbp2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter xp-58iib",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T08:06:07",
+      "updatedAt": "2026-07-01T08:06:07"
     }
   ]
 }
