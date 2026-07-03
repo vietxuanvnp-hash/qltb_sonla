@@ -72,10 +72,10 @@
       "id": "3a08461d6454485d8fac0640decfe163",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "36",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "Bưu điện tỉnh",
+        "Mã Bưu cục": "361316",
+        "Tên Bưu cục": "Trung tâm vận hành",
         "Họ và tên người sử dụng": "Hoàng Anh Tuấn",
         "Mã HRM": "00056369",
         "Bộ phận / Phòng ban": "TTVH",
@@ -91,13 +91,15 @@
         "Ổ cứng": "2222 GB",
         "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
         "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "License Windows": "",
+        "License Office": "",
         "Antivirus": "Windows Defender",
         "IP Address": "10.27.39.101",
         "MAC Address": "9C:6B:00:07:57:7C"
       },
       "attachments": [],
       "createdAt": "2026-06-15T08:26:29",
-      "updatedAt": "2026-06-15T08:26:29"
+      "updatedAt": "2026-07-03T07:54:27"
     },
     {
       "id": "577ab205c3a84e95a27dbdc1b5b26c4f",
