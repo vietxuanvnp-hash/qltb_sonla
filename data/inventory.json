@@ -2115,11 +2115,11 @@
       "fields": {
         "Mã BĐ Xã": "36",
         "Tên Xã": "Bưu điện tỉnh",
-        "Mã Bưu cục": "360000",
-        "Tên Bưu cục": "Văn phòng",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Hà Quang Trung",
         "Mã HRM": "00056367",
-        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành Chính",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "TRUNG_PC",
         "Loại máy": "Desktop",
@@ -2140,7 +2140,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-13T04:08:15",
-      "updatedAt": "2026-07-13T04:08:15"
+      "updatedAt": "2026-07-13T04:28:12"
     },
     {
       "id": "b7ace1a548a041589b20b79f9f704b3e",
