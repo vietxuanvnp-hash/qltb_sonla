@@ -2252,6 +2252,45 @@
       "attachments": [],
       "createdAt": "2026-07-13T07:22:16",
       "updatedAt": "2026-07-13T07:22:16"
+    },
+    {
+      "id": "318842c0307944e698d37022f01d8513",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "TTVH",
+        "Tên Bưu cục": "TTVH",
+        "Họ và tên người sử dụng": "Bùi Ngọc Yến",
+        "Mã HRM": "00056387",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-KTNV-YENNB",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "M52AD_M12AD_A_F_K31AD",
+        "Năm sản xuất": "",
+        "Serial Number": "F9PDCG003SR2",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "9.9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "",
+        "IP Address": "10.27.39.87",
+        "MAC Address": "30:5A:3A:77:C8:F7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-13T09:53:04",
+      "updatedAt": "2026-07-13T09:53:04"
     }
   ]
 }
