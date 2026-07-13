@@ -2174,12 +2174,12 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "",
+          "name": "Canon LPB226dw",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-13T04:09:31",
-      "updatedAt": "2026-07-13T04:09:31"
+      "updatedAt": "2026-07-13T04:18:17"
     }
   ]
 }
