@@ -2074,10 +2074,10 @@
       "id": "71c59f85587e474f84d97ba5ad49e4bc",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "Bưu điện tỉnh Sơn La",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "Bưu điện tỉnh",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
         "Mã HRM": "00056919",
         "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
@@ -2107,7 +2107,7 @@
         }
       ],
       "createdAt": "2026-07-13T03:54:05",
-      "updatedAt": "2026-07-13T04:10:56"
+      "updatedAt": "2026-07-13T04:29:22"
     },
     {
       "id": "a8b961b7ce3d460da19c88942612ef80",
