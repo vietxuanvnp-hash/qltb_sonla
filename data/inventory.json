@@ -167,9 +167,9 @@
       "id": "592d10c227ff4d26b9e11f1b115f2478",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "36",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "Bưu điện tỉnh",
+        "Mã Bưu cục": "3611",
         "Tên Bưu cục": "Trung tâm Vận hành Sơn La",
         "Họ và tên người sử dụng": "Nguyễn Thị Hải Hà",
         "Mã HRM": "00056383",
@@ -186,6 +186,8 @@
         "Ổ cứng": "1050 GB",
         "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
         "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "",
+        "License Office": "",
         "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
         "IP Address": "10.27.39.93",
         "MAC Address": "E4:54:E8:B7:F4:75"
@@ -198,7 +200,7 @@
         }
       ],
       "createdAt": "2026-06-16T02:04:50",
-      "updatedAt": "2026-06-16T02:04:50"
+      "updatedAt": "2026-07-13T04:36:30"
     },
     {
       "id": "3e7dc1bad0b3409fa4730115463ce58b",
