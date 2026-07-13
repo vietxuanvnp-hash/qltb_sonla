@@ -109,8 +109,8 @@
       "fields": {
         "Mã BĐ Xã": "36",
         "Tên Xã": "Bưu điện tỉnh Sơn La",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "Bưu điện tỉnh Sơn La",
+        "Mã Bưu cục": "3611",
+        "Tên Bưu cục": "Trung tâm vận hành",
         "Họ và tên người sử dụng": "Lê Tuấn Anh",
         "Mã HRM": "00235865",
         "Bộ phận / Phòng ban": "Trung tâm vận hành",
@@ -126,13 +126,15 @@
         "Ổ cứng": "237 GB",
         "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
         "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "",
+        "License Office": "",
         "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
         "IP Address": "192.168.168.110",
         "MAC Address": "F4:6B:8C:CC:B9:C2"
       },
       "attachments": [],
       "createdAt": "2026-06-15T08:27:09",
-      "updatedAt": "2026-06-15T08:42:43"
+      "updatedAt": "2026-07-13T04:37:56"
     },
     {
       "id": "35aa463f68f941cf89059d3fc798c1a4",
