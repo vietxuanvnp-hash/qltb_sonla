@@ -2153,7 +2153,7 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "36",
-        "Tên Xã": "Bưu điện tỉnh Sơn La",
+        "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
         "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Lò Thị Minh Huyền",
@@ -2185,7 +2185,7 @@
         }
       ],
       "createdAt": "2026-07-13T04:09:31",
-      "updatedAt": "2026-07-13T04:28:37"
+      "updatedAt": "2026-07-13T10:12:03"
     },
     {
       "id": "aaf82b1987fd48129863e39fcdfcd26e",
