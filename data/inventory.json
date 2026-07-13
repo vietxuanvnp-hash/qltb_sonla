@@ -2069,6 +2069,45 @@
       ],
       "createdAt": "2026-07-13T03:48:20",
       "updatedAt": "2026-07-13T03:48:20"
+    },
+    {
+      "id": "71c59f85587e474f84d97ba5ad49e4bc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "3609",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
+        "Mã HRM": "00056919",
+        "Bộ phận / Phòng ban": "TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TP-GIANGNTH",
+        "Loại máy": "Desktop",
+        "Hãng": "OEM",
+        "Model": "H110",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.157.90",
+        "MAC Address": "00:E0:4D:E7:08:C9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LPB3300",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-13T03:54:05",
+      "updatedAt": "2026-07-13T03:54:05"
     }
   ]
 }
