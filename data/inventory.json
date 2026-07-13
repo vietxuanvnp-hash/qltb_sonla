@@ -2192,7 +2192,7 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "36",
-        "Tên Xã": "Bưu điện tỉnh",
+        "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
         "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "NGUYỄN LÊ NINH BÌNH",
@@ -2218,7 +2218,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-13T07:18:39",
-      "updatedAt": "2026-07-13T10:10:47"
+      "updatedAt": "2026-07-13T10:11:37"
     },
     {
       "id": "d4ac0198f3b84cc2a7d174f69c214287",
