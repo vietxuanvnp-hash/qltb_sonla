@@ -43,7 +43,7 @@
       "fields": {
         "Mã BĐ Xã": "36",
         "Tên Xã": "Bưu điện tỉnh Sơn La",
-        "Mã Bưu cục": "36",
+        "Mã Bưu cục": "3611",
         "Tên Bưu cục": "Trung tâm Vận Hành",
         "Họ và tên người sử dụng": "Lèo Việt Xuấn",
         "Mã HRM": "00056386",
@@ -60,13 +60,15 @@
         "Ổ cứng": "386 GB",
         "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
         "Office": "Microsoft 365 - en-us",
+        "License Windows": "",
+        "License Office": "",
         "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
         "IP Address": "10.27.39.50",
         "MAC Address": "F4:6B:8C:CC:BA:0A"
       },
       "attachments": [],
       "createdAt": "2026-06-15T08:19:36",
-      "updatedAt": "2026-06-15T08:19:36"
+      "updatedAt": "2026-07-13T04:36:47"
     },
     {
       "id": "3a08461d6454485d8fac0640decfe163",
