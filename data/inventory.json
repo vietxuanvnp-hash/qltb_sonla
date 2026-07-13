@@ -2077,10 +2077,10 @@
         "Mã BĐ Xã": "",
         "Tên Xã": "",
         "Mã Bưu cục": "36",
-        "Tên Bưu cục": "3609",
+        "Tên Bưu cục": "Bưu điện tỉnh Sơn La",
         "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
         "Mã HRM": "00056919",
-        "Bộ phận / Phòng ban": "TCKH",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TP-GIANGNTH",
         "Loại máy": "Desktop",
@@ -2107,7 +2107,7 @@
         }
       ],
       "createdAt": "2026-07-13T03:54:05",
-      "updatedAt": "2026-07-13T03:54:05"
+      "updatedAt": "2026-07-13T04:10:56"
     },
     {
       "id": "a8b961b7ce3d460da19c88942612ef80",
