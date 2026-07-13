@@ -2141,6 +2141,45 @@
       "attachments": [],
       "createdAt": "2026-07-13T04:08:15",
       "updatedAt": "2026-07-13T04:08:15"
+    },
+    {
+      "id": "b7ace1a548a041589b20b79f9f704b3e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "BĐT Sơn La",
+        "Họ và tên người sử dụng": "Lò Thị Minh Huyền",
+        "Mã HRM": "00056947",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SL-KTNV-HUYENLM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "36YSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "1050 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM FJ3NC-BT6VY-MPJFC-MQXYR-Q9MMP",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.16.100",
+        "MAC Address": "B0:7B:25:11:13:41"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-13T04:09:31",
+      "updatedAt": "2026-07-13T04:09:31"
     }
   ]
 }
