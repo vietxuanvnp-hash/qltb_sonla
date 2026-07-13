@@ -2030,6 +2030,45 @@
       "attachments": [],
       "createdAt": "2026-07-10T01:49:35",
       "updatedAt": "2026-07-10T01:49:35"
+    },
+    {
+      "id": "f3de1d2ea7604ae8b9e50cddb3737af9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3657",
+        "Tên Xã": "THUẬN CHÂU",
+        "Mã Bưu cục": "365810",
+        "Tên Bưu cục": "BƯU CỤC CHIỀNG PẤC",
+        "Họ và tên người sử dụng": "QUÀNG THỊ NINH",
+        "Mã HRM": "00260970",
+        "Bộ phận / Phòng ban": "TRUNG TÂM KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-CP-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "86YSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "License Windows": "OEM 43PGG-8NFY2-9YXD2-G4K8K-6CQFC",
+        "License Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.113",
+        "MAC Address": "B0:7B:25:11:16:73"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": "PC45D"
+        }
+      ],
+      "createdAt": "2026-07-13T03:48:20",
+      "updatedAt": "2026-07-13T03:48:20"
     }
   ]
 }
