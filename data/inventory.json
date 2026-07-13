@@ -2186,6 +2186,39 @@
       ],
       "createdAt": "2026-07-13T04:09:31",
       "updatedAt": "2026-07-13T04:28:37"
+    },
+    {
+      "id": "aaf82b1987fd48129863e39fcdfcd26e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Văn phòng",
+        "Họ và tên người sử dụng": "NGUYỄN LÊ NINH BÌNH",
+        "Mã HRM": "00227987",
+        "Bộ phận / Phòng ban": "P. TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TCHC-BINHNL",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "4 GB",
+        "Ổ cứng": "1043 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel J462D",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.157.96",
+        "MAC Address": "E0:D5:5E:3F:86:59"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-13T07:18:39",
+      "updatedAt": "2026-07-13T07:18:39"
     }
   ]
 }
