@@ -2224,13 +2224,13 @@
       "id": "d4ac0198f3b84cc2a7d174f69c214287",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "VP BĐT",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3611",
+        "Tên Bưu cục": "VP Trung tâm Vận Hành",
         "Họ và tên người sử dụng": "Hoàng Anh Tuấn",
         "Mã HRM": "00056369",
-        "Bộ phận / Phòng ban": "TTVH",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TTVH-TUANHA",
         "Loại máy": "Desktop",
@@ -2251,7 +2251,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-13T07:22:16",
-      "updatedAt": "2026-07-13T07:22:16"
+      "updatedAt": "2026-07-13T10:13:58"
     },
     {
       "id": "318842c0307944e698d37022f01d8513",
