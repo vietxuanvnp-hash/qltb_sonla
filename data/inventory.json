@@ -2149,7 +2149,7 @@
         "Mã BĐ Xã": "36",
         "Tên Xã": "Bưu điện tỉnh Sơn La",
         "Mã Bưu cục": "3609",
-        "Tên Bưu cục": "Phòng Tài chính Kế hoạch",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Lò Thị Minh Huyền",
         "Mã HRM": "00056947",
         "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
@@ -2179,7 +2179,7 @@
         }
       ],
       "createdAt": "2026-07-13T04:09:31",
-      "updatedAt": "2026-07-13T04:21:04"
+      "updatedAt": "2026-07-13T04:28:37"
     }
   ]
 }
