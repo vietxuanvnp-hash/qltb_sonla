@@ -2581,6 +2581,45 @@
       ],
       "createdAt": "2026-07-15T03:24:21",
       "updatedAt": "2026-07-15T03:24:21"
+    },
+    {
+      "id": "41fccc0d244249289cbcb8f4e87a0e05",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "361280",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX CHIỀNG XÔM",
+        "Họ và tên người sử dụng": "LÒ THỊ HẢI YẾN",
+        "Mã HRM": "00218399",
+        "Bộ phận / Phòng ban": "VHX CHIỀNG XÔM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-56KAIV9",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2V950T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM QBTR6-GNV4T-F8BVC-2HGKX-9HJV2",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.120.191",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T07:49:16",
+      "updatedAt": "2026-07-15T07:49:16"
     }
   ]
 }
