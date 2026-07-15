@@ -2590,9 +2590,9 @@
         "Tên Xã": "Bưu điện Phường Tô Hiệu",
         "Mã Bưu cục": "361280",
         "Tên Bưu cục": "Chiềng Xôm",
-        "Họ và tên người sử dụng": "Lò Thị",
+        "Họ và tên người sử dụng": "Lò Thị Hải Yến",
         "Mã HRM": "00218399",
-        "Bộ phận / Phòng ban": "VHX CHIỀNG XÔM",
+        "Bộ phận / Phòng ban": "NV Kinh doanh tại điểm",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-56KAIV9",
         "Loại máy": "Desktop",
@@ -2614,12 +2614,12 @@
       "attachments": [
         {
           "type": "thermal_printer",
-          "name": "",
+          "name": "Canon 2900",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-15T07:49:16",
-      "updatedAt": "2026-07-15T09:46:01"
+      "updatedAt": "2026-07-15T09:48:08"
     },
     {
       "id": "26caf1998e3044dc8adfdb828fe5a2fe",
