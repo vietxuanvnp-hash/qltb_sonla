@@ -2532,6 +2532,39 @@
       ],
       "createdAt": "2026-07-15T03:05:39",
       "updatedAt": "2026-07-15T03:05:39"
+    },
+    {
+      "id": "145df9acb5e740dfa4a1ee306aba7dca",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "361340",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX HUA LA",
+        "Họ và tên người sử dụng": "CÀ THỊ DIÊN",
+        "Mã HRM": "00232604",
+        "Bộ phận / Phòng ban": "VHX HUA LA",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TP-VHXHUALA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Z8C1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM NK2JT-M7HT4-YPM4M-4DPWF-3DBK3",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.97",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-15T03:14:32",
+      "updatedAt": "2026-07-15T03:14:32"
     }
   ]
 }
