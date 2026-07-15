@@ -5,9 +5,9 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3600",
-        "Tên Xã": "phường Tô Hiệu",
-        "Mã Bưu cục": "360000",
-        "Tên Bưu cục": "phường Tô Hiệu",
+        "Tên Xã": "Phường Tô Hiệu",
+        "Mã Bưu cục": "3600",
+        "Tên Bưu cục": "Bưu điện phường Tô Hiệu",
         "Họ và tên người sử dụng": "Nguyễn Thành Luân",
         "Mã HRM": "00081163",
         "Bộ phận / Phòng ban": "Giám đốc BĐP Tô Hiệu",
@@ -23,6 +23,8 @@
         "Ổ cứng": "704 GB",
         "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
         "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "",
+        "License Office": "",
         "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
         "IP Address": "10.27.39.55",
         "MAC Address": "F4:6D:04:3D:88:EC"
@@ -35,7 +37,7 @@
         }
       ],
       "createdAt": "2026-06-15T08:11:52",
-      "updatedAt": "2026-06-15T08:11:52"
+      "updatedAt": "2026-07-15T01:07:05"
     },
     {
       "id": "81d506ba3a764aa186bca2c4d87ba30b",
