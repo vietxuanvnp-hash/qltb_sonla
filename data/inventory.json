@@ -2586,11 +2586,11 @@
       "id": "41fccc0d244249289cbcb8f4e87a0e05",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3600",
+        "Tên Xã": "Bưu điện Phường Tô Hiệu",
         "Mã Bưu cục": "361280",
-        "Tên Bưu cục": "BƯU ĐIỆN VHX CHIỀNG XÔM",
-        "Họ và tên người sử dụng": "LÒ THỊ HẢI YẾN",
+        "Tên Bưu cục": "Chiềng Xôm",
+        "Họ và tên người sử dụng": "Lò Thị",
         "Mã HRM": "00218399",
         "Bộ phận / Phòng ban": "VHX CHIỀNG XÔM",
         "Mã vật tư": "",
@@ -2619,7 +2619,7 @@
         }
       ],
       "createdAt": "2026-07-15T07:49:16",
-      "updatedAt": "2026-07-15T07:49:16"
+      "updatedAt": "2026-07-15T09:46:01"
     },
     {
       "id": "26caf1998e3044dc8adfdb828fe5a2fe",
