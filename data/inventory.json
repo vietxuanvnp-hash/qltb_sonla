@@ -2653,6 +2653,50 @@
       "attachments": [],
       "createdAt": "2026-07-15T08:16:20",
       "updatedAt": "2026-07-15T08:16:20"
+    },
+    {
+      "id": "d4b804c0ebd649898a5cd6b08cbecb9e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BƯU ĐIỆN PHƯỜNG THẢO NGUYÊN",
+        "Tên Xã": "PHƯỜNG THẢO NGUYÊN",
+        "Mã Bưu cục": "362830",
+        "Tên Bưu cục": "THẢO NGUYÊN",
+        "Họ và tên người sử dụng": "PHẠM MINH THÙY",
+        "Mã HRM": "00056545",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG THẢO NGUYÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-THAONGUY",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LN2",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM WT9CN-PG7Y4-9MFXR-MQ344-3699D",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "10:B6:76:9E:C9:4D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J183402924"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-07-15T09:12:45",
+      "updatedAt": "2026-07-15T09:12:45"
     }
   ]
 }
