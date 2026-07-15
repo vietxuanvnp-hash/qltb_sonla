@@ -2685,6 +2685,11 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Canon LPB214dw",
+          "serial": "NKEA027517"
+        },
+        {
           "type": "thermal_printer",
           "name": "ZEBRA ZD620",
           "serial": "D3J183402924"
@@ -2696,7 +2701,7 @@
         }
       ],
       "createdAt": "2026-07-15T09:12:45",
-      "updatedAt": "2026-07-15T09:12:45"
+      "updatedAt": "2026-07-15T09:17:14"
     }
   ]
 }
