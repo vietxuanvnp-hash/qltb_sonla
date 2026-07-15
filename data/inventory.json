@@ -2532,6 +2532,55 @@
       "attachments": [],
       "createdAt": "2026-07-15T03:14:32",
       "updatedAt": "2026-07-15T03:14:32"
+    },
+    {
+      "id": "e8fe76fac6584035820f1c7569e62ea7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "LÓNG PHIÊNG",
+        "Tên Xã": "lóng phiêng",
+        "Mã Bưu cục": "362700",
+        "Tên Bưu cục": "lóng phiêng",
+        "Họ và tên người sử dụng": "trần ánh hằng",
+        "Mã HRM": "00087514",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-9LKT5J7",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LJS",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM 6N3V9-W22VB-MFXG3-JHTVY-43K9D",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "F8:ED:FC:6A:6F:DE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "canon lbp6030",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:24:21",
+      "updatedAt": "2026-07-15T03:24:21"
     }
   ]
 }
