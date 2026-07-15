@@ -2483,6 +2483,55 @@
       ],
       "createdAt": "2026-07-15T03:00:13",
       "updatedAt": "2026-07-15T03:00:13"
+    },
+    {
+      "id": "fbe9a1cca58a47dbb0212970a5685638",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "360000",
+        "Tên Bưu cục": "Sơn La",
+        "Họ và tên người sử dụng": "Bùi Thị Loan",
+        "Mã HRM": "00056927",
+        "Bộ phận / Phòng ban": "BC trung tâm sơn la",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TP-KHL3",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7E05",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro Education 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel MHBPB",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.63",
+        "MAC Address": "04:7C:16:7E:69:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:05:39",
+      "updatedAt": "2026-07-15T03:05:39"
     }
   ]
 }
