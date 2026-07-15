@@ -324,13 +324,13 @@
       "id": "52f10f7c257a47e68562295103628784",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3624",
-        "Tên Xã": "Xã Yên Châu",
-        "Mã Bưu cục": "362400",
-        "Tên Bưu cục": "Bưu điện xã Yên Châu",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "Bưu điện xã Yên Châu",
+        "Mã Bưu cục": "3645",
+        "Tên Bưu cục": "VP Bưu điện xã Yên Châu",
         "Họ và tên người sử dụng": "Nguyễn Thị Hương",
         "Mã HRM": "00227986",
-        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Bộ phận / Phòng ban": "Kinh doanh",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-YC-KD-HUONG",
         "Loại máy": "Desktop",
@@ -357,7 +357,7 @@
         }
       ],
       "createdAt": "2026-06-30T01:18:22",
-      "updatedAt": "2026-06-30T01:18:22"
+      "updatedAt": "2026-07-15T03:40:03"
     },
     {
       "id": "1d6b986128394d75950e3ad90e8e51b2",
