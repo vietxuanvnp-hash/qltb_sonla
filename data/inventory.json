@@ -2625,8 +2625,8 @@
       "id": "26caf1998e3044dc8adfdb828fe5a2fe",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "THUẬN CHÂU",
+        "Mã BĐ Xã": "3619",
+        "Tên Xã": "B",
         "Mã Bưu cục": "365700",
         "Tên Bưu cục": "BƯU ĐIỆN XÃ THUẬN CHÂU",
         "Họ và tên người sử dụng": "NGUYỄN TRUNG KIÊN",
@@ -2652,7 +2652,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-15T08:16:20",
-      "updatedAt": "2026-07-15T08:16:20"
+      "updatedAt": "2026-07-15T09:43:55"
     },
     {
       "id": "d4b804c0ebd649898a5cd6b08cbecb9e",
