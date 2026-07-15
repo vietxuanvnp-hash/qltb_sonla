@@ -2297,48 +2297,37 @@
       "updatedAt": "2026-07-14T10:12:16"
     },
     {
-      "id": "0a6a36c7b79e4ba7b486ec8ab18541b0",
+      "id": "8e3417d35e064769bb9908c6b59cb652",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "362500",
-        "Tên Bưu cục": "PHIÊNG KHOÀI",
-        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
-        "Mã HRM": "00056479",
-        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "SLA-YC-PK-LYTL",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11SYS0T500",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "YLT0AAY6",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
-        "RAM": "3.7 GB",
-        "Ổ cứng": "239 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
-        "Office": "Microsoft 365 Apps for enterprise - en-us",
-        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
-        "License Office": "Microsoft 365 Apps for enterprise - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.200.120.182",
-        "MAC Address": "00:09:0F:AA:00:01"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "ZEBRA ZD620,  XPRINTER XP-Q260",
-          "serial": "D3J204205157, XPQ260-BM2409180090"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "SYMBOL",
-          "serial": "MPA89E"
-        }
-      ],
-      "createdAt": "2026-07-15T01:44:20",
-      "updatedAt": "2026-07-15T01:44:20"
+      "attachments": [],
+      "createdAt": "2026-07-15T01:44:22",
+      "updatedAt": "2026-07-15T01:44:22"
     }
   ]
 }
