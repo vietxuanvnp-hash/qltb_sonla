@@ -178,7 +178,7 @@
         "Mã BĐ Xã": "36",
         "Tên Xã": "Bưu điện tỉnh",
         "Mã Bưu cục": "3611",
-        "Tên Bưu cục": "Trung tâm Vận hành Sơn La",
+        "Tên Bưu cục": "VP Trung tâm Vận hành Sơn La",
         "Họ và tên người sử dụng": "Nguyễn Thị Hải Hà",
         "Mã HRM": "00056383",
         "Bộ phận / Phòng ban": "Trung tâm Vận hành",
@@ -208,7 +208,7 @@
         }
       ],
       "createdAt": "2026-06-16T02:04:50",
-      "updatedAt": "2026-07-13T04:36:30"
+      "updatedAt": "2026-07-15T01:15:51"
     },
     {
       "id": "3e7dc1bad0b3409fa4730115463ce58b",
