@@ -247,13 +247,13 @@
       "id": "47becf8028e645ca811b7793b67a041e",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3659",
+        "Mã BĐ Xã": "3619",
         "Tên Xã": "Thuận Châu",
-        "Mã Bưu cục": "365700",
+        "Mã Bưu cục": "3619",
         "Tên Bưu cục": "Bưu điện xã Thuận Châu",
         "Họ và tên người sử dụng": "Quàng Thị Vân Ly",
         "Mã HRM": "00277606",
-        "Bộ phận / Phòng ban": "Bưu điện xã Thuận Châu",
+        "Bộ phận / Phòng ban": "VP Bưu điện xã Thuận Châu",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-KHOALT",
         "Loại máy": "Desktop",
@@ -274,7 +274,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-29T09:02:08",
-      "updatedAt": "2026-06-29T09:02:08"
+      "updatedAt": "2026-07-15T03:29:18"
     },
     {
       "id": "cfa485b15b2a47c6ab4edf6a4861ef09",
