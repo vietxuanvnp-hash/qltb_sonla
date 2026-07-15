@@ -2626,12 +2626,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3619",
-        "Tên Xã": "B",
+        "Tên Xã": "Bưu điện xã Thuận Châu",
         "Mã Bưu cục": "365700",
-        "Tên Bưu cục": "BƯU ĐIỆN XÃ THUẬN CHÂU",
-        "Họ và tên người sử dụng": "NGUYỄN TRUNG KIÊN",
+        "Tên Bưu cục": "GD2 Thuận Châu",
+        "Họ và tên người sử dụng": "Nguyễn Trung Kiên",
         "Mã HRM": "00276159",
-        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM",
+        "Bộ phận / Phòng ban": "NV Kinh doanh tại điểm",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SL-TC-GD1-NINHQ",
         "Loại máy": "Desktop",
@@ -2652,7 +2652,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-15T08:16:20",
-      "updatedAt": "2026-07-15T09:43:55"
+      "updatedAt": "2026-07-15T09:45:20"
     },
     {
       "id": "d4b804c0ebd649898a5cd6b08cbecb9e",
