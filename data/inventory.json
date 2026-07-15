@@ -2439,6 +2439,50 @@
       "attachments": [],
       "createdAt": "2026-07-15T02:59:41",
       "updatedAt": "2026-07-15T02:59:41"
+    },
+    {
+      "id": "a0e46dce3e894f1e90181cbc7f9e0757",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "360000",
+        "Tên Bưu cục": "sơn la",
+        "Họ và tên người sử dụng": "Trần Thị Hương",
+        "Mã HRM": "00056717",
+        "Bộ phận / Phòng ban": "Bưu cục trung tâm sơn la",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TV4E67U",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE245CJHZ",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1170 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM NGXG8-FMCWK-KXWPV-YKDV3-BG99D",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.39.76",
+        "MAC Address": "38:CA:84:45:F9:A4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T03:00:13",
+      "updatedAt": "2026-07-15T03:00:13"
     }
   ]
 }
