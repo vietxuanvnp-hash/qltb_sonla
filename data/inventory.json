@@ -2378,13 +2378,13 @@
       "id": "cbe5b0d7dce64aaf92bd3589479fc15a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3600",
+        "Tên Xã": "Bưu điện Phường Tô Hiệu",
         "Mã Bưu cục": "360000",
-        "Tên Bưu cục": "sơn la",
+        "Tên Bưu cục": "Giao dịch Sơn La",
         "Họ và tên người sử dụng": "Trần Thị Hương",
         "Mã HRM": "00056717",
-        "Bộ phận / Phòng ban": "Bưu cục trung tâm sơn la",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-TV4E67U",
         "Loại máy": "Desktop",
@@ -2405,7 +2405,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-15T02:59:41",
-      "updatedAt": "2026-07-15T02:59:41"
+      "updatedAt": "2026-07-15T03:18:26"
     },
     {
       "id": "a0e46dce3e894f1e90181cbc7f9e0757",
