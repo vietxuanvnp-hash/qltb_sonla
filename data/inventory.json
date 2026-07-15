@@ -214,10 +214,10 @@
       "id": "3e7dc1bad0b3409fa4730115463ce58b",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
+        "Mã BĐ Xã": "3619",
         "Tên Xã": "Bưu điện xã Thuận Châu",
-        "Mã Bưu cục": "3657",
-        "Tên Bưu cục": "Bưu cục Xã Thuận Châu",
+        "Mã Bưu cục": "3619",
+        "Tên Bưu cục": "VP Bưu điện Xã Thuận Châu",
         "Họ và tên người sử dụng": "Lò Duy Hoàng",
         "Mã HRM": "00056586",
         "Bộ phận / Phòng ban": "Phòng Giám Đốc",
@@ -241,7 +241,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-29T08:17:55",
-      "updatedAt": "2026-06-29T08:17:55"
+      "updatedAt": "2026-07-15T01:17:57"
     },
     {
       "id": "47becf8028e645ca811b7793b67a041e",
