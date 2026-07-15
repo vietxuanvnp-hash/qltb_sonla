@@ -2439,17 +2439,17 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "",
+          "name": "Hp M4003dn",
           "serial": ""
         },
         {
           "type": "barcode_reader",
-          "name": "",
+          "name": "Zebra",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-15T03:00:13",
-      "updatedAt": "2026-07-15T03:00:13"
+      "updatedAt": "2026-07-15T03:20:27"
     },
     {
       "id": "fbe9a1cca58a47dbb0212970a5685638",
