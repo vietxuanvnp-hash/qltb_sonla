@@ -2328,6 +2328,45 @@
       "attachments": [],
       "createdAt": "2026-07-15T01:44:22",
       "updatedAt": "2026-07-15T01:44:22"
+    },
+    {
+      "id": "6355d0519f9b4be288a3777eadee5c83",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3600",
+        "Tên Bưu cục": "Bưu điện Phường Tô Hiệu",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Lâm",
+        "Mã HRM": "00227988",
+        "Bộ phận / Phòng ban": "Kế toán/P.TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TP-KT4",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT00926436F",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "License Windows": "OEM RTPN8-F288F-7K7HP-KCV49-RM6GB",
+        "License Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.73",
+        "MAC Address": "CC:28:AA:B2:3B:17"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP3300",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-15T02:12:28",
+      "updatedAt": "2026-07-15T02:12:28"
     }
   ]
 }
