@@ -281,12 +281,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3619",
-        "Tên Xã": "XÃ THUẬN CHÂU",
+        "Tên Xã": "Bưu điện xã Thuận Châu",
         "Mã Bưu cục": "365700",
-        "Tên Bưu cục": "BƯU CỤC GIAO DỊCH TRUNG TÂM",
+        "Tên Bưu cục": "GD2 Thuận Châu",
         "Họ và tên người sử dụng": "LÒ THỊ NHÂM",
         "Mã HRM": "00056714",
-        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-GD2-HANG",
         "Loại máy": "Desktop",
@@ -318,7 +318,7 @@
         }
       ],
       "createdAt": "2026-06-29T09:18:43",
-      "updatedAt": "2026-06-29T09:18:43"
+      "updatedAt": "2026-07-15T03:35:28"
     },
     {
       "id": "52f10f7c257a47e68562295103628784",
