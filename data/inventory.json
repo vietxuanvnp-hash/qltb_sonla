@@ -2658,13 +2658,13 @@
       "id": "d4b804c0ebd649898a5cd6b08cbecb9e",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "BƯU ĐIỆN PHƯỜNG THẢO NGUYÊN",
-        "Tên Xã": "PHƯỜNG THẢO NGUYÊN",
+        "Mã BĐ Xã": "3607",
+        "Tên Xã": "Bưu điện phường Thảo Nguyên",
         "Mã Bưu cục": "362830",
-        "Tên Bưu cục": "THẢO NGUYÊN",
-        "Họ và tên người sử dụng": "PHẠM MINH THÙY",
+        "Tên Bưu cục": "Thảo Nguyên",
+        "Họ và tên người sử dụng": "Phạm Minh Thùy",
         "Mã HRM": "00056545",
-        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG THẢO NGUYÊN",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MC-THAONGUY",
         "Loại máy": "Desktop",
@@ -2701,7 +2701,7 @@
         }
       ],
       "createdAt": "2026-07-15T09:12:45",
-      "updatedAt": "2026-07-15T09:17:14"
+      "updatedAt": "2026-07-15T09:43:39"
     }
   ]
 }
