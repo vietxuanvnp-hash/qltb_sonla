@@ -2013,12 +2013,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3632",
-        "Tên Xã": "Bắc Yên",
+        "Tên Xã": "Bưu điện xã Bắc Yên",
         "Mã Bưu cục": "364450",
         "Tên Bưu cục": "Pắc Ngà",
         "Họ và tên người sử dụng": "Vì Thị Quế",
         "Mã HRM": "00257817",
-        "Bộ phận / Phòng ban": "Bưu điện VHX Pắc Ngà",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-BY-HN-GIANG",
         "Loại máy": "Desktop",
@@ -2045,7 +2045,7 @@
         }
       ],
       "createdAt": "2026-07-01T09:05:24",
-      "updatedAt": "2026-07-01T09:05:24"
+      "updatedAt": "2026-07-16T07:53:23"
     },
     {
       "id": "b0a8904b6a62459b9bd65efc856cf835",
