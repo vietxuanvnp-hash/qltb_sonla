@@ -518,13 +518,13 @@
       "id": "e7e5f21214d44906ac3bd1b5f32759ee",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "Nậm Lầu",
+        "Mã BĐ Xã": "3621",
+        "Tên Xã": "Bưu điện xã Nậm Lầu",
         "Mã Bưu cục": "366500",
-        "Tên Bưu cục": "Bưu điện xã Púng Tra",
+        "Tên Bưu cục": "Bưu điện VHX Púng Tra",
         "Họ và tên người sử dụng": "Lường Thị Loan",
         "Mã HRM": "00076296",
-        "Bộ phận / Phòng ban": "điểm giao dịch",
+        "Bộ phận / Phòng ban": "Bưu điện VHX Púng Tra",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "ADMIN-PC",
         "Loại máy": "Desktop",
@@ -556,7 +556,7 @@
         }
       ],
       "createdAt": "2021-08-20T04:33:36",
-      "updatedAt": "2021-08-20T04:33:36"
+      "updatedAt": "2026-07-16T04:06:42"
     },
     {
       "id": "f438b9d3f73c4d11bcb0b54eb267c15f",
