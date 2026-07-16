@@ -1007,7 +1007,7 @@
         "Tên Bưu cục": "Chiềng Pấc",
         "Họ và tên người sử dụng": "Quàng Thị Ninh",
         "Mã HRM": "00260970",
-        "Bộ phận / Phòng ban": "Bưu cục cấp 3",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-CP-02",
         "Loại máy": "Desktop",
@@ -1044,7 +1044,7 @@
         }
       ],
       "createdAt": "2026-06-30T07:04:47",
-      "updatedAt": "2026-07-16T04:29:58"
+      "updatedAt": "2026-07-16T04:32:26"
     },
     {
       "id": "f1b164ac94c24ec5a52f2ca34222f231",
