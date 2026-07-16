@@ -1769,12 +1769,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3633",
-        "Tên Xã": "Tà Xùa",
+        "Tên Xã": "Bưu điện xã Tà Xùa",
         "Mã Bưu cục": "364430",
         "Tên Bưu cục": "Xím Vàng",
         "Họ và tên người sử dụng": "Giàng A Chư",
         "Mã HRM": "00056909",
-        "Bộ phận / Phòng ban": "Điểm Bưu điện xã Xím Vàng",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "ADMIN-PC",
         "Loại máy": "Desktop",
@@ -1801,7 +1801,7 @@
         }
       ],
       "createdAt": "2026-07-01T01:13:24",
-      "updatedAt": "2026-07-01T01:13:24"
+      "updatedAt": "2026-07-16T07:38:28"
     },
     {
       "id": "be243ceccbb64b31a0e29a1b393f4ea5",
