@@ -2193,9 +2193,15 @@
         "IP Address": "10.27.157.186",
         "MAC Address": "CC:28:AA:B2:3C:5F"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-3300",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-13T04:08:15",
-      "updatedAt": "2026-07-13T04:28:12"
+      "updatedAt": "2026-07-16T08:01:28"
     },
     {
       "id": "b7ace1a548a041589b20b79f9f704b3e",
