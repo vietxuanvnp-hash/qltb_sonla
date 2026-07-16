@@ -2890,7 +2890,7 @@
         "Tên Bưu cục": "BCP Sốp Cộp",
         "Họ và tên người sử dụng": "Vì Thị Quyên",
         "Mã HRM": "00056807",
-        "Bộ phận / Phòng ban": "BCP Sốp Cộp",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SC-KTH-TINH",
         "Loại máy": "Desktop",
@@ -2927,7 +2927,7 @@
         }
       ],
       "createdAt": "2026-07-16T04:26:33",
-      "updatedAt": "2026-07-16T09:04:43"
+      "updatedAt": "2026-07-16T09:46:28"
     },
     {
       "id": "fd3ce09f7fcd42aa92dc4f16882430fa",
