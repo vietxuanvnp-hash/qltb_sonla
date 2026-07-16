@@ -396,13 +396,13 @@
       "id": "9c4680f0f1de49399d2dba135d43cda4",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3663",
+        "Tên Xã": "Bưu điện xã Sông Mã",
         "Mã Bưu cục": "366800",
-        "Tên Bưu cục": "Sông Mã",
+        "Tên Bưu cục": "GD2 Sông Mã",
         "Họ và tên người sử dụng": "Đào Lâm Phương",
         "Mã HRM": "00056488",
-        "Bộ phận / Phòng ban": "Giao dịch",
+        "Bộ phận / Phòng ban": "GD2 Sông Mã",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SM-PHUONGDL",
         "Loại máy": "Desktop",
@@ -429,7 +429,7 @@
         }
       ],
       "createdAt": "2026-06-30T01:38:54",
-      "updatedAt": "2026-06-30T01:38:54"
+      "updatedAt": "2026-07-16T03:57:28"
     },
     {
       "id": "cec53de75fd54f65a1b90c5010518de6",
