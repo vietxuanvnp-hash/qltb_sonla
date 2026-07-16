@@ -2984,11 +2984,11 @@
       "fields": {
         "Mã BĐ Xã": "3638",
         "Tên Xã": "Bưu Điện Xã Phù Yên",
-        "Mã Bưu cục": "003638",
+        "Mã Bưu cục": "3638",
         "Tên Bưu cục": "Bưu điện Xã Phù Yên",
         "Họ và tên người sử dụng": "Hà Thị Quỳnh Mai",
         "Mã HRM": "00056630",
-        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Bộ phận / Phòng ban": "Kế toán",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-TQ-MAITH",
         "Loại máy": "Desktop",
@@ -3007,9 +3007,15 @@
         "IP Address": "10.27.17.31",
         "MAC Address": "38:22:E2:19:3D:7F"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-3300",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-16T07:45:39",
-      "updatedAt": "2026-07-16T07:45:39"
+      "updatedAt": "2026-07-16T09:05:58"
     },
     {
       "id": "c0f0e856518f4694a0187436aa1ce1ab",
