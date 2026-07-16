@@ -435,13 +435,13 @@
       "id": "cec53de75fd54f65a1b90c5010518de6",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "366325",
+        "Mã BĐ Xã": "3669",
         "Tên Xã": "Mường Bám",
-        "Mã Bưu cục": "3669",
+        "Mã Bưu cục": "366325",
         "Tên Bưu cục": "Bưu Điện VHX Mường Bám",
         "Họ và tên người sử dụng": "Cà Thị Ly",
         "Mã HRM": "00217180",
-        "Bộ phận / Phòng ban": "Giám đốc Bưu Điện xã",
+        "Bộ phận / Phòng ban": "Bưu Điện VHX Mường Bám",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-MB-LYCT",
         "Loại máy": "Desktop",
@@ -473,7 +473,7 @@
         }
       ],
       "createdAt": "2026-06-30T02:12:01",
-      "updatedAt": "2026-06-30T02:12:01"
+      "updatedAt": "2026-07-16T03:58:54"
     },
     {
       "id": "d1ea0f20f7804802a64564c34cb138b2",
