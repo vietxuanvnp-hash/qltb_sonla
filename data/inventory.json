@@ -2130,7 +2130,7 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "36",
-        "Tên Xã": "Bưu điện tỉnh",
+        "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
         "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
@@ -2162,7 +2162,7 @@
         }
       ],
       "createdAt": "2026-07-13T03:54:05",
-      "updatedAt": "2026-07-13T04:29:22"
+      "updatedAt": "2026-07-16T08:00:40"
     },
     {
       "id": "a8b961b7ce3d460da19c88942612ef80",
