@@ -689,13 +689,13 @@
       "id": "b8e5ee73649941489026e1d3c2293686",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "Muổi Nọi",
+        "Mã BĐ Xã": "3622",
+        "Tên Xã": "Bưu điện xã Muổi Nọi",
         "Mã Bưu cục": "365916",
-        "Tên Bưu cục": "Bưu điện xã Muổi Nọi",
+        "Tên Bưu cục": "Muổi Nọi",
         "Họ và tên người sử dụng": "Nguyễn Thị Tuyết",
         "Mã HRM": "0056811",
-        "Bộ phận / Phòng ban": "Điểm giao dịch xã",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-MN-LALV",
         "Loại máy": "Desktop",
@@ -727,7 +727,7 @@
         }
       ],
       "createdAt": "2026-06-30T03:24:35",
-      "updatedAt": "2026-06-30T03:24:35"
+      "updatedAt": "2026-07-16T04:13:49"
     },
     {
       "id": "2d464f377e5a458c9e649a106f9b8069",
