@@ -1347,13 +1347,13 @@
       "id": "79700af318f44ca3b25e81d8d44b9855",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "Thuận Châu",
+        "Mã BĐ Xã": "3619",
+        "Tên Xã": "Bưu điện xã Thuận Châu",
         "Mã Bưu cục": "365811",
-        "Tên Bưu cục": "Bưu điện văn hóa xã Tông Lạnh",
+        "Tên Bưu cục": "Tông Lệnh",
         "Họ và tên người sử dụng": "Lò Thị Linh",
         "Mã HRM": "00076047",
-        "Bộ phận / Phòng ban": "điểm giao dịch xã",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-TL-LINHL",
         "Loại máy": "Desktop",
@@ -1375,17 +1375,17 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "",
+          "name": "Brother",
           "serial": ""
         },
         {
           "type": "thermal_printer",
-          "name": "",
+          "name": "Xprint",
           "serial": ""
         }
       ],
       "createdAt": "2026-06-30T08:31:11",
-      "updatedAt": "2026-06-30T08:31:11"
+      "updatedAt": "2026-07-16T04:43:44"
     },
     {
       "id": "9e6fd89ced6d4ee0b813bd528acb2c46",
