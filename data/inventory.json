@@ -3282,7 +3282,7 @@
         "Tên Bưu cục": "Bưu cục Chiềng An",
         "Họ và tên người sử dụng": "Vũ Quỳnh Hương",
         "Mã HRM": "00081519",
-        "Bộ phận / Phòng ban": "BC GD3",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TP-KHL10",
         "Loại máy": "Desktop",
@@ -3309,7 +3309,7 @@
         }
       ],
       "createdAt": "2026-07-16T08:05:51",
-      "updatedAt": "2026-07-16T08:05:51"
+      "updatedAt": "2026-07-16T09:21:41"
     },
     {
       "id": "70fe7e4acf19478bba4ade7ad6ffaa73",
