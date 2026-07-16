@@ -2351,13 +2351,13 @@
       "id": "6355d0519f9b4be288a3777eadee5c83",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3600",
+        "Tên Xã": "Bưu điện phường Tô Hiệu",
         "Mã Bưu cục": "3600",
         "Tên Bưu cục": "Bưu điện Phường Tô Hiệu",
         "Họ và tên người sử dụng": "Nguyễn Thanh Lâm",
         "Mã HRM": "00227988",
-        "Bộ phận / Phòng ban": "Kế toán/P.TCKH",
+        "Bộ phận / Phòng ban": "Kế toán",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TP-KT4",
         "Loại máy": "Desktop",
@@ -2384,7 +2384,7 @@
         }
       ],
       "createdAt": "2026-07-15T02:12:28",
-      "updatedAt": "2026-07-15T02:12:28"
+      "updatedAt": "2026-07-16T08:04:48"
     },
     {
       "id": "7788496d27564522aae8b8cc56b49bfc",
