@@ -479,13 +479,13 @@
       "id": "d1ea0f20f7804802a64564c34cb138b2",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3609",
-        "Tên Xã": "Văn phòng BĐT Sơn La",
-        "Mã Bưu cục": "361066",
-        "Tên Bưu cục": "Tỉnh Sơn La",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Văn phòng BĐT Sơn La",
         "Họ và tên người sử dụng": "PHẠM DUY TÙNG",
         "Mã HRM": "00231471",
-        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "TUNGPD-TCKH",
         "Loại máy": "Desktop",
@@ -512,7 +512,7 @@
         }
       ],
       "createdAt": "2026-06-30T02:18:55",
-      "updatedAt": "2026-06-30T02:18:55"
+      "updatedAt": "2026-07-16T04:04:04"
     },
     {
       "id": "e7e5f21214d44906ac3bd1b5f32759ee",
