@@ -2566,13 +2566,13 @@
       "id": "145df9acb5e740dfa4a1ee306aba7dca",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3600",
+        "Tên Xã": "Bưu điện Phường Tô Hiệu",
         "Mã Bưu cục": "361340",
-        "Tên Bưu cục": "BƯU ĐIỆN VHX HUA LA",
-        "Họ và tên người sử dụng": "CÀ THỊ DIÊN",
+        "Tên Bưu cục": "Hua La",
+        "Họ và tên người sử dụng": "Cà Thị Diên",
         "Mã HRM": "00232604",
-        "Bộ phận / Phòng ban": "VHX HUA LA",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TP-VHXHUALA",
         "Loại máy": "Desktop",
@@ -2591,9 +2591,20 @@
         "IP Address": "10.200.120.97",
         "MAC Address": "00:09:0F:AA:00:01"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPrint",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-15T03:14:32",
-      "updatedAt": "2026-07-15T03:14:32"
+      "updatedAt": "2026-07-16T08:12:11"
     },
     {
       "id": "e8fe76fac6584035820f1c7569e62ea7",
