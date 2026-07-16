@@ -1479,13 +1479,13 @@
       "id": "3be1c329c2924fe3a5d56dec615cd1f6",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "Thuận Châu",
+        "Mã BĐ Xã": "3619",
+        "Tên Xã": "Bưu điện xã Thuận Châu",
         "Mã Bưu cục": "365780",
-        "Tên Bưu cục": "Bưu điện văn hóa xã Thôm Mòn",
+        "Tên Bưu cục": "Thôm Mòn",
         "Họ và tên người sử dụng": "Lường Thị Thiệm",
         "Mã HRM": "00056851",
-        "Bộ phận / Phòng ban": "Điểm văn hóa xã",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-S7BQTM4",
         "Loại máy": "Desktop",
@@ -1517,7 +1517,7 @@
         }
       ],
       "createdAt": "2026-06-30T08:46:18",
-      "updatedAt": "2026-06-30T08:46:18"
+      "updatedAt": "2026-07-16T04:49:21"
     },
     {
       "id": "22c95088a7dd4f47957caa607a2ed8e5",
