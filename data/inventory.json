@@ -2702,6 +2702,45 @@
       ],
       "createdAt": "2026-07-15T09:12:45",
       "updatedAt": "2026-07-15T09:43:39"
+    },
+    {
+      "id": "35306a4be21647b183750729f952c12e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "SỐP CỘP",
+        "Tên Xã": "SỐP CỘP",
+        "Mã Bưu cục": "367700",
+        "Tên Bưu cục": "SỐP CỘP",
+        "Họ và tên người sử dụng": "LÒ THÙY LINH",
+        "Mã HRM": "00254145",
+        "Bộ phận / Phòng ban": "KSV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SC-GD1-HUYE",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXG",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.54",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T02:53:21",
+      "updatedAt": "2026-07-16T02:53:21"
     }
   ]
 }
