@@ -2440,7 +2440,7 @@
         "Tên Bưu cục": "Giao dịch Sơn La",
         "Họ và tên người sử dụng": "Trần Thị Hương",
         "Mã HRM": "00056717",
-        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Bộ phận / Phòng ban": "Bưu cục GD1",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-TV4E67U",
         "Loại máy": "Desktop",
@@ -2459,9 +2459,15 @@
         "IP Address": "10.27.39.76",
         "MAC Address": "38:CA:84:45:F9:A4"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP 4003dn(LBP)",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-15T02:59:41",
-      "updatedAt": "2026-07-15T03:18:26"
+      "updatedAt": "2026-07-16T08:08:34"
     },
     {
       "id": "a0e46dce3e894f1e90181cbc7f9e0757",
