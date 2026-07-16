@@ -1930,12 +1930,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3633",
-        "Tên Xã": "",
-        "Mã Bưu cục": "Tà Xùa",
+        "Tên Xã": "Bưu điện xã Tà Xùa",
+        "Mã Bưu cục": "364360",
         "Tên Bưu cục": "Tà Xùa",
         "Họ và tên người sử dụng": "Hạng Thị Kênh",
         "Mã HRM": "00248831",
-        "Bộ phận / Phòng ban": "Bưu điện VHX Tà Xùa",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-BY-TX-KENHT",
         "Loại máy": "Desktop",
@@ -1967,7 +1967,7 @@
         }
       ],
       "createdAt": "2026-07-01T08:06:07",
-      "updatedAt": "2026-07-01T08:06:07"
+      "updatedAt": "2026-07-16T07:48:45"
     },
     {
       "id": "b308791185284ae88da41473085abbcc",
