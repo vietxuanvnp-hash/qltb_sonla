@@ -1050,13 +1050,13 @@
       "id": "f1b164ac94c24ec5a52f2ca34222f231",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "Mai Sơn",
-        "Tên Xã": "Mai Sơn",
+        "Mã BĐ Xã": "3650",
+        "Tên Xã": "Bưu điện xã Mai Sơn",
         "Mã Bưu cục": "361500",
-        "Tên Bưu cục": "Bưu cục Trung Tâm",
+        "Tên Bưu cục": "GD2 Mai Sơn",
         "Họ và tên người sử dụng": "Phạm Thuỳ Dương",
         "Mã HRM": "00087200",
-        "Bộ phận / Phòng ban": "Bưu cục Trung Tâm",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-GDTT5",
         "Loại máy": "Desktop",
@@ -1093,7 +1093,7 @@
         }
       ],
       "createdAt": "2026-06-30T07:31:33",
-      "updatedAt": "2026-06-30T07:31:33"
+      "updatedAt": "2026-07-16T04:32:02"
     },
     {
       "id": "32b4c1736739499b9d16b0c2585de8b9",
