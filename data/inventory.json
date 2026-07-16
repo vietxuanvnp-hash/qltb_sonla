@@ -2704,7 +2704,7 @@
         "Tên Bưu cục": "GD2 Thuận Châu",
         "Họ và tên người sử dụng": "Nguyễn Trung Kiên",
         "Mã HRM": "00276159",
-        "Bộ phận / Phòng ban": "NV Kinh doanh tại điểm",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SL-TC-GD1-NINHQ",
         "Loại máy": "Desktop",
@@ -2725,7 +2725,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-15T08:16:20",
-      "updatedAt": "2026-07-15T09:45:20"
+      "updatedAt": "2026-07-16T08:42:59"
     },
     {
       "id": "d4b804c0ebd649898a5cd6b08cbecb9e",
