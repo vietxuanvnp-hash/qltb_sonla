@@ -1973,9 +1973,9 @@
       "id": "b308791185284ae88da41473085abbcc",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3624",
+        "Mã BĐ Xã": "3645",
         "Tên Xã": "Bưu điện xã Yên Châu",
-        "Mã Bưu cục": "3624",
+        "Mã Bưu cục": "3645",
         "Tên Bưu cục": "Bưu điện xã Yên Châu",
         "Họ và tên người sử dụng": "Ngô Thu Trang",
         "Mã HRM": "00056484",
@@ -2006,7 +2006,7 @@
         }
       ],
       "createdAt": "2026-07-01T08:31:57",
-      "updatedAt": "2026-07-16T07:52:19"
+      "updatedAt": "2026-07-16T07:56:33"
     },
     {
       "id": "845a3297b7704824ab6cf7a4039922df",
