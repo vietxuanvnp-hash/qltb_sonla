@@ -1276,12 +1276,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3655",
-        "Tên Xã": "BĐX Tà Hộc",
+        "Tên Xã": "Bưu điện xã Tà Hộc",
         "Mã Bưu cục": "362278",
         "Tên Bưu cục": "Nà Bó",
         "Họ và tên người sử dụng": "Lê Thị Thu Trang",
         "Mã HRM": "00217173",
-        "Bộ phận / Phòng ban": "Giao dịch",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-NB-TRANG",
         "Loại máy": "Desktop",
@@ -1302,7 +1302,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-30T08:16:38",
-      "updatedAt": "2026-06-30T08:16:38"
+      "updatedAt": "2026-07-16T04:40:52"
     },
     {
       "id": "6f72f68349fc495e9598b8a6fd6a9ed3",
