@@ -1286,45 +1286,6 @@
       "updatedAt": "2026-06-30T08:18:41"
     },
     {
-      "id": "c2d6bd5868ac4eeab498c67ec2391910",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "362580",
-        "Tên Bưu cục": "chiềng đông",
-        "Họ và tên người sử dụng": "Lò Thị Biên Thùy",
-        "Mã HRM": "00056492",
-        "Bộ phận / Phòng ban": "chiềng đông",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "SLA-YC-CD-THUYB",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP ProDesk 600 G5 Desktop Mini",
-        "Năm sản xuất": "",
-        "Serial Number": "8CC011322S",
-        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "465 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "License Windows": "OEM JNC4M-996J2-4F3VH-JJ6TW-29XRC",
-        "License Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.200.120.71",
-        "MAC Address": "00:09:0F:AA:00:01"
-      },
-      "attachments": [
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-30T08:24:00",
-      "updatedAt": "2026-06-30T08:24:00"
-    },
-    {
       "id": "79700af318f44ca3b25e81d8d44b9855",
       "category": "3. Máy Tính",
       "fields": {
