@@ -1430,13 +1430,13 @@
       "id": "ac4f655c243e4b159bb2232dfaf334a5",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3646",
+        "Tên Xã": "Bưu điện xã Chiềng Hặc",
         "Mã Bưu cục": "362470",
-        "Tên Bưu cục": "BĐX CHIỀNG HẶC",
-        "Họ và tên người sử dụng": "HOÀNG THANH GIANG",
+        "Tên Bưu cục": "Chiềng Hặc",
+        "Họ và tên người sử dụng": "Hoàng Thanh Giang",
         "Mã HRM": "00105429",
-        "Bộ phận / Phòng ban": "BĐT SƠN LA",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-AR32KN2",
         "Loại máy": "Desktop",
@@ -1455,9 +1455,25 @@
         "IP Address": "192.168.1.2",
         "MAC Address": "10:B6:76:9E:C6:11"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Hp M203d",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprint",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-06-30T08:45:31",
-      "updatedAt": "2026-06-30T08:45:31"
+      "updatedAt": "2026-07-16T04:47:59"
     },
     {
       "id": "3be1c329c2924fe3a5d56dec615cd1f6",
