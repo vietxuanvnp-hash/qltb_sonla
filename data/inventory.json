@@ -3215,12 +3215,12 @@
         "Mã HRM": "00081519",
         "Bộ phận / Phòng ban": "BC GD3",
         "Mã vật tư": "",
-        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử CAS 6kg-",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "CC207210",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
         "Loại cân (Cân bàn/Cân bưu kiện...)": "",
         "Hãng sản xuất": "",
-        "Model": "",
-        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Model": "CAS",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "6kg",
         "Serial Number": "",
         "Năm sản xuất": "",
         "Ngày kiểm định gần nhất": "",
@@ -3231,7 +3231,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-16T07:35:50",
-      "updatedAt": "2026-07-16T07:35:50"
+      "updatedAt": "2026-07-16T09:15:20"
     },
     {
       "id": "3150eec64de54664b45b0f32fcc66d38",
