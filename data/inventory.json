@@ -1237,12 +1237,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3632",
-        "Tên Xã": "Bắc Yên",
+        "Tên Xã": "Bưu điện xã Bắc Yên",
         "Mã Bưu cục": "364300",
-        "Tên Bưu cục": "Bắc Yên",
+        "Tên Bưu cục": "GD2 Bắc Yên",
         "Họ và tên người sử dụng": "Đào Thị Thu Trang",
         "Mã HRM": "00056912",
-        "Bộ phận / Phòng ban": "KSV quầy giáo dịch Bắc Yên",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-N6Q43A6",
         "Loại máy": "Desktop",
@@ -1269,7 +1269,7 @@
         }
       ],
       "createdAt": "2026-06-30T08:11:35",
-      "updatedAt": "2026-06-30T08:11:35"
+      "updatedAt": "2026-07-16T04:40:07"
     },
     {
       "id": "3b4eb62a25ae4b45994be13745611d66",
