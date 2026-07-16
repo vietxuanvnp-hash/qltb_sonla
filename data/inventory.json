@@ -3348,6 +3348,39 @@
       ],
       "createdAt": "2026-07-16T09:10:16",
       "updatedAt": "2026-07-16T09:10:16"
+    },
+    {
+      "id": "e148a98102e94e54b01f462954484007",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "362570",
+        "Tên Xã": "Chiềng Sàng",
+        "Mã Bưu cục": "362570",
+        "Tên Bưu cục": "BĐ Chiềng Sàng",
+        "Họ và tên người sử dụng": "Hoàng Văn Thu",
+        "Mã HRM": "00056497",
+        "Bộ phận / Phòng ban": "Bộ phận hỗ trợ CNTT tỉnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "HP p204v",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "2025",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T09:10:42",
+      "updatedAt": "2026-07-16T09:10:42"
     }
   ]
 }
