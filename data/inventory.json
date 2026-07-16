@@ -2051,13 +2051,13 @@
       "id": "b0a8904b6a62459b9bd65efc856cf835",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3677",
-        "Tên Xã": "SỐP CỘP",
-        "Mã Bưu cục": "367700",
-        "Tên Bưu cục": "SỐP CỘP",
+        "Mã BĐ Xã": "3666",
+        "Tên Xã": "Bưu điện xã Sốp Cộp",
+        "Mã Bưu cục": "3666",
+        "Tên Bưu cục": "Bưu điện xã Sốp Cộp",
         "Họ và tên người sử dụng": "TÒNG THỊ HẢI",
         "Mã HRM": "0056776",
-        "Bộ phận / Phòng ban": "GIÁM ĐỐC",
+        "Bộ phận / Phòng ban": "Giám đốc Xã",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SC-HAITT",
         "Loại máy": "Desktop",
@@ -2076,9 +2076,15 @@
         "IP Address": "10.27.15.15",
         "MAC Address": "F4:6B:8C:CC:B9:B9"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-10T01:49:35",
-      "updatedAt": "2026-07-10T01:49:35"
+      "updatedAt": "2026-07-16T07:56:07"
     },
     {
       "id": "f3de1d2ea7604ae8b9e50cddb3737af9",
