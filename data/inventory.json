@@ -3167,13 +3167,13 @@
       "id": "aaae7a9e49314dd081c622d595bda6db",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "Bưu điện xã Đông Sang",
+        "Mã BĐ Xã": "3605",
+        "Tên Xã": "Bưu điện Phường Mộc Sơn",
         "Mã Bưu cục": "362890",
         "Tên Bưu cục": "Đông Sang",
         "Họ và tên người sử dụng": "Quách Thị Huyền",
         "Mã HRM": "00278330",
-        "Bộ phận / Phòng ban": "GDV Xã Đông Sang",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "ADMIN-PC",
         "Loại máy": "Desktop",
@@ -3205,7 +3205,7 @@
         }
       ],
       "createdAt": "2026-07-16T07:35:03",
-      "updatedAt": "2026-07-16T07:35:03"
+      "updatedAt": "2026-07-16T09:19:18"
     },
     {
       "id": "276a9a35818d4d659a9d57ad01895803",
