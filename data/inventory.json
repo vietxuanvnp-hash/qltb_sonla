@@ -2796,13 +2796,13 @@
       "id": "35306a4be21647b183750729f952c12e",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "SỐP CỘP",
-        "Tên Xã": "SỐP CỘP",
+        "Mã BĐ Xã": "3666",
+        "Tên Xã": "Bưu điện xã Sốp Cộp",
         "Mã Bưu cục": "367700",
-        "Tên Bưu cục": "SỐP CỘP",
-        "Họ và tên người sử dụng": "LÒ THÙY LINH",
+        "Tên Bưu cục": "GD2 Sốp Cộp",
+        "Họ và tên người sử dụng": "Lò Thùy Linh",
         "Mã HRM": "00254145",
-        "Bộ phận / Phòng ban": "KSV",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SC-GD1-HUYE",
         "Loại máy": "Desktop",
@@ -2829,7 +2829,7 @@
         }
       ],
       "createdAt": "2026-07-16T02:53:21",
-      "updatedAt": "2026-07-16T02:53:21"
+      "updatedAt": "2026-07-16T08:46:23"
     },
     {
       "id": "63d408b4f6804e7cb0af10f81f740c6f",
