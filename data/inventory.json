@@ -3031,11 +3031,11 @@
         "Mã HRM": "00081519",
         "Bộ phận / Phòng ban": "BC GD3",
         "Mã vật tư": "",
-        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "POSBANK A8",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "CC207113",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in mã vạch (Khối Sản xuất)",
         "Khổ giấy": "",
         "Hãng": "",
-        "Model": "",
+        "Model": "POSBANK A8",
         "Năm sản xuất": "",
         "Serial Number": "",
         "Kết nối": "",
@@ -3046,7 +3046,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-16T07:26:42",
-      "updatedAt": "2026-07-16T07:26:42"
+      "updatedAt": "2026-07-16T09:08:23"
     },
     {
       "id": "d4fc8f4f4e6745c9a4c86e65486ccf38",
