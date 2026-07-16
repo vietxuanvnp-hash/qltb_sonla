@@ -606,13 +606,13 @@
       "id": "3298deb05f66425cb00560d0e316d649",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "BC PHỎNG LÁI XÃ BÌNH THUẬN",
+        "Mã BĐ Xã": "3625",
+        "Tên Xã": "Bưu điện Xã Bình Thuận",
         "Mã Bưu cục": "366130",
-        "Tên Bưu cục": "BC PHỎNG LÁI",
-        "Họ và tên người sử dụng": "HOÀNG THỊ VÂN ANH",
+        "Tên Bưu cục": "Phỏng Lái",
+        "Họ và tên người sử dụng": "Hoàng Thị Vân Anh",
         "Mã HRM": "00262086",
-        "Bộ phận / Phòng ban": "TRƯỞNG BC",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-PL-HAOTT",
         "Loại máy": "Desktop",
@@ -644,7 +644,7 @@
         }
       ],
       "createdAt": "2026-06-30T03:04:28",
-      "updatedAt": "2026-06-30T03:04:28"
+      "updatedAt": "2026-07-16T04:10:13"
     },
     {
       "id": "48440e7e1b804e2d873744cd43e36fe7",
