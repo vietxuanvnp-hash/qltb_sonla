@@ -766,13 +766,13 @@
       "id": "3acb074e7475419b9041c3ef4ecf5dae",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "Bưu điện xã Yên Châu",
         "Mã Bưu cục": "362580",
-        "Tên Bưu cục": "chiềng đông",
+        "Tên Bưu cục": "Chiềng Đông",
         "Họ và tên người sử dụng": "Lò Thị Biên Thùy",
         "Mã HRM": "00056492",
-        "Bộ phận / Phòng ban": "chiềng đông",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-YC-CD-THUYB",
         "Loại máy": "Desktop",
@@ -799,7 +799,7 @@
         }
       ],
       "createdAt": "2026-06-30T03:42:57",
-      "updatedAt": "2026-06-30T03:42:57"
+      "updatedAt": "2026-07-16T04:16:57"
     },
     {
       "id": "e40cc29ed1484f4980b75c408d3b4843",
