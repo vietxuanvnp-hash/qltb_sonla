@@ -2723,9 +2723,25 @@
         "IP Address": "10.27.16.120",
         "MAC Address": "F4:6B:8C:CC:B9:1B"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD620D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebera DS22",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-15T08:16:20",
-      "updatedAt": "2026-07-16T08:42:59"
+      "updatedAt": "2026-07-16T08:44:02"
     },
     {
       "id": "d4b804c0ebd649898a5cd6b08cbecb9e",
