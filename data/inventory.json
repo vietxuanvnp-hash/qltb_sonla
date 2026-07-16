@@ -3128,13 +3128,13 @@
       "id": "e28f9d1f7b8745c295bb53b67411d5c6",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3638",
+        "Tên Xã": "Bưu điện xã Phù Yên",
         "Mã Bưu cục": "363600",
-        "Tên Bưu cục": "PHÙ YÊN",
+        "Tên Bưu cục": "GD2 Phù Yên",
         "Họ và tên người sử dụng": "NGUYỄN THỊ MAI",
         "Mã HRM": "00069410",
-        "Bộ phận / Phòng ban": "KIỂM SOÁT VIÊN",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-GDTT-MAI",
         "Loại máy": "Desktop",
@@ -3153,9 +3153,15 @@
         "IP Address": "10.27.17.4",
         "MAC Address": "F4:6B:8C:CC:B9:13"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-16T07:30:39",
-      "updatedAt": "2026-07-16T07:30:39"
+      "updatedAt": "2026-07-16T09:16:39"
     },
     {
       "id": "aaae7a9e49314dd081c622d595bda6db",
