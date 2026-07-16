@@ -2754,6 +2754,55 @@
       ],
       "createdAt": "2026-07-16T04:09:45",
       "updatedAt": "2026-07-16T04:09:45"
+    },
+    {
+      "id": "05388da0771f49f8adb3f021646b511d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "367750",
+        "Tên Bưu cục": "BCP Sốp Cộp",
+        "Họ và tên người sử dụng": "Vì Thị Quyên",
+        "Mã HRM": "00056807",
+        "Bộ phận / Phòng ban": "BCP Sốp Cộp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SC-KTH-TINH",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWP",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "26.45.35.149",
+        "MAC Address": "02:50:B5:30:20:33"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJet Pro 400",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T04:26:33",
+      "updatedAt": "2026-07-16T04:26:33"
     }
   ]
 }
