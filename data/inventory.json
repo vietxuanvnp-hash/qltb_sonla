@@ -1611,13 +1611,13 @@
       "id": "f0fac5b91c8241218cf20fae8194ddfe",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3626",
+        "Tên Xã": "Bưu điện xã Mường É",
         "Mã Bưu cục": "366210",
-        "Tên Bưu cục": "PHỔNG LẬP",
-        "Họ và tên người sử dụng": "LƯỜNG THỊ NƯỚN",
+        "Tên Bưu cục": "Phổng Lập",
+        "Họ và tên người sử dụng": "Lường Thị Nướn",
         "Mã HRM": "00105454",
-        "Bộ phận / Phòng ban": "VHX",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-PL-NUONL",
         "Loại máy": "Desktop",
@@ -1636,9 +1636,20 @@
         "IP Address": "192.168.1.5",
         "MAC Address": "E0:D5:5E:34:AC:5A"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-06-30T09:37:25",
-      "updatedAt": "2026-06-30T09:37:25"
+      "updatedAt": "2026-07-16T07:18:27"
     },
     {
       "id": "d73fc27852734f25b56514cae2d0ef83",
