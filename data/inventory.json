@@ -793,13 +793,23 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Hp M203dn",
+          "serial": ""
+        },
+        {
           "type": "thermal_printer",
-          "name": "",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebera",
           "serial": ""
         }
       ],
       "createdAt": "2026-06-30T03:42:57",
-      "updatedAt": "2026-07-16T04:16:57"
+      "updatedAt": "2026-07-16T04:20:07"
     },
     {
       "id": "e40cc29ed1484f4980b75c408d3b4843",
