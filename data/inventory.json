@@ -1391,12 +1391,12 @@
       "id": "9e6fd89ced6d4ee0b813bd528acb2c46",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "HÁT LÓT",
-        "Tên Xã": "NGÔ TIẾN TÂN",
+        "Mã BĐ Xã": "3650",
+        "Tên Xã": "Bưu điện xã Mai Sơn",
         "Mã Bưu cục": "361540",
-        "Tên Bưu cục": "361540",
-        "Họ và tên người sử dụng": "NGÔ TIÊN TÂN",
-        "Mã HRM": "CORE",
+        "Tên Bưu cục": "Hát Lót",
+        "Họ và tên người sử dụng": "Ngô Tiến Tân",
+        "Mã HRM": "0005...",
         "Bộ phận / Phòng ban": "HP",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "HP",
@@ -1424,7 +1424,7 @@
         }
       ],
       "createdAt": "2026-06-30T08:41:07",
-      "updatedAt": "2026-06-30T08:41:07"
+      "updatedAt": "2026-07-16T04:46:15"
     },
     {
       "id": "ac4f655c243e4b159bb2232dfaf334a5",
