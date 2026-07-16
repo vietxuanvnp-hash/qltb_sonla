@@ -2975,6 +2975,39 @@
       "attachments": [],
       "createdAt": "2026-07-16T07:26:42",
       "updatedAt": "2026-07-16T07:26:42"
+    },
+    {
+      "id": "d4fc8f4f4e6745c9a4c86e65486ccf38",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363600",
+        "Tên Bưu cục": "PHÙ YÊN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ MAI",
+        "Mã HRM": "00069410",
+        "Bộ phận / Phòng ban": "KIỂM SOÁT VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-GDTT-MAI",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWR",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.17.4",
+        "MAC Address": "F4:6B:8C:CC:B9:13"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T07:29:07",
+      "updatedAt": "2026-07-16T07:29:07"
     }
   ]
 }
