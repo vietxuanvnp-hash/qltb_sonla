@@ -1187,13 +1187,13 @@
       "id": "9abbfb97a52046ccb00494a78ac5e660",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "003652",
-        "Tên Xã": "Chiềng Mung",
+        "Mã BĐ Xã": "3652",
+        "Tên Xã": "Bưu điện xã Chiềng Mung",
         "Mã Bưu cục": "361810",
         "Tên Bưu cục": "Nà sản",
         "Họ và tên người sử dụng": "Lò Văn Cương",
         "Mã HRM": "00277608",
-        "Bộ phận / Phòng ban": "giao dịch",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-NS-THU",
         "Loại máy": "Desktop",
@@ -1230,7 +1230,7 @@
         }
       ],
       "createdAt": "2026-06-30T07:42:56",
-      "updatedAt": "2026-06-30T07:42:56"
+      "updatedAt": "2026-07-16T04:38:25"
     },
     {
       "id": "5032270f2dfe492cb98c527b87b3bb90",
