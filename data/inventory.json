@@ -854,13 +854,13 @@
       "id": "2a774f1ed7a84bbea69103f481e613bf",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3641",
+        "Tên Xã": "Bưu điện xã Mường Cơi",
         "Mã Bưu cục": "363810",
-        "Tên Bưu cục": "BĐ VHX TÂN LANG",
-        "Họ và tên người sử dụng": "SA THỊ MY",
+        "Tên Bưu cục": "Tân Lang",
+        "Họ và tên người sử dụng": "Sa Thị My",
         "Mã HRM": "00218231",
-        "Bộ phận / Phòng ban": "nhân viên vhx",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-J9P6PAR",
         "Loại máy": "Desktop",
@@ -879,9 +879,25 @@
         "IP Address": "192.168.1.7",
         "MAC Address": "10:B6:76:9E:22:C6"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother-B2000d",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra-PC45d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebera",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-06-30T04:40:17",
-      "updatedAt": "2026-06-30T04:40:17"
+      "updatedAt": "2026-07-16T04:22:31"
     },
     {
       "id": "7d4155a7ec264ea9ac18713dc3c1b61a",
