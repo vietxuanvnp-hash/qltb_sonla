@@ -1719,13 +1719,13 @@
       "id": "d1232eb3695946089b7af3c1d610721a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3626",
+        "Tên Xã": "Bưu điện xã Mường É",
         "Mã Bưu cục": "366160",
-        "Tên Bưu cục": "mường é",
+        "Tên Bưu cục": "Mường É",
         "Họ và tên người sử dụng": "Lường Thị Nướn",
         "Mã HRM": "00105454",
-        "Bộ phận / Phòng ban": "VHX",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-ME-HAIQV",
         "Loại máy": "Desktop",
@@ -1744,9 +1744,25 @@
         "IP Address": "192.168.1.9",
         "MAC Address": "C4:34:6B:4F:F8:F0"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebera",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-06-30T11:15:19",
-      "updatedAt": "2026-06-30T11:15:19"
+      "updatedAt": "2026-07-16T07:37:16"
     },
     {
       "id": "b1682f79965f49b3805c50ca28393ed8",
