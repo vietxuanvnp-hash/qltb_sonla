@@ -2390,13 +2390,13 @@
       "id": "7788496d27564522aae8b8cc56b49bfc",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3601",
+        "Tên Xã": "Bưu điện Phường Chiềng An",
         "Mã Bưu cục": "361280",
-        "Tên Bưu cục": "BƯU ĐIỆN VHX CHIỀNG XÔM",
-        "Họ và tên người sử dụng": "LÒ THỊ HẢI YẾN",
+        "Tên Bưu cục": "Chiềng Xôm",
+        "Họ và tên người sử dụng": "Lò Thị Hải Yến",
         "Mã HRM": "1",
-        "Bộ phận / Phòng ban": "VHX CHIỀNG XÔM",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-56KAIV9",
         "Loại máy": "Desktop",
@@ -2417,13 +2417,18 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": ""
+        },
+        {
           "type": "thermal_printer",
-          "name": "",
+          "name": "Xprint",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-15T02:37:36",
-      "updatedAt": "2026-07-15T02:37:36"
+      "updatedAt": "2026-07-16T08:06:43"
     },
     {
       "id": "cbe5b0d7dce64aaf92bd3589479fc15a",
