@@ -733,13 +733,13 @@
       "id": "2d464f377e5a458c9e649a106f9b8069",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "Bưu điện xã Yên Châu",
         "Mã Bưu cục": "3645",
-        "Tên Bưu cục": "YÊN CHÂU",
+        "Tên Bưu cục": "Bưu điện xã Yên Châu",
         "Họ và tên người sử dụng": "CẦM THỊ LIÊN HƯƠNG",
         "Mã HRM": "00227975",
-        "Bộ phận / Phòng ban": "PHÒNG TCKH",
+        "Bộ phận / Phòng ban": "Kế toán",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "HUONGCTL-3645",
         "Loại máy": "Desktop",
@@ -760,7 +760,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-30T03:30:31",
-      "updatedAt": "2026-06-30T03:30:31"
+      "updatedAt": "2026-07-16T04:15:30"
     },
     {
       "id": "3acb074e7475419b9041c3ef4ecf5dae",
