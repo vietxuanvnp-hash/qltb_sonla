@@ -3026,10 +3026,10 @@
         "Mã BĐ Xã": "3601",
         "Tên Xã": "Bưu điện phường Chiềng An",
         "Mã Bưu cục": "361275",
-        "Tên Bưu cục": "Bưu cục Chiềng An",
+        "Tên Bưu cục": "Chiềng An",
         "Họ và tên người sử dụng": "Vũ Quỳnh Hương",
         "Mã HRM": "00081519",
-        "Bộ phận / Phòng ban": "BC GD3",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
         "Mã vật tư": "",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "CC207113",
         "Tên tài sản\n(Theo danh mục CCDC)": "Máy in mã vạch (Khối Sản xuất)",
@@ -3046,7 +3046,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-16T07:26:42",
-      "updatedAt": "2026-07-16T09:08:23"
+      "updatedAt": "2026-07-16T09:48:46"
     },
     {
       "id": "d4fc8f4f4e6745c9a4c86e65486ccf38",
