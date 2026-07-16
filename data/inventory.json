@@ -1665,11 +1665,11 @@
         "Mã HRM": "00056732",
         "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
-        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "CC207240",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "CC207240",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in (Khối Sản xuất)",
         "Khổ giấy": "A4",
-        "Hãng": "Hp LaserJet P2035",
-        "Model": "",
+        "Hãng": "Hp",
+        "Model": "LaserJet P2035",
         "Năm sản xuất": "",
         "Serial Number": "",
         "Kết nối": "",
@@ -1680,7 +1680,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-30T10:55:04",
-      "updatedAt": "2026-07-16T07:33:14"
+      "updatedAt": "2026-07-16T09:27:32"
     },
     {
       "id": "931a4b105ca64dc8886698ed08052c08",
