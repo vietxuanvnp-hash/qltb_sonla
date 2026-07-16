@@ -2911,6 +2911,39 @@
       ],
       "createdAt": "2026-07-16T07:24:11",
       "updatedAt": "2026-07-16T07:24:11"
+    },
+    {
+      "id": "d0c5f35d8a8e446bb9c126d5e7c19bd4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3638",
+        "Tên Xã": "Bưu Điện Xã Phù Yên",
+        "Mã Bưu cục": "003638",
+        "Tên Bưu cục": "Bưu điện Xã Phù Yên",
+        "Họ và tên người sử dụng": "Hà Thị Quỳnh Mai",
+        "Mã HRM": "00056630",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-TQ-MAITH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132KG",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "License Windows": "OEM 7N4MJ-3JXVB-FVJ6Y-7KXQV-XD7YP",
+        "License Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.17.31",
+        "MAC Address": "38:22:E2:19:3D:7F"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-16T07:45:39",
+      "updatedAt": "2026-07-16T07:45:39"
     }
   ]
 }
