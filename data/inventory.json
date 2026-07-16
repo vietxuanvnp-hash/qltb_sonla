@@ -369,7 +369,7 @@
         "Tên Bưu cục": "Bưu điện xã Sông Mã",
         "Họ và tên người sử dụng": "Bùi Văn Nam",
         "Mã HRM": "00071385",
-        "Bộ phận / Phòng ban": "NV Kinh Doanh",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SM-KD-NAMBD",
         "Loại máy": "Desktop",
@@ -390,7 +390,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-30T01:19:39",
-      "updatedAt": "2026-07-15T07:16:00"
+      "updatedAt": "2026-07-16T03:51:01"
     },
     {
       "id": "9c4680f0f1de49399d2dba135d43cda4",
