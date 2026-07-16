@@ -1562,13 +1562,13 @@
       "id": "762c366161ff49e8b269c741ec15313e",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3632",
-        "Tên Xã": "Bắc Yên",
+        "Mã BĐ Xã": "3643",
+        "Tên Xã": "BCVH Bắc Yên",
         "Mã Bưu cục": "364370",
-        "Tên Bưu cục": "Bắc Yên",
+        "Tên Bưu cục": "BCP Bắc Yên",
         "Họ và tên người sử dụng": "Đinh Văn Ngoan",
         "Mã HRM": "00056915",
-        "Bộ phận / Phòng ban": "Bưu cục phát Bắc Yên",
+        "Bộ phận / Phòng ban": "Bưu cục phát",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-BY-KT-NGOAN",
         "Loại máy": "Desktop",
@@ -1605,7 +1605,7 @@
         }
       ],
       "createdAt": "2026-06-30T09:29:08",
-      "updatedAt": "2026-06-30T09:29:08"
+      "updatedAt": "2026-07-16T07:27:14"
     },
     {
       "id": "f0fac5b91c8241218cf20fae8194ddfe",
