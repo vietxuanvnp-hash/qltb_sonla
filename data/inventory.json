@@ -286,7 +286,7 @@
         "Tên Bưu cục": "GD2 Thuận Châu",
         "Họ và tên người sử dụng": "LÒ THỊ NHÂM",
         "Mã HRM": "00056714",
-        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Bộ phận / Phòng ban": "GD2 Thuận Châu",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-GD2-HANG",
         "Loại máy": "Desktop",
@@ -318,7 +318,7 @@
         }
       ],
       "createdAt": "2026-06-29T09:18:43",
-      "updatedAt": "2026-07-15T03:35:28"
+      "updatedAt": "2026-07-16T03:31:02"
     },
     {
       "id": "52f10f7c257a47e68562295103628784",
