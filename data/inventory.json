@@ -1001,13 +1001,13 @@
       "id": "c6b5ca8285194903b573b1ac92a4388f",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3657",
-        "Tên Xã": "THUẬN CHÂU",
+        "Mã BĐ Xã": "3619",
+        "Tên Xã": "Bưu điện xã Thuận Châu",
         "Mã Bưu cục": "365810",
-        "Tên Bưu cục": "BƯU CỤC CHIỀNG PẤC",
-        "Họ và tên người sử dụng": "QUÀNG THỊ NINH",
+        "Tên Bưu cục": "Chiềng Pấc",
+        "Họ và tên người sử dụng": "Quàng Thị Ninh",
         "Mã HRM": "00260970",
-        "Bộ phận / Phòng ban": "QUẦY GIAO DỊCH",
+        "Bộ phận / Phòng ban": "Bưu cục cấp 3",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-CP-02",
         "Loại máy": "Desktop",
@@ -1028,6 +1028,11 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
           "type": "thermal_printer",
           "name": "HONEYWELL",
           "serial": "PC45D"
@@ -1039,7 +1044,7 @@
         }
       ],
       "createdAt": "2026-06-30T07:04:47",
-      "updatedAt": "2026-06-30T07:04:47"
+      "updatedAt": "2026-07-16T04:29:58"
     },
     {
       "id": "f1b164ac94c24ec5a52f2ca34222f231",
