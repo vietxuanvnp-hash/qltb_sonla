@@ -952,13 +952,13 @@
       "id": "087301eb5fc14507ac71bdaf4f605e95",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "366050",
-        "Tên Xã": "xã chiềng la",
+        "Mã BĐ Xã": "3620",
+        "Tên Xã": "Bưu điện xã Chiềng La",
         "Mã Bưu cục": "366080",
-        "Tên Bưu cục": "BƯU ĐIỆN XÃ CHIỀNG LA",
+        "Tên Bưu cục": "Chiềng La",
         "Họ và tên người sử dụng": "QUÀNG THỊ DOM",
         "Mã HRM": "014186005809",
-        "Bộ phận / Phòng ban": "GIÁM ĐỐC BƯU ĐIỆN XÃ",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-15LL5HB",
         "Loại máy": "Desktop",
@@ -979,7 +979,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-30T05:12:22",
-      "updatedAt": "2026-06-30T05:12:22"
+      "updatedAt": "2026-07-16T04:26:49"
     },
     {
       "id": "c6b5ca8285194903b573b1ac92a4388f",
