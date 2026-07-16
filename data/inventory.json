@@ -1568,7 +1568,7 @@
         "Tên Bưu cục": "BCP Bắc Yên",
         "Họ và tên người sử dụng": "Đinh Văn Ngoan",
         "Mã HRM": "00056915",
-        "Bộ phận / Phòng ban": "Bưu cục phát",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-BY-KT-NGOAN",
         "Loại máy": "Desktop",
@@ -1605,7 +1605,7 @@
         }
       ],
       "createdAt": "2026-06-30T09:29:08",
-      "updatedAt": "2026-07-16T07:27:14"
+      "updatedAt": "2026-07-16T09:45:39"
     },
     {
       "id": "f0fac5b91c8241218cf20fae8194ddfe",
