@@ -1686,13 +1686,13 @@
       "id": "931a4b105ca64dc8886698ed08052c08",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "367340",
-        "Tên Xã": "xã Bó sinh, Sơn La",
+        "Mã BĐ Xã": "3687",
+        "Tên Xã": "Bưu điện xã Bó Sinh",
         "Mã Bưu cục": "367340",
-        "Tên Bưu cục": "BĐ VHX Bó Sinh",
+        "Tên Bưu cục": "Bó Sinh",
         "Họ và tên người sử dụng": "Bạc Cầm Núi",
         "Mã HRM": "00056732",
-        "Bộ phận / Phòng ban": "Bản Phống 2",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SM-BS",
         "Loại máy": "Desktop",
@@ -1713,7 +1713,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-30T11:03:58",
-      "updatedAt": "2026-06-30T11:03:58"
+      "updatedAt": "2026-07-16T07:34:27"
     },
     {
       "id": "d1232eb3695946089b7af3c1d610721a",
