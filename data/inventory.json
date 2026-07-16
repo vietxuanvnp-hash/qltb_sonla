@@ -3359,13 +3359,13 @@
       "id": "7029f7a3249f47dcb8a6ebfe850672de",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3636",
+        "Tên Xã": "BCVH Phù Yên",
         "Mã Bưu cục": "363670",
-        "Tên Bưu cục": "363670.tinh",
+        "Tên Bưu cục": "BCP Phù Yên",
         "Họ và tên người sử dụng": "Hà Văn Tình",
         "Mã HRM": "00056985",
-        "Bộ phận / Phòng ban": "bcp",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-KT-HAIDN",
         "Loại máy": "Desktop",
@@ -3384,9 +3384,25 @@
         "IP Address": "10.27.17.19",
         "MAC Address": "F4:6B:8C:CC:B9:2E"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra PC42d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Motorola",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-16T09:30:22",
-      "updatedAt": "2026-07-16T09:30:22"
+      "updatedAt": "2026-07-16T09:44:54"
     }
   ]
 }
