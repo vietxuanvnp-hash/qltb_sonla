@@ -1309,12 +1309,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3632",
-        "Tên Xã": "BẮC YÊN",
-        "Mã Bưu cục": "364300",
-        "Tên Bưu cục": "BẮC YÊN",
+        "Tên Xã": "Bưu điện xã Bắc Yên",
+        "Mã Bưu cục": "3632",
+        "Tên Bưu cục": "Bưu điện xã Bắc Yên",
         "Họ và tên người sử dụng": "ĐINH VĂN CỨU",
         "Mã HRM": "00263250",
-        "Bộ phận / Phòng ban": "THỦ QUỸ",
+        "Bộ phận / Phòng ban": "Thủ quỹ",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-BY-TQ-HIENT",
         "Loại máy": "Desktop",
@@ -1341,7 +1341,7 @@
         }
       ],
       "createdAt": "2026-06-30T08:18:41",
-      "updatedAt": "2026-06-30T08:18:41"
+      "updatedAt": "2026-07-16T04:42:19"
     },
     {
       "id": "79700af318f44ca3b25e81d8d44b9855",
