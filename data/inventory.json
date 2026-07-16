@@ -2517,13 +2517,13 @@
       "id": "fbe9a1cca58a47dbb0212970a5685638",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3600",
+        "Tên Xã": "Bưu điện Phường Tô Hiệu",
         "Mã Bưu cục": "360000",
-        "Tên Bưu cục": "Sơn La",
+        "Tên Bưu cục": "Giao dịch Sơn La",
         "Họ và tên người sử dụng": "Bùi Thị Loan",
         "Mã HRM": "00056927",
-        "Bộ phận / Phòng ban": "BC trung tâm sơn la",
+        "Bộ phận / Phòng ban": "Bưu cục GD1",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TP-KHL3",
         "Loại máy": "Desktop",
@@ -2545,22 +2545,22 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "",
+          "name": "Canon-2900",
           "serial": ""
         },
         {
           "type": "thermal_printer",
-          "name": "",
+          "name": "Honneywell Pc42d",
           "serial": ""
         },
         {
           "type": "barcode_reader",
-          "name": "",
+          "name": "Zebera",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-15T03:05:39",
-      "updatedAt": "2026-07-15T03:05:39"
+      "updatedAt": "2026-07-16T08:11:00"
     },
     {
       "id": "145df9acb5e740dfa4a1ee306aba7dca",
