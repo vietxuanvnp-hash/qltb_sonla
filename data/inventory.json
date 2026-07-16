@@ -903,13 +903,13 @@
       "id": "7d4155a7ec264ea9ac18713dc3c1b61a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3642",
+        "Tên Xã": "Bưu điện xã Mường Bang",
         "Mã Bưu cục": "363770",
-        "Tên Bưu cục": "VHX MƯỜNG DO",
+        "Tên Bưu cục": "Mường Do",
         "Họ và tên người sử dụng": "Lê Văn Hiệp",
         "Mã HRM": "00072974",
-        "Bộ phận / Phòng ban": "bưu điện xã mường bang",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-MUONGDO",
         "Loại máy": "Desktop",
@@ -928,9 +928,25 @@
         "IP Address": "192.168.1.8",
         "MAC Address": "10:B6:76:9E:22:19"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebera-Pc45d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-06-30T04:46:15",
-      "updatedAt": "2026-06-30T04:46:15"
+      "updatedAt": "2026-07-16T04:24:28"
     },
     {
       "id": "087301eb5fc14507ac71bdaf4f605e95",
