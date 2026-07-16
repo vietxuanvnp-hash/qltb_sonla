@@ -1847,12 +1847,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3632",
-        "Tên Xã": "Bắc Yên",
+        "Tên Xã": "Bưu điện xã Bắc Yên",
         "Mã Bưu cục": "364571",
         "Tên Bưu cục": "Song Pe",
         "Họ và tên người sử dụng": "Hà Văn Thức",
         "Mã HRM": "00056893",
-        "Bộ phận / Phòng ban": "Điểm VHX Song Pe",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-NHUR1P3",
         "Loại máy": "Desktop",
@@ -1884,7 +1884,7 @@
         }
       ],
       "createdAt": "2026-07-01T01:57:32",
-      "updatedAt": "2026-07-01T01:57:32"
+      "updatedAt": "2026-07-16T07:45:29"
     },
     {
       "id": "c1d10f4c711d41218192225927cd4f0a",
