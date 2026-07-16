@@ -2741,6 +2741,55 @@
       ],
       "createdAt": "2026-07-16T02:53:21",
       "updatedAt": "2026-07-16T02:53:21"
+    },
+    {
+      "id": "63d408b4f6804e7cb0af10f81f740c6f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3636",
+        "Tên Xã": "PHÙ YÊN",
+        "Mã Bưu cục": "363600",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ PHÙ YÊN",
+        "Họ và tên người sử dụng": "NÔNG THU HƯƠNG",
+        "Mã HRM": "00106274",
+        "Bộ phận / Phòng ban": "PHÒNG GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-GDTT-VAN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAX0",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "242 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.17",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWELL",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "HP LASER JET P1102",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-16T04:09:45",
+      "updatedAt": "2026-07-16T04:09:45"
     }
   ]
 }
