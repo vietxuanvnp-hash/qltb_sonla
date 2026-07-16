@@ -1524,12 +1524,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3632",
-        "Tên Xã": "Bắc Yên",
+        "Tên Xã": "Bưu điện xã Bắc Yên",
         "Mã Bưu cục": "364300",
-        "Tên Bưu cục": "Bắc Yên",
+        "Tên Bưu cục": "GD2 Bắc Yên",
         "Họ và tên người sử dụng": "Đinh Thị Ngàn",
         "Mã HRM": "00257817",
-        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm bưu điện Bắc Yên",
+        "Bộ phận / Phòng ban": "Bưu cụ GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-BY-KD-NGANT",
         "Loại máy": "Desktop",
@@ -1548,9 +1548,15 @@
         "IP Address": "10.27.19.10",
         "MAC Address": "F4:6B:8C:CC:BB:58"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-06-30T09:12:00",
-      "updatedAt": "2026-06-30T09:12:00"
+      "updatedAt": "2026-07-16T04:50:52"
     },
     {
       "id": "762c366161ff49e8b269c741ec15313e",
