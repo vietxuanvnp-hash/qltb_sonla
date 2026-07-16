@@ -2637,13 +2637,13 @@
       },
       "attachments": [
         {
-          "type": "thermal_printer",
-          "name": "xprinter",
+          "type": "laser_printer",
+          "name": "canon lbp6030",
           "serial": ""
         },
         {
-          "type": "photocopier",
-          "name": "canon lbp6030",
+          "type": "thermal_printer",
+          "name": "xprinter",
           "serial": ""
         },
         {
@@ -2653,7 +2653,7 @@
         }
       ],
       "createdAt": "2026-07-15T03:24:21",
-      "updatedAt": "2026-07-16T08:13:05"
+      "updatedAt": "2026-07-16T08:13:40"
     },
     {
       "id": "41fccc0d244249289cbcb8f4e87a0e05",
