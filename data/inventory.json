@@ -2835,13 +2835,13 @@
       "id": "63d408b4f6804e7cb0af10f81f740c6f",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3636",
-        "Tên Xã": "PHÙ YÊN",
+        "Mã BĐ Xã": "3638",
+        "Tên Xã": "Bưu điện xã Phù Yên",
         "Mã Bưu cục": "363600",
-        "Tên Bưu cục": "BƯU ĐIỆN XÃ PHÙ YÊN",
-        "Họ và tên người sử dụng": "NÔNG THU HƯƠNG",
+        "Tên Bưu cục": "GD2 Phù Yên",
+        "Họ và tên người sử dụng": "Nông Thu Hương",
         "Mã HRM": "00106274",
-        "Bộ phận / Phòng ban": "PHÒNG GIAO DỊCH",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-GDTT-VAN",
         "Loại máy": "Desktop",
@@ -2863,7 +2863,7 @@
       "attachments": [
         {
           "type": "thermal_printer",
-          "name": "HONEYWELL",
+          "name": "HONEYWELL PC42d",
           "serial": ""
         },
         {
@@ -2878,7 +2878,7 @@
         }
       ],
       "createdAt": "2026-07-16T04:09:45",
-      "updatedAt": "2026-07-16T04:09:45"
+      "updatedAt": "2026-07-16T09:03:14"
     },
     {
       "id": "05388da0771f49f8adb3f021646b511d",
