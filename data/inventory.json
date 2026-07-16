@@ -805,8 +805,8 @@
       "id": "e40cc29ed1484f4980b75c408d3b4843",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3638",
+        "Tên Xã": "Bưu điện xã Phù Yên",
         "Mã Bưu cục": "3638",
         "Tên Bưu cục": "Bưu điện xã Phù Yên",
         "Họ và tên người sử dụng": "Nguyễn Thị Hà",
@@ -838,7 +838,7 @@
         }
       ],
       "createdAt": "2026-06-30T04:00:40",
-      "updatedAt": "2026-06-30T04:00:40"
+      "updatedAt": "2026-07-16T04:17:48"
     },
     {
       "id": "2a774f1ed7a84bbea69103f481e613bf",
