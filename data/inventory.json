@@ -1100,12 +1100,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3650",
-        "Tên Xã": "Mai Sơn",
+        "Tên Xã": "Bưu điện xã Mai Sơn",
         "Mã Bưu cục": "361500",
-        "Tên Bưu cục": "Bưu cục trung tâm",
+        "Tên Bưu cục": "GD2 Mai Sơn",
         "Họ và tên người sử dụng": "Vì Thị Thanh Kiều",
         "Mã HRM": "00056406",
-        "Bộ phận / Phòng ban": "Giao dịch",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-KSV-KIEU",
         "Loại máy": "Desktop",
@@ -1129,10 +1129,15 @@
           "type": "laser_printer",
           "name": "Canon LBP2900",
           "serial": "NMYA530038"
+        },
+        {
+          "type": "scanner",
+          "name": "Zebra",
+          "serial": ""
         }
       ],
       "createdAt": "2026-06-30T07:34:12",
-      "updatedAt": "2026-06-30T07:34:12"
+      "updatedAt": "2026-07-16T04:34:05"
     },
     {
       "id": "97ee43f4886d4c6ba0c1c6617a0a7cee",
