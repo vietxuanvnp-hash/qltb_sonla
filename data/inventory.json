@@ -1891,12 +1891,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3633",
-        "Tên Xã": "Tà Xùa",
+        "Tên Xã": "Bưu điện xã Tà Xùa",
         "Mã Bưu cục": "364399",
         "Tên Bưu cục": "Làng Chếu",
         "Họ và tên người sử dụng": "Hạng A Nếnh",
         "Mã HRM": "00258100",
-        "Bộ phận / Phòng ban": "VHX Làng Chếu",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "ADMIN-PC",
         "Loại máy": "Desktop",
@@ -1923,7 +1923,7 @@
         }
       ],
       "createdAt": "2026-07-01T02:41:31",
-      "updatedAt": "2026-07-01T02:41:31"
+      "updatedAt": "2026-07-16T07:47:12"
     },
     {
       "id": "77a2bfe22bf8417baf84fc992e141157",
