@@ -3073,6 +3073,50 @@
       "attachments": [],
       "createdAt": "2026-07-16T07:30:39",
       "updatedAt": "2026-07-16T07:30:39"
+    },
+    {
+      "id": "aaae7a9e49314dd081c622d595bda6db",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Đông Sang",
+        "Mã Bưu cục": "362890",
+        "Tên Bưu cục": "Đông Sang",
+        "Họ và tên người sử dụng": "Quách Thị Huyền",
+        "Mã HRM": "00278330",
+        "Bộ phận / Phòng ban": "GDV Xã Đông Sang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "321 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "74:D4:35:41:B4:56"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJET PRO M203d",
+          "serial": "VNP4D00644"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "A8 Thermal Receipt Printer",
+          "serial": "PTAP211201463-EX"
+        }
+      ],
+      "createdAt": "2026-07-16T07:35:03",
+      "updatedAt": "2026-07-16T07:35:03"
     }
   ]
 }
