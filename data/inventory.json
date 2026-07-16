@@ -1808,12 +1808,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3660",
-        "Tên Xã": "xã chiềng khoong",
+        "Tên Xã": "Bưu điện xã Chiềng Khoong",
         "Mã Bưu cục": "366910",
-        "Tên Bưu cục": "Mường cai",
-        "Họ và tên người sử dụng": "Lò văn pâng",
+        "Tên Bưu cục": "Mường Cai",
+        "Họ và tên người sử dụng": "Lò Văn Pâng",
         "Mã HRM": "00242926",
-        "Bộ phận / Phòng ban": "Văn hóa mường cai xã chiềng khoong tỉnh sơn la",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SM-MCAI",
         "Loại máy": "Desktop",
@@ -1834,13 +1834,13 @@
       },
       "attachments": [
         {
-          "type": "photocopier",
-          "name": "",
+          "type": "laser_printer",
+          "name": "Brother",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-01T01:52:15",
-      "updatedAt": "2026-07-01T01:52:15"
+      "updatedAt": "2026-07-16T07:44:22"
     },
     {
       "id": "41084d76f8d2406c9f2115d648294415",
