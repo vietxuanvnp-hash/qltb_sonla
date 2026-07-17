@@ -4131,6 +4131,39 @@
       "attachments": [],
       "createdAt": "2026-07-17T09:25:55",
       "updatedAt": "2026-07-17T09:25:55"
+    },
+    {
+      "id": "e0d7336c94f54f7d926e2c32c09b521a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "367730",
+        "Tên Xã": "SỐP CỘP",
+        "Mã Bưu cục": "367730",
+        "Tên Bưu cục": "BĐ NẬM LẠNH",
+        "Họ và tên người sử dụng": "VÌ THỊ MAI",
+        "Mã HRM": "00056797",
+        "Bộ phận / Phòng ban": "BĐ NẬM LẠNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-LCGHTKT",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S13C",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.15.19",
+        "MAC Address": "C4:34:6B:58:D4:88"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:27:58",
+      "updatedAt": "2026-07-17T09:27:58"
     }
   ]
 }
