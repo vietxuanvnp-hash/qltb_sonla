@@ -3408,13 +3408,13 @@
       "id": "182f731139604740a8155f63f22112bd",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3656",
+        "Tên Xã": "Bưu điện xã Chiềng Sung",
         "Mã Bưu cục": "361730",
-        "Tên Bưu cục": "VHX Chiềng Sung",
+        "Tên Bưu cục": "Chiềng Sung",
         "Họ và tên người sử dụng": "Nguyễn Thị Hằng",
         "Mã HRM": "00056452",
-        "Bộ phận / Phòng ban": "GDV",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-CS-HANGT",
         "Loại máy": "Desktop",
@@ -3441,12 +3441,12 @@
         },
         {
           "type": "barcode_reader",
-          "name": "",
+          "name": "Zebera",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-17T00:53:50",
-      "updatedAt": "2026-07-17T00:53:50"
+      "updatedAt": "2026-07-17T03:36:42"
     },
     {
       "id": "e3beb9015bb948f893a94bd7385d717e",
