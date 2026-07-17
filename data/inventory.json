@@ -3496,6 +3496,50 @@
       ],
       "createdAt": "2026-07-17T02:32:57",
       "updatedAt": "2026-07-17T02:32:57"
+    },
+    {
+      "id": "8765a8118c114a6880c0f642dc4b5e97",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3636",
+        "Tên Xã": "PHÙ YÊN",
+        "Mã Bưu cục": "363600",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ PHÙ YÊN",
+        "Họ và tên người sử dụng": "NÔNG THU HƯƠNG",
+        "Mã HRM": "00106274",
+        "Bộ phận / Phòng ban": "PHÒNG GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-GDTT-VAN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAX0",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "242 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.17",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HONEYWEL",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "HP",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T03:13:08",
+      "updatedAt": "2026-07-17T03:13:08"
     }
   ]
 }
