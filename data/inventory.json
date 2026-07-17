@@ -4430,6 +4430,45 @@
       ],
       "createdAt": "2026-07-17T10:26:43",
       "updatedAt": "2026-07-17T10:26:43"
+    },
+    {
+      "id": "209ed1d308654c2a9dec25740954f81a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "367170",
+        "Tên Bưu cục": "Bưu điện văn hóa xã Chiềng Sơ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hải Linh",
+        "Mã HRM": "00242665",
+        "Bộ phận / Phòng ban": "bưu cục gd3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-CS-TRUON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3668",
+        "Năm sản xuất": "",
+        "Serial Number": "9T0Y9P2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "932 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "8C:EC:4B:62:74:A2"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "WNN-58E",
+          "serial": "58022512100674"
+        }
+      ],
+      "createdAt": "2026-07-17T14:00:47",
+      "updatedAt": "2026-07-17T14:00:47"
     }
   ]
 }
