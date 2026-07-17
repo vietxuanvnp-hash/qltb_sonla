@@ -4066,13 +4066,13 @@
       "id": "506cb9a2b8ce41f689c1593432215428",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "366340",
-        "Tên Xã": "XÃ CO MẠ",
+        "Mã BĐ Xã": "3680",
+        "Tên Xã": "Bưu điện xã Co Mạ",
         "Mã Bưu cục": "366340",
-        "Tên Bưu cục": "CO MẠ",
+        "Tên Bưu cục": "Co Mạ",
         "Họ và tên người sử dụng": "LÒ VĂN SIỂNG",
         "Mã HRM": "00248403",
-        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ CO MẠ",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-CM",
         "Loại máy": "Desktop",
@@ -4109,7 +4109,7 @@
         }
       ],
       "createdAt": "2026-07-17T09:22:56",
-      "updatedAt": "2026-07-17T09:22:56"
+      "updatedAt": "2026-07-17T09:36:07"
     },
     {
       "id": "d3393be57afc46e3a377077528da339b",
