@@ -4050,6 +4050,55 @@
       "attachments": [],
       "createdAt": "2026-07-17T09:13:07",
       "updatedAt": "2026-07-17T09:19:51"
+    },
+    {
+      "id": "506cb9a2b8ce41f689c1593432215428",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "366340",
+        "Tên Xã": "XÃ CO MẠ",
+        "Mã Bưu cục": "366340",
+        "Tên Bưu cục": "CO MẠ",
+        "Họ và tên người sử dụng": "LÒ VĂN SIỂNG",
+        "Mã HRM": "00248403",
+        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ CO MẠ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-CM",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXR",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "F4:6B:8C:CC:B9:D3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "BROTHER HL-B2000D",
+          "serial": "E78340E2N815671"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER XP-DT426B",
+          "serial": "426BUG255240075"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "20205010562371"
+        }
+      ],
+      "createdAt": "2026-07-17T09:22:56",
+      "updatedAt": "2026-07-17T09:22:56"
     }
   ]
 }
