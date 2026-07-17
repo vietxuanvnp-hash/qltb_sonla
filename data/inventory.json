@@ -4338,6 +4338,38 @@
       ],
       "createdAt": "2026-07-17T09:53:20",
       "updatedAt": "2026-07-17T09:53:20"
+    },
+    {
+      "id": "01b7d99957634e8082b220e7cccace20",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362830",
+        "Tên Bưu cục": "THẢO NGUYÊN",
+        "Họ và tên người sử dụng": "PHẠM MINH THÙY",
+        "Mã HRM": "00056545",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG THẢO NGUYÊN",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BÀN",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "200253434",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:52:09",
+      "updatedAt": "2026-07-17T09:52:09"
     }
   ]
 }
