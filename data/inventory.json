@@ -3731,6 +3731,55 @@
       ],
       "createdAt": "2026-07-17T08:41:45",
       "updatedAt": "2026-07-17T08:43:47"
+    },
+    {
+      "id": "191b112de61e459b921d3a9e28c2d528",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "365950",
+        "Tên Xã": "Bưu điện xã Mường Khiêng",
+        "Mã Bưu cục": "365950",
+        "Tên Bưu cục": "Bưu điện xã Mường Khiêng",
+        "Họ và tên người sử dụng": "Bạc Thị Hương",
+        "Mã HRM": "00272777",
+        "Bộ phận / Phòng ban": "Điểm giao dịch xã Mường Khiêng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "BIOSTAR Group",
+        "Model": "H61MLV2",
+        "Năm sản xuất": "",
+        "Serial Number": "None",
+        "CPU": "Intel(R) Pentium(R) CPU G850 @ 2.90GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "943 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "B8:97:5A:16:16:47"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T08:55:31",
+      "updatedAt": "2026-07-17T08:55:31"
     }
   ]
 }
