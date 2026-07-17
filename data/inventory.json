@@ -4050,6 +4050,39 @@
       ],
       "createdAt": "2026-07-17T09:04:58",
       "updatedAt": "2026-07-17T09:04:58"
+    },
+    {
+      "id": "dde82dd3e0bd48b0a44a7a70b5b1d2e6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363620",
+        "Tên Bưu cục": "363620.ha",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "00056985",
+        "Bộ phận / Phòng ban": "khai thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-KT-HAIDN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAX8",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.17.19",
+        "MAC Address": "F4:6B:8C:CC:B9:2E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:13:07",
+      "updatedAt": "2026-07-17T09:13:07"
     }
   ]
 }
