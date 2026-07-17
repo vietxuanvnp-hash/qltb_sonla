@@ -3868,13 +3868,13 @@
       "id": "ab15868bdc91401e9ff8e25d0d78eebe",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "366340",
-        "Tên Xã": "XÃ CO MẠ",
+        "Mã BĐ Xã": "3680",
+        "Tên Xã": "Bưu điện xã Co Mạ",
         "Mã Bưu cục": "366340",
-        "Tên Bưu cục": "CO MẠ",
+        "Tên Bưu cục": "Co Mạ",
         "Họ và tên người sử dụng": "LÒ VĂN SIỂNG",
         "Mã HRM": "00248403",
-        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ CO MẠ",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-CM",
         "Loại máy": "Desktop",
@@ -3903,10 +3903,15 @@
           "type": "thermal_printer",
           "name": "XPRINTER",
           "serial": "426bug255240075"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebera",
+          "serial": ""
         }
       ],
       "createdAt": "2026-07-17T09:01:52",
-      "updatedAt": "2026-07-17T09:01:52"
+      "updatedAt": "2026-07-17T09:13:25"
     },
     {
       "id": "e15051419d12433289d5257ece8d0a47",
