@@ -4294,6 +4294,50 @@
       ],
       "createdAt": "2026-07-17T09:44:54",
       "updatedAt": "2026-07-17T09:44:54"
+    },
+    {
+      "id": "14c9f51f8bd144cd8aa6875e5c4c3258",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "366530",
+        "Tên Xã": "Bưu điện xã Nậm lầu",
+        "Mã Bưu cục": "366530",
+        "Tên Bưu cục": "Điểm bưu điện xã Nậm Lầu",
+        "Họ và tên người sử dụng": "Quàng Thị Diên",
+        "Mã HRM": "00267608",
+        "Bộ phận / Phòng ban": "Điểm giao dịch xã Nậm lầu",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-QAPLBF8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZL31H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office LTSC Standard 2021 - en-us",
+        "License Windows": "OEM PRMN6-G6J7P-Q92CF-92GRG-XQBK3",
+        "License Office": "Microsoft Office LTSC Standard 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "48:4D:7E:DE:75:78"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T09:53:20",
+      "updatedAt": "2026-07-17T09:53:20"
     }
   ]
 }
