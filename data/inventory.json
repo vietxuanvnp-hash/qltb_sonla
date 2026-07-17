@@ -4098,13 +4098,13 @@
       "id": "e0d7336c94f54f7d926e2c32c09b521a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "367730",
-        "Tên Xã": "SỐP CỘP",
+        "Mã BĐ Xã": "3666",
+        "Tên Xã": "Bưu điện xã Sốp Cộp",
         "Mã Bưu cục": "367730",
-        "Tên Bưu cục": "BĐ NẬM LẠNH",
-        "Họ và tên người sử dụng": "VÌ THỊ MAI",
+        "Tên Bưu cục": "Nậm Lạnh",
+        "Họ và tên người sử dụng": "Vì Thị Mai",
         "Mã HRM": "00056797",
-        "Bộ phận / Phòng ban": "BĐ NẬM LẠNH",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-LCGHTKT",
         "Loại máy": "Desktop",
@@ -4123,9 +4123,20 @@
         "IP Address": "10.27.15.19",
         "MAC Address": "C4:34:6B:58:D4:88"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symple",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-17T09:27:58",
-      "updatedAt": "2026-07-17T09:27:58"
+      "updatedAt": "2026-07-17T09:43:41"
     },
     {
       "id": "6cfd625312524fd380d7941c2d1670f5",
