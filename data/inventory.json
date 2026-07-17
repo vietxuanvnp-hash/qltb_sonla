@@ -3501,13 +3501,13 @@
       "id": "d093626ed3e74e3dbf13273cf96722f9",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3647",
+        "Tên Xã": "BCVH Mường La",
         "Mã Bưu cục": "364820",
-        "Tên Bưu cục": "Mường La",
+        "Tên Bưu cục": "BCP Mường La",
         "Họ và tên người sử dụng": "Lường Thị Thảo",
         "Mã HRM": "00056623",
-        "Bộ phận / Phòng ban": "BCP Mường La",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-ML-KHAITHAC",
         "Loại máy": "Desktop",
@@ -3544,7 +3544,7 @@
         }
       ],
       "createdAt": "2026-07-17T03:17:19",
-      "updatedAt": "2026-07-17T03:17:19"
+      "updatedAt": "2026-07-17T03:39:05"
     }
   ]
 }
