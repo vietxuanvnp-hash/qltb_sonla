@@ -3687,13 +3687,13 @@
       "id": "7776c0d75edb4f119a12dec0ac28cd1f",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3638",
+        "Tên Xã": "Bưu điện xã Phù Yên",
         "Mã Bưu cục": "363600",
-        "Tên Bưu cục": "Phù Yên",
+        "Tên Bưu cục": "GD2 Phù Yên",
         "Họ và tên người sử dụng": "Đinh THị Hằng",
         "Mã HRM": "00056681",
-        "Bộ phận / Phòng ban": "GDV",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "ADMIN-PC",
         "Loại máy": "Desktop",
@@ -3714,6 +3714,11 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "HP 4003dn",
+          "serial": ""
+        },
+        {
           "type": "barcode_reader",
           "name": "SYMBOL",
           "serial": ""
@@ -3725,7 +3730,7 @@
         }
       ],
       "createdAt": "2026-07-17T08:41:45",
-      "updatedAt": "2026-07-17T08:41:45"
+      "updatedAt": "2026-07-17T08:43:47"
     }
   ]
 }
