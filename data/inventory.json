@@ -3907,6 +3907,39 @@
       ],
       "createdAt": "2026-07-17T09:01:52",
       "updatedAt": "2026-07-17T09:01:52"
+    },
+    {
+      "id": "e15051419d12433289d5257ece8d0a47",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "367910",
+        "Tên Xã": "MƯỜNG LÈO",
+        "Mã Bưu cục": "367910",
+        "Tên Bưu cục": "MƯỜNG LÈO",
+        "Họ và tên người sử dụng": "LÒ VĂN THUẤN",
+        "Mã HRM": "00056786",
+        "Bộ phận / Phòng ban": "BDDX MƯỜNG LÈO",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SC-ML",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop Pro G2",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE9170MTN",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "C8:D9:D2:22:0D:3E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:03:08",
+      "updatedAt": "2026-07-17T09:03:08"
     }
   ]
 }
