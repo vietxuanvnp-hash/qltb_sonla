@@ -4391,6 +4391,45 @@
       "attachments": [],
       "createdAt": "2026-07-17T10:21:51",
       "updatedAt": "2026-07-17T10:21:51"
+    },
+    {
+      "id": "3aaa11eaa8d149a29dff4af125a2262c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3619",
+        "Tên Xã": "Thuận Châu",
+        "Mã Bưu cục": "3619",
+        "Tên Bưu cục": "Bưu điện xã Thuận Châu",
+        "Họ và tên người sử dụng": "Bạc Thị Luých",
+        "Mã HRM": "00110762",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-LUYCHBT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXJ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.16.42",
+        "MAC Address": "F4:6B:8C:CC:B9:DE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Hewlett-Packard HP Laserjet 5200L",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T10:26:43",
+      "updatedAt": "2026-07-17T10:26:43"
     }
   ]
 }
