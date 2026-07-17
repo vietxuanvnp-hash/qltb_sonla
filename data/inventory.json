@@ -4099,6 +4099,38 @@
       ],
       "createdAt": "2026-07-17T09:22:56",
       "updatedAt": "2026-07-17T09:22:56"
+    },
+    {
+      "id": "d3393be57afc46e3a377077528da339b",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "SƠN LA",
+        "Mã BĐ Xã": "366340",
+        "Tên Xã": "XÃ CO MẠ",
+        "Mã Bưu cục": "366340",
+        "Tên Bưu cục": "CO MẠ",
+        "Họ và tên người sử dụng": "LÒ VĂN SIỂNG",
+        "Mã HRM": "00248403",
+        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ CO MẠ",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30KG",
+        "Serial Number": "200254393",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "QUẦY DAO DỊCH BƯU ĐIỆN XÃ CO MẠ",
+        "Tình trạng hoạt động": "BÌNH THƯỜNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:25:55",
+      "updatedAt": "2026-07-17T09:25:55"
     }
   ]
 }
