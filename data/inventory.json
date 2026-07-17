@@ -3529,6 +3529,55 @@
       "attachments": [],
       "createdAt": "2026-07-17T03:13:10",
       "updatedAt": "2026-07-17T03:13:10"
+    },
+    {
+      "id": "d093626ed3e74e3dbf13273cf96722f9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "364820",
+        "Tên Bưu cục": "Mường La",
+        "Họ và tên người sử dụng": "Lường Thị Thảo",
+        "Mã HRM": "00056623",
+        "Bộ phận / Phòng ban": "BCP Mường La",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-ML-KHAITHAC",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAYC",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.22.20",
+        "MAC Address": "F4:6B:8C:CC:B9:D1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LPB2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZRBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T03:17:19",
+      "updatedAt": "2026-07-17T03:17:19"
     }
   ]
 }
