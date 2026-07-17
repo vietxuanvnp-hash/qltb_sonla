@@ -4022,13 +4022,13 @@
       "id": "dde82dd3e0bd48b0a44a7a70b5b1d2e6",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "363620",
-        "Tên Bưu cục": "363620.ha",
+        "Mã BĐ Xã": "3636",
+        "Tên Xã": "BCVH Phù Yên",
+        "Mã Bưu cục": "363670",
+        "Tên Bưu cục": "BCP Phù Yên",
         "Họ và tên người sử dụng": "Nguyễn Thị Hà",
         "Mã HRM": "00056985",
-        "Bộ phận / Phòng ban": "khai thác",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-KT-HAIDN",
         "Loại máy": "Desktop",
@@ -4049,7 +4049,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-17T09:13:07",
-      "updatedAt": "2026-07-17T09:13:07"
+      "updatedAt": "2026-07-17T09:19:51"
     }
   ]
 }
