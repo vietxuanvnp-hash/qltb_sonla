@@ -3785,13 +3785,13 @@
       "id": "bad016400b8b4a29b86449a7442d1f7c",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
+        "Mã BĐ Xã": "3638",
         "Tên Xã": "Bưu điện xã Phù yên",
         "Mã Bưu cục": "363980",
         "Tên Bưu cục": "Huy Bắc",
-        "Họ và tên người sử dụng": "vì duy hùng",
+        "Họ và tên người sử dụng": "Vì Duy Hùng",
         "Mã HRM": "00242345",
-        "Bộ phận / Phòng ban": "Bưu tá",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-HB-HUNGH",
         "Loại máy": "Desktop",
@@ -3823,7 +3823,7 @@
         }
       ],
       "createdAt": "2026-07-17T08:56:57",
-      "updatedAt": "2026-07-17T08:56:57"
+      "updatedAt": "2026-07-17T09:05:28"
     },
     {
       "id": "178729bfcc01457ba5d3bfacf58ad389",
