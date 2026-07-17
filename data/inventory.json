@@ -4008,9 +4008,15 @@
         "IP Address": "192.168.1.29",
         "MAC Address": "FC:AA:14:81:EA:0E"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-17T09:04:07",
-      "updatedAt": "2026-07-17T09:04:07"
+      "updatedAt": "2026-07-17T09:15:15"
     },
     {
       "id": "dde82dd3e0bd48b0a44a7a70b5b1d2e6",
