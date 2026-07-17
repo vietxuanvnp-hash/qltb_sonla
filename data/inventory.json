@@ -4375,15 +4375,15 @@
       "id": "bf531d7c73d843baa046a4211df248e3",
       "category": "7. Cân Điện Tử",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3607",
+        "Tên Xã": "Bưu điện Phường Thảo Nguyên",
         "Mã Bưu cục": "362830",
         "Tên Bưu cục": "THẢO NGUYÊN",
         "Họ và tên người sử dụng": "PHẠM MINH THÙY",
         "Mã HRM": "00056545",
-        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG THẢO NGUYÊN",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
         "Mã vật tư": "CC207210",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
         "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
@@ -4401,7 +4401,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-17T09:56:19",
-      "updatedAt": "2026-07-17T09:56:19"
+      "updatedAt": "2026-07-17T09:58:40"
     }
   ]
 }
