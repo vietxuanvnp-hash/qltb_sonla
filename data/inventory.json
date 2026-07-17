@@ -3599,13 +3599,13 @@
       "id": "fff89f3a4514490aafb16353080d4072",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "000036",
-        "Tên Bưu cục": "Bưu điện tỉnh",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Văn phòng BĐT Sơn La",
         "Họ và tên người sử dụng": "Nguyễn Quốc Tú",
         "Mã HRM": "0056368",
-        "Bộ phận / Phòng ban": "TTKD",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SL-KTNV-TUNQ",
         "Loại máy": "Desktop",
@@ -3632,7 +3632,7 @@
         }
       ],
       "createdAt": "2026-07-17T08:27:17",
-      "updatedAt": "2026-07-17T08:27:17"
+      "updatedAt": "2026-07-17T08:34:11"
     },
     {
       "id": "183ee3d90f1a4e7391cf338348148f83",
