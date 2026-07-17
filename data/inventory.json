@@ -3940,6 +3940,39 @@
       "attachments": [],
       "createdAt": "2026-07-17T09:03:08",
       "updatedAt": "2026-07-17T09:03:08"
+    },
+    {
+      "id": "80b79efaaa6b4d9f91847f09888bdd79",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "367700",
+        "Tên Bưu cục": "BDX SỐP CỘP",
+        "Họ và tên người sử dụng": "LÒ THÙY LINH",
+        "Mã HRM": "00254145",
+        "Bộ phận / Phòng ban": "THỦ QUỸ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SC-TQ-LINH",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT00932436F",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "OEM 33NWW-YW37Q-R8F37-TVVTR-CR4JY",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, McAfee",
+        "IP Address": "10.27.15.212",
+        "MAC Address": "CC:28:AA:B2:3C:CD"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:03:02",
+      "updatedAt": "2026-07-17T09:03:02"
     }
   ]
 }
