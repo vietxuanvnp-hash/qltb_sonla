@@ -3550,13 +3550,13 @@
       "id": "a6690f6887064ba5884c8806e6ada615",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3640",
+        "Tên Xã": "Bưu điện xã Tường Thượng",
         "Mã Bưu cục": "364060",
         "Tên Bưu cục": "Tường Thượng",
         "Họ và tên người sử dụng": "Lò Thị Liên",
         "Mã HRM": "00056629",
-        "Bộ phận / Phòng ban": "BƯU CỤC GD3",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-TT-LL",
         "Loại máy": "Desktop",
@@ -3593,7 +3593,7 @@
         }
       ],
       "createdAt": "2026-07-17T07:26:57",
-      "updatedAt": "2026-07-17T07:26:57"
+      "updatedAt": "2026-07-17T08:42:16"
     },
     {
       "id": "fff89f3a4514490aafb16353080d4072",
