@@ -4115,15 +4115,15 @@
       "id": "d3393be57afc46e3a377077528da339b",
       "category": "7. Cân Điện Tử",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "SƠN LA",
-        "Mã BĐ Xã": "366340",
-        "Tên Xã": "XÃ CO MẠ",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3680",
+        "Tên Xã": "Bưu điện xã Co Mạ",
         "Mã Bưu cục": "366340",
-        "Tên Bưu cục": "CO MẠ",
+        "Tên Bưu cục": "Co Mạ",
         "Họ và tên người sử dụng": "LÒ VĂN SIỂNG",
         "Mã HRM": "00248403",
-        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ CO MẠ",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
         "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
@@ -4141,7 +4141,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-17T09:25:55",
-      "updatedAt": "2026-07-17T09:25:55"
+      "updatedAt": "2026-07-17T09:34:39"
     },
     {
       "id": "e0d7336c94f54f7d926e2c32c09b521a",
