@@ -3594,6 +3594,45 @@
       ],
       "createdAt": "2026-07-17T07:26:57",
       "updatedAt": "2026-07-17T07:26:57"
+    },
+    {
+      "id": "fff89f3a4514490aafb16353080d4072",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "000036",
+        "Tên Bưu cục": "Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Nguyễn Quốc Tú",
+        "Mã HRM": "0056368",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SL-KTNV-TUNQ",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "Vivo AIO 22 V222FA_V222FA",
+        "Năm sản xuất": "",
+        "Serial Number": "M7PTCJ008533276",
+        "CPU": "Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM 928TN-BTT62-PQCDQ-DP498-QDBMP",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "26.222.37.200",
+        "MAC Address": "02:50:2C:79:45:2B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LBP251dw/ Canon",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-07-17T08:27:17",
+      "updatedAt": "2026-07-17T08:27:17"
     }
   ]
 }
