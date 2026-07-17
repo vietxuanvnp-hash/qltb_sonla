@@ -3545,6 +3545,55 @@
       ],
       "createdAt": "2026-07-17T03:17:19",
       "updatedAt": "2026-07-17T03:39:05"
+    },
+    {
+      "id": "a6690f6887064ba5884c8806e6ada615",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "364060",
+        "Tên Bưu cục": "Tường Thượng",
+        "Họ và tên người sử dụng": "Lò Thị Liên",
+        "Mã HRM": "00056629",
+        "Bộ phận / Phòng ban": "BƯU CỤC GD3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-TT-LL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3W271H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM HBGFH-G8N7B-3QJH6-PG6RG-XQBK3",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "68:E4:3B:30:8D:40"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LserJet P2035",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T07:26:57",
+      "updatedAt": "2026-07-17T07:26:57"
     }
   ]
 }
