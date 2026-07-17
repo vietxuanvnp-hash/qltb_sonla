@@ -4250,6 +4250,50 @@
       "attachments": [],
       "createdAt": "2026-07-17T09:34:10",
       "updatedAt": "2026-07-17T09:34:10"
+    },
+    {
+      "id": "cf1d1516b4e042029dc9fcc0f437db1a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "366270",
+        "Tên Xã": "LONG HẸ",
+        "Mã Bưu cục": "366270",
+        "Tên Bưu cục": "XÃ LONG HẸ",
+        "Họ và tên người sử dụng": "QUÀNG VĂN THUẬN",
+        "Mã HRM": "00097626",
+        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ LONG HẸ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-PL-THUON",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop Pro G2",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE9170MT2",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "C8:D9:D2:21:F1:7A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "BROTHER HL-B2000D",
+          "serial": "E78340E2N815584"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER XP-58IIB",
+          "serial": "58IIBBKBU2CK00098"
+        }
+      ],
+      "createdAt": "2026-07-17T09:44:54",
+      "updatedAt": "2026-07-17T09:44:54"
     }
   ]
 }
