@@ -4013,50 +4013,6 @@
       "updatedAt": "2026-07-17T09:04:07"
     },
     {
-      "id": "69323c6dfe1f432299a5692f2a83f383",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "366340",
-        "Tên Xã": "XÃ CO MẠ",
-        "Mã Bưu cục": "366340",
-        "Tên Bưu cục": "CO MẠ",
-        "Họ và tên người sử dụng": "LÒ VĂN SIỂNG",
-        "Mã HRM": "00248403",
-        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ CO MẠ",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "SLA-TC-CM",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11SYS0T500",
-        "Năm sản xuất": "",
-        "Serial Number": "YLT0AAXR",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
-        "RAM": "3.7 GB",
-        "Ổ cứng": "239 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
-        "License Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.7",
-        "MAC Address": "F4:6B:8C:CC:B9:D3"
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "BROTHER HL B2000D",
-          "serial": "E78340E2N815671"
-        },
-        {
-          "type": "thermal_printer",
-          "name": "XPRINTER",
-          "serial": "426bug255240075"
-        }
-      ],
-      "createdAt": "2026-07-17T09:04:58",
-      "updatedAt": "2026-07-17T09:04:58"
-    },
-    {
       "id": "dde82dd3e0bd48b0a44a7a70b5b1d2e6",
       "category": "3. Máy Tính",
       "fields": {
