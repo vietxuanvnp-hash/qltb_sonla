@@ -4213,6 +4213,37 @@
       ],
       "createdAt": "2026-07-17T09:28:23",
       "updatedAt": "2026-07-17T09:28:23"
+    },
+    {
+      "id": "5b80267caabf4a3b8819d22cc0dcfdc1",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "366340",
+        "Tên Xã": "XÃ CO MẠ",
+        "Mã Bưu cục": "366340",
+        "Tên Bưu cục": "CO MẠ",
+        "Họ và tên người sử dụng": "LÒ VĂN SIỂNG",
+        "Mã HRM": "00248403",
+        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ CO MẠ",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "MÁY IN PHIẾU THU TIỀN ĐIỆN",
+        "Khổ giấy": "",
+        "Hãng": "XPRINTER",
+        "Model": "XP-58IIB",
+        "Năm sản xuất": "",
+        "Serial Number": "58IIBBKBU2CK00097",
+        "Kết nối": "",
+        "Nước sản xuất": "CHINA",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "1",
+        "Thời gian bảo hành (Còn/Hết)": "CÒN"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:29:27",
+      "updatedAt": "2026-07-17T09:29:27"
     }
   ]
 }
