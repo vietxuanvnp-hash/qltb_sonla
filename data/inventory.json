@@ -3973,6 +3973,39 @@
       "attachments": [],
       "createdAt": "2026-07-17T09:03:02",
       "updatedAt": "2026-07-17T09:03:02"
+    },
+    {
+      "id": "454b7c8e3f8d41d5bf8a206f07652fc6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3655",
+        "Tên Xã": "BĐX Tà Hộc",
+        "Mã Bưu cục": "362278",
+        "Tên Bưu cục": "Nà Bó",
+        "Họ và tên người sử dụng": "Lê Thị Thu Trang",
+        "Mã HRM": "00217173",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-NB-TRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.29",
+        "MAC Address": "FC:AA:14:81:EA:0E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:04:07",
+      "updatedAt": "2026-07-17T09:04:07"
     }
   ]
 }
