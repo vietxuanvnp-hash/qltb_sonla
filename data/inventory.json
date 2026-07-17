@@ -4255,6 +4255,39 @@
       "attachments": [],
       "createdAt": "2026-07-17T09:29:27",
       "updatedAt": "2026-07-17T09:29:27"
+    },
+    {
+      "id": "6cf1b90530214b3cb723528c65d24f24",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3639",
+        "Tên Xã": "Xã Gia Phù",
+        "Mã Bưu cục": "364020",
+        "Tên Bưu cục": "Gia Phù",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "00056654",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-GP-HATN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAX9",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, Avast Antivirus",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "F4:6B:8C:CC:BA:B8"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-17T09:34:10",
+      "updatedAt": "2026-07-17T09:34:10"
     }
   ]
 }
