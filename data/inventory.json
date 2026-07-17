@@ -3780,6 +3780,50 @@
       ],
       "createdAt": "2026-07-17T08:55:31",
       "updatedAt": "2026-07-17T08:55:31"
+    },
+    {
+      "id": "bad016400b8b4a29b86449a7442d1f7c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Phù yên",
+        "Mã Bưu cục": "363980",
+        "Tên Bưu cục": "Huy Bắc",
+        "Họ và tên người sử dụng": "vì duy hùng",
+        "Mã HRM": "00242345",
+        "Bộ phận / Phòng ban": "Bưu tá",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-HB-HUNGH",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S15M",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "192.168.1.37",
+        "MAC Address": "C4:34:6B:4F:A0:B0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother HL-B20000",
+          "serial": "E78340E2N81562"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "sewoo",
+          "serial": "sw19BST014173"
+        }
+      ],
+      "createdAt": "2026-07-17T08:56:57",
+      "updatedAt": "2026-07-17T08:56:57"
     }
   ]
 }
