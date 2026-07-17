@@ -3633,6 +3633,55 @@
       ],
       "createdAt": "2026-07-17T08:27:17",
       "updatedAt": "2026-07-17T08:27:17"
+    },
+    {
+      "id": "183ee3d90f1a4e7391cf338348148f83",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362500",
+        "Tên Bưu cục": "PHIÊNG KHOÀI",
+        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
+        "Mã HRM": "00056479",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-YC-PK-LYTL",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAY6",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.182",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON F161900",
+          "serial": "NEEA027795"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620, XPRINTER XP-Q260",
+          "serial": "D3J204205157,"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "MPA89E"
+        }
+      ],
+      "createdAt": "2026-07-17T08:33:00",
+      "updatedAt": "2026-07-17T08:33:00"
     }
   ]
 }
