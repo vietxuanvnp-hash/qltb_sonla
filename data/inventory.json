@@ -3917,13 +3917,13 @@
       "id": "e15051419d12433289d5257ece8d0a47",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "367910",
-        "Tên Xã": "MƯỜNG LÈO",
+        "Mã BĐ Xã": "3667",
+        "Tên Xã": "Bưu điện xã Púng Bánh",
         "Mã Bưu cục": "367910",
-        "Tên Bưu cục": "MƯỜNG LÈO",
-        "Họ và tên người sử dụng": "LÒ VĂN THUẤN",
+        "Tên Bưu cục": "Mường Lèo",
+        "Họ và tên người sử dụng": "Lò Văn Thuấn",
         "Mã HRM": "00056786",
-        "Bộ phận / Phòng ban": "BDDX MƯỜNG LÈO",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SC-ML",
         "Loại máy": "Desktop",
@@ -3942,9 +3942,20 @@
         "IP Address": "192.168.1.5",
         "MAC Address": "C8:D9:D2:22:0D:3E"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203d",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprint",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-17T09:03:08",
-      "updatedAt": "2026-07-17T09:03:08"
+      "updatedAt": "2026-07-17T09:33:03"
     },
     {
       "id": "80b79efaaa6b4d9f91847f09888bdd79",
