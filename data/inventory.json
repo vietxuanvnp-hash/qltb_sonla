@@ -3682,6 +3682,50 @@
       ],
       "createdAt": "2026-07-17T08:33:00",
       "updatedAt": "2026-07-17T08:35:58"
+    },
+    {
+      "id": "7776c0d75edb4f119a12dec0ac28cd1f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363600",
+        "Tên Bưu cục": "Phù Yên",
+        "Họ và tên người sử dụng": "Đinh THị Hằng",
+        "Mã HRM": "00056681",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE245CJJ7",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1170 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "OEM YXJDN-FMK8R-MWDDC-33WXJ-HMJGQ",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.17.24",
+        "MAC Address": "38:CA:84:45:FB:78"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T08:41:45",
+      "updatedAt": "2026-07-17T08:41:45"
     }
   ]
 }
