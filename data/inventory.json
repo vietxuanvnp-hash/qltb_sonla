@@ -462,18 +462,23 @@
       },
       "attachments": [
         {
-          "type": "thermal_printer",
-          "name": "",
+          "type": "laser_printer",
+          "name": "Canon 2900",
           "serial": ""
         },
         {
+          "type": "thermal_printer",
+          "name": "Xprint DT426B",
+          "serial": "426BUG255240074"
+        },
+        {
           "type": "barcode_reader",
-          "name": "",
+          "name": "Zebra DS22",
           "serial": ""
         }
       ],
       "createdAt": "2026-06-30T02:12:01",
-      "updatedAt": "2026-07-16T03:58:54"
+      "updatedAt": "2026-07-17T10:12:48"
     },
     {
       "id": "d1ea0f20f7804802a64564c34cb138b2",
