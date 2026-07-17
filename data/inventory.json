@@ -3638,13 +3638,13 @@
       "id": "183ee3d90f1a4e7391cf338348148f83",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3672",
+        "Tên Xã": "Bưu điện xã Phiêng Khoài",
         "Mã Bưu cục": "362500",
-        "Tên Bưu cục": "PHIÊNG KHOÀI",
-        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
+        "Tên Bưu cục": "Phiêng Khoài",
+        "Họ và tên người sử dụng": "Lê Thị Lý",
         "Mã HRM": "00056479",
-        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-YC-PK-LYTL",
         "Loại máy": "Desktop",
@@ -3681,7 +3681,7 @@
         }
       ],
       "createdAt": "2026-07-17T08:33:00",
-      "updatedAt": "2026-07-17T08:33:00"
+      "updatedAt": "2026-07-17T08:35:58"
     }
   ]
 }
