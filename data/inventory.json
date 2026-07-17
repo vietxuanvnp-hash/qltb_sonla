@@ -3824,6 +3824,45 @@
       ],
       "createdAt": "2026-07-17T08:56:57",
       "updatedAt": "2026-07-17T08:56:57"
+    },
+    {
+      "id": "178729bfcc01457ba5d3bfacf58ad389",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "HÁT LÓT",
+        "Tên Xã": "NGÔ TIẾN TÂN",
+        "Mã Bưu cục": "361540",
+        "Tên Bưu cục": "361540",
+        "Họ và tên người sử dụng": "NGÔ TIÊN TÂN",
+        "Mã HRM": "CORE",
+        "Bộ phận / Phòng ban": "HP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "HP",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "2025",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANNO",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-07-17T08:57:52",
+      "updatedAt": "2026-07-17T08:57:52"
     }
   ]
 }
