@@ -4164,6 +4164,55 @@
       "attachments": [],
       "createdAt": "2026-07-17T09:27:58",
       "updatedAt": "2026-07-17T09:27:58"
+    },
+    {
+      "id": "6cfd625312524fd380d7941c2d1670f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "366325",
+        "Tên Xã": "Mường Bám",
+        "Mã Bưu cục": "366325",
+        "Tên Bưu cục": "Bưu Điện VHX Mường Bám",
+        "Họ và tên người sử dụng": "Cà Thị Ly",
+        "Mã HRM": "00217180",
+        "Bộ phận / Phòng ban": "Giám đốc Bưu Điện xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-MB-LYCT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 7020",
+        "Năm sản xuất": "",
+        "Serial Number": "509C862",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "98:90:96:D7:BF:40"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-17T09:28:23",
+      "updatedAt": "2026-07-17T09:28:23"
     }
   ]
 }
