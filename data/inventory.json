@@ -3736,13 +3736,13 @@
       "id": "191b112de61e459b921d3a9e28c2d528",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "365950",
-        "Tên Xã": "Bưu điện xã Mường Khiêng",
+        "Mã BĐ Xã": "3619",
+        "Tên Xã": "Bưu điện xã Thuận Châu",
         "Mã Bưu cục": "365950",
-        "Tên Bưu cục": "Bưu điện xã Mường Khiêng",
+        "Tên Bưu cục": "Mường Khiêng",
         "Họ và tên người sử dụng": "Bạc Thị Hương",
         "Mã HRM": "00272777",
-        "Bộ phận / Phòng ban": "Điểm giao dịch xã Mường Khiêng",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "ADMIN",
         "Loại máy": "Desktop",
@@ -3764,22 +3764,22 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "",
+          "name": "Brother",
           "serial": ""
         },
         {
           "type": "thermal_printer",
-          "name": "",
+          "name": "Xprint",
           "serial": ""
         },
         {
           "type": "barcode_reader",
-          "name": "",
+          "name": "Zebra",
           "serial": ""
         }
       ],
       "createdAt": "2026-07-17T08:55:31",
-      "updatedAt": "2026-07-17T08:55:31"
+      "updatedAt": "2026-07-17T09:04:20"
     },
     {
       "id": "bad016400b8b4a29b86449a7442d1f7c",
