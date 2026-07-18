@@ -4429,13 +4429,18 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        },
+        {
           "type": "thermal_printer",
           "name": "WNN-58E",
           "serial": "58022512100674"
         }
       ],
       "createdAt": "2026-07-17T14:00:47",
-      "updatedAt": "2026-07-18T00:43:21"
+      "updatedAt": "2026-07-18T00:43:51"
     },
     {
       "id": "2297a574d93746388540c748c3fb6cf1",
