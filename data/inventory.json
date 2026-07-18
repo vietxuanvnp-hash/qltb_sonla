@@ -4502,6 +4502,39 @@
       "attachments": [],
       "createdAt": "2026-07-18T00:36:13",
       "updatedAt": "2026-07-18T00:36:13"
+    },
+    {
+      "id": "2297a574d93746388540c748c3fb6cf1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "362570",
+        "Tên Xã": "Chiềng Sàng",
+        "Mã Bưu cục": "362570",
+        "Tên Bưu cục": "BĐ Chiềng Sàng",
+        "Họ và tên người sử dụng": "Hoàng Văn Thu",
+        "Mã HRM": "00056497",
+        "Bộ phận / Phòng ban": "Bộ phận hỗ trợ CNTT tỉnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-YC-CS-THU",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "2025",
+        "Serial Number": "8CC5231LVN",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM BNYH8-4KW3K-7KR8V-B8Q4M-WHWGQ",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "F8:ED:FC:6A:70:F3"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-18T00:38:37",
+      "updatedAt": "2026-07-18T00:38:37"
     }
   ]
 }
