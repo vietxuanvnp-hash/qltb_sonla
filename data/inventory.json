@@ -4402,13 +4402,13 @@
       "id": "209ed1d308654c2a9dec25740954f81a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3665",
+        "Tên Xã": "Bưu điện xã Chiềng Sơ",
         "Mã Bưu cục": "367170",
-        "Tên Bưu cục": "Bưu điện văn hóa xã Chiềng Sơ",
+        "Tên Bưu cục": "Chiềng Sơ",
         "Họ và tên người sử dụng": "Nguyễn Thị Hải Linh",
         "Mã HRM": "00242665",
-        "Bộ phận / Phòng ban": "bưu cục gd3",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SM-CS-TRUON",
         "Loại máy": "Desktop",
@@ -4435,7 +4435,7 @@
         }
       ],
       "createdAt": "2026-07-17T14:00:47",
-      "updatedAt": "2026-07-17T14:00:47"
+      "updatedAt": "2026-07-18T00:43:21"
     },
     {
       "id": "2297a574d93746388540c748c3fb6cf1",
