@@ -4441,13 +4441,13 @@
       "id": "2297a574d93746388540c748c3fb6cf1",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "362570",
-        "Tên Xã": "Chiềng Sàng",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "Bưu điện xã Yên Châu",
         "Mã Bưu cục": "362570",
-        "Tên Bưu cục": "BĐ Chiềng Sàng",
+        "Tên Bưu cục": "Chiềng Sàng",
         "Họ và tên người sử dụng": "Hoàng Văn Thu",
         "Mã HRM": "00056497",
-        "Bộ phận / Phòng ban": "Bộ phận hỗ trợ CNTT tỉnh",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-YC-CS-THU",
         "Loại máy": "Desktop",
@@ -4466,9 +4466,15 @@
         "IP Address": "192.168.1.10",
         "MAC Address": "F8:ED:FC:6A:70:F3"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-18T00:38:37",
-      "updatedAt": "2026-07-18T00:38:37"
+      "updatedAt": "2026-07-18T00:41:50"
     }
   ]
 }
