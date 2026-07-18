@@ -4524,6 +4524,45 @@
       ],
       "createdAt": "2026-07-18T08:14:51",
       "updatedAt": "2026-07-18T08:14:51"
+    },
+    {
+      "id": "8e835d555b5f4623a9edd6a71174659c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh Sơn La",
+        "Họ và tên người sử dụng": "Nguyễn Tuấn Linh",
+        "Mã HRM": "00107158",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-SHO0GND",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "HLHSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "1152 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "OEM JM898-FNXMD-D6C48-XKF8V-R9CH2",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.157.79",
+        "MAC Address": "B0:7B:25:11:22:DF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB226DW",
+          "serial": "NPZA130988"
+        }
+      ],
+      "createdAt": "2026-07-18T10:19:15",
+      "updatedAt": "2026-07-18T10:19:15"
     }
   ]
 }
