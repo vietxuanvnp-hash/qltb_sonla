@@ -4563,6 +4563,39 @@
       ],
       "createdAt": "2026-07-18T10:19:15",
       "updatedAt": "2026-07-18T10:19:15"
+    },
+    {
+      "id": "5b155797922e460797e67b856ff25c80",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "363880",
+        "Tên Xã": "Buu dien xax Muong Thai",
+        "Mã Bưu cục": "363880",
+        "Tên Bưu cục": "Muong Thai",
+        "Họ và tên người sử dụng": "Trieu Thi Om",
+        "Mã HRM": "00264113",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S13W",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "9C:A2:F4:FD:84:64"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-19T04:45:12",
+      "updatedAt": "2026-07-19T04:45:12"
     }
   ]
 }
