@@ -4529,8 +4529,8 @@
       "id": "8e835d555b5f4623a9edd6a71174659c",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
         "Tên Bưu cục": "Văn phòng Bưu điện tỉnh Sơn La",
         "Họ và tên người sử dụng": "Nguyễn Tuấn Linh",
@@ -4562,7 +4562,7 @@
         }
       ],
       "createdAt": "2026-07-18T10:19:15",
-      "updatedAt": "2026-07-18T10:19:15"
+      "updatedAt": "2026-07-20T08:38:19"
     },
     {
       "id": "5b155797922e460797e67b856ff25c80",
