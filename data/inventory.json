@@ -4568,10 +4568,10 @@
       "id": "5b155797922e460797e67b856ff25c80",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "363880",
-        "Tên Xã": "Buu dien xax Muong Thai",
+        "Mã BĐ Xã": "3641",
+        "Tên Xã": "Bưu điện xã Mường Cơi",
         "Mã Bưu cục": "363880",
-        "Tên Bưu cục": "Muong Thai",
+        "Tên Bưu cục": "Mường Thải",
         "Họ và tên người sử dụng": "Trieu Thi Om",
         "Mã HRM": "00264113",
         "Bộ phận / Phòng ban": "VHX",
@@ -4595,7 +4595,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-19T04:45:12",
-      "updatedAt": "2026-07-19T04:45:12"
+      "updatedAt": "2026-07-20T07:10:01"
     }
   ]
 }
