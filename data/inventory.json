@@ -4728,6 +4728,38 @@
       ],
       "createdAt": "2026-07-21T07:38:10",
       "updatedAt": "2026-07-21T07:38:10"
+    },
+    {
+      "id": "f0ed5d880c3c4e3ba620497e89f974ed",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362890",
+        "Tên Bưu cục": "Đông Sang",
+        "Họ và tên người sử dụng": "Quách Thị Huyền",
+        "Mã HRM": "00278330",
+        "Bộ phận / Phòng ban": "GDV Xã Đông Sang",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử 30kg",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân điện tử để bàn (Weighing Balance)",
+        "Hãng sản xuất": "ONEKO",
+        "Model": "JK-A",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "5668671760",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2023-08-01",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "Quầy giao dịch Bưu điện Đông Sang",
+        "Tình trạng hoạt động": "Hoạt động bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-21T07:48:29",
+      "updatedAt": "2026-07-21T07:48:29"
     }
   ]
 }
