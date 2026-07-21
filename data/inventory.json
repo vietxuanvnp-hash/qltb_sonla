@@ -4640,6 +4640,50 @@
       ],
       "createdAt": "2026-07-21T02:19:03",
       "updatedAt": "2026-07-21T02:19:03"
+    },
+    {
+      "id": "9e9b512d5f0441ddaa800edb5a0e0b08",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3625 XÃ  BÌNH THUẬN",
+        "Tên Xã": "BƯU ĐIỆN XÃ BÌNH THUẬN",
+        "Mã Bưu cục": "366100 CHIỀNG PHA",
+        "Tên Bưu cục": "BƯU CỤC CHIỀNG PHA",
+        "Họ và tên người sử dụng": "LÒ THỊ HƯƠNG",
+        "Mã HRM": "00105453",
+        "Bộ phận / Phòng ban": "BƯU CỤC GD3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-CHIENGPH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop Pro G2",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE9170MLP",
+        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, OEM_DM channel 9HMJK",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "C8:D9:D2:21:D1:33"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER426bug255240039",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-21T07:33:19",
+      "updatedAt": "2026-07-21T07:33:19"
     }
   ]
 }
