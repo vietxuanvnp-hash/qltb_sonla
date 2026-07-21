@@ -4826,6 +4826,50 @@
       "attachments": [],
       "createdAt": "2026-07-21T07:54:38",
       "updatedAt": "2026-07-21T07:54:38"
+    },
+    {
+      "id": "5d1db77266e740458c1e83a234b80c73",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3617",
+        "Tên Xã": "BƯU ĐIỆN XÃ MƯỜNG GIÔN",
+        "Mã Bưu cục": "365540",
+        "Tên Bưu cục": "MƯỜNG GIÔN",
+        "Họ và tên người sử dụng": "LÒ VĂN VINH",
+        "Mã HRM": "00243771",
+        "Bộ phận / Phòng ban": "BƯU CỤC GD MƯỜNG GIÔN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-QN-MG-PHONG",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWW",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.132",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "XP58IIIB-BBU2502130070"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-21T09:31:41",
+      "updatedAt": "2026-07-21T09:31:41"
     }
   ]
 }
