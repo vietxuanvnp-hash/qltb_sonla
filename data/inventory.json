@@ -4596,6 +4596,50 @@
       "attachments": [],
       "createdAt": "2026-07-19T04:45:12",
       "updatedAt": "2026-07-20T07:10:01"
+    },
+    {
+      "id": "6a081684838e43ca9604972324c9cfdd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "366050",
+        "Tên Xã": "xã chiềng la",
+        "Mã Bưu cục": "366080",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ CHIỀNG LA",
+        "Họ và tên người sử dụng": "QUÀNG THỊ DOM",
+        "Mã HRM": "00056836",
+        "Bộ phận / Phòng ban": "GIÁM ĐỐC BƯU ĐIỆN XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-15LL5HB",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LK0",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM WPG4N-WVTDK-PX7QK-2D9QR-JHWGQ",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "F8:ED:FC:6A:6F:80"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-21T02:19:03",
+      "updatedAt": "2026-07-21T02:19:03"
     }
   ]
 }
