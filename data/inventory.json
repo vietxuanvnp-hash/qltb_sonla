@@ -887,8 +887,8 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "Brother-B2000d",
-          "serial": ""
+          "name": "HP-M203d",
+          "serial": "VNP4D03119"
         },
         {
           "type": "thermal_printer",
@@ -898,11 +898,11 @@
         {
           "type": "barcode_reader",
           "name": "Zebera",
-          "serial": ""
+          "serial": "19241010502786"
         }
       ],
       "createdAt": "2026-06-30T04:40:17",
-      "updatedAt": "2026-07-16T04:22:31"
+      "updatedAt": "2026-07-22T09:05:59"
     },
     {
       "id": "7d4155a7ec264ea9ac18713dc3c1b61a",
