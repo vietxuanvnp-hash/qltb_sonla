@@ -5020,13 +5020,13 @@
           "serial": "201320726541.3"
         },
         {
-          "type": "scanner",
+          "type": "barcode_reader",
           "name": "SYMBOL-LS2208",
           "serial": "Z0RKCK"
         }
       ],
       "createdAt": "2026-07-22T02:09:52",
-      "updatedAt": "2026-07-22T08:36:42"
+      "updatedAt": "2026-07-22T08:38:46"
     },
     {
       "id": "5d5e2cacd2be47a39d2a8c4222d66dbd",
