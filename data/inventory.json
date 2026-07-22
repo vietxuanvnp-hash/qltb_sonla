@@ -4718,7 +4718,7 @@
         {
           "type": "thermal_printer",
           "name": "XPRINTER",
-          "serial": "XP-DT426B"
+          "serial": "426bug255240039"
         },
         {
           "type": "barcode_reader",
@@ -4727,7 +4727,7 @@
         }
       ],
       "createdAt": "2026-07-21T07:38:10",
-      "updatedAt": "2026-07-21T07:38:10"
+      "updatedAt": "2026-07-22T09:27:51"
     },
     {
       "id": "f0ed5d880c3c4e3ba620497e89f974ed",
