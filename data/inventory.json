@@ -5030,6 +5030,45 @@
       ],
       "createdAt": "2026-07-22T02:09:52",
       "updatedAt": "2026-07-22T02:09:52"
+    },
+    {
+      "id": "021945cbf73943a5b22094bdbcf9231d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366130",
+        "Tên Bưu cục": "VHX PHỎNG LÁI",
+        "Họ và tên người sử dụng": "HOÀNG THỊ VÂN ANH",
+        "Mã HRM": "00262086",
+        "Bộ phận / Phòng ban": "TRƯỞNG BC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-PL-HAOTT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11CS002KVE",
+        "Năm sản xuất": "",
+        "Serial Number": "PC2EVASX",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "04:7C:16:1E:BD:3D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "PC-42d",
+          "serial": "PC42dHE03301"
+        }
+      ],
+      "createdAt": "2026-07-22T02:17:10",
+      "updatedAt": "2026-07-22T02:17:10"
     }
   ]
 }
