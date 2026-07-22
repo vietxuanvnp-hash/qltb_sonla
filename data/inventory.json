@@ -5027,13 +5027,13 @@
       "id": "5d5e2cacd2be47a39d2a8c4222d66dbd",
       "category": "7. Cân Điện Tử",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3625",
+        "Tên Xã": "Bưu điện xã Bình Thuận",
         "Mã Bưu cục": "366130",
         "Tên Bưu cục": "VHX PHỎNG LÁI",
-        "Họ và tên người sử dụng": "HOÀNG THỊ VÂN ANH",
+        "Họ và tên người sử dụng": "Hoàng Thị Vân Anh",
         "Mã HRM": "00262086",
         "Bộ phận / Phòng ban": "TRƯỞNG BC",
         "Mã vật tư": "",
@@ -5053,7 +5053,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-22T02:23:39",
-      "updatedAt": "2026-07-22T02:23:39"
+      "updatedAt": "2026-07-22T08:31:49"
     }
   ]
 }
