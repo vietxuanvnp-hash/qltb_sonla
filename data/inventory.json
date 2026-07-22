@@ -4645,13 +4645,13 @@
       "id": "9e9b512d5f0441ddaa800edb5a0e0b08",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3625 XÃ  BÌNH THUẬN",
+        "Mã BĐ Xã": "3625",
         "Tên Xã": "Bưu điện xã Bình Thuận",
         "Mã Bưu cục": "366100",
         "Tên Bưu cục": "Chiềng Pha",
-        "Họ và tên người sử dụng": "LÒ THỊ HƯƠNG",
+        "Họ và tên người sử dụng": "Lò Thị Hương",
         "Mã HRM": "00105453",
-        "Bộ phận / Phòng ban": "BƯU CỤC GD3",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-CHIENGPH",
         "Loại máy": "Desktop",
@@ -4683,7 +4683,7 @@
         }
       ],
       "createdAt": "2026-07-21T07:33:19",
-      "updatedAt": "2026-07-22T09:32:08"
+      "updatedAt": "2026-07-22T09:35:23"
     },
     {
       "id": "d9a3d486df86484eacb80076df2da2b8",
