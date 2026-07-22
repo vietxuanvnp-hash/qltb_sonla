@@ -4673,8 +4673,8 @@
       "attachments": [
         {
           "type": "thermal_printer",
-          "name": "XPRINTER426bug255240039",
-          "serial": ""
+          "name": "XPRINTER",
+          "serial": "426bug255240039"
         },
         {
           "type": "barcode_reader",
@@ -4683,7 +4683,7 @@
         }
       ],
       "createdAt": "2026-07-21T07:33:19",
-      "updatedAt": "2026-07-21T07:33:19"
+      "updatedAt": "2026-07-22T09:27:13"
     },
     {
       "id": "d9a3d486df86484eacb80076df2da2b8",
