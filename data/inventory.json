@@ -4643,8 +4643,10 @@
     },
     {
       "id": "9e9b512d5f0441ddaa800edb5a0e0b08",
-      "category": "3. Máy Tính",
+      "category": "4B. Máy In Nhiệt",
       "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
         "Mã BĐ Xã": "3625",
         "Tên Xã": "Bưu điện xã Bình Thuận",
         "Mã Bưu cục": "366100",
@@ -4652,38 +4654,23 @@
         "Họ và tên người sử dụng": "Lò Thị Hương",
         "Mã HRM": "00105453",
         "Bộ phận / Phòng ban": "Bưu điện VHX",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "SLA-TC-CHIENGPH",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Desktop Pro G2",
+        "Mã vật tư": "CC207113",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in mã vạch (Khối Sản xuất)",
+        "Khổ giấy": "58 mm",
+        "Hãng": "Xprint",
+        "Model": "58IIH",
         "Năm sản xuất": "",
-        "Serial Number": "4CE9170MLP",
-        "CPU": "Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "113 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "License Windows": "Windows(R) Operating System, OEM_DM channel 9HMJK",
-        "License Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.8",
-        "MAC Address": "C8:D9:D2:21:D1:33"
+        "Serial Number": "201320726541.3",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "XPRINTER",
-          "serial": "426bug255240039"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
+      "attachments": [],
       "createdAt": "2026-07-21T07:33:19",
-      "updatedAt": "2026-07-22T09:35:23"
+      "updatedAt": "2026-07-22T09:48:06"
     },
     {
       "id": "d9a3d486df86484eacb80076df2da2b8",
