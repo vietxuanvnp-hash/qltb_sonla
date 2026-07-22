@@ -4950,47 +4950,34 @@
     },
     {
       "id": "579becec73c6496686e46a318e75f000",
-      "category": "3. Máy Tính",
+      "category": "4B. Máy In Nhiệt",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3625",
+        "Tên Xã": "Bưu điện xã Bình Thuận",
         "Mã Bưu cục": "366130",
-        "Tên Bưu cục": "VHX PHỎNG LÁI",
-        "Họ và tên người sử dụng": "HOÀNG THỊ VÂN ANH",
-        "Mã HRM": "00",
-        "Bộ phận / Phòng ban": "TRƯỞNG BC",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "SLA-TC-PL-HAOTT",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11CS002KVE",
+        "Tên Bưu cục": "Phỏng Lái",
+        "Họ và tên người sử dụng": "Lò Thị Vân Anh",
+        "Mã HRM": "00056",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "CC207113",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in mã vạch(Khối Sản xuất)",
+        "Khổ giấy": "100x80",
+        "Hãng": "Honneywell",
+        "Model": "PC42d",
         "Năm sản xuất": "",
-        "Serial Number": "PC2EVASX",
-        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "240 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
-        "Office": "Microsoft Office Professional Plus 2016 - en-us",
-        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
-        "License Office": "Microsoft Office Professional Plus 2016 - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.2",
-        "MAC Address": "04:7C:16:1E:BD:3D"
+        "Serial Number": "PC42dHE03301",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HL-B2000D",
-          "serial": "e78340e2n815654"
-        },
-        {
-          "type": "thermal_printer",
-          "name": "XP-58IH",
-          "serial": "58IIHBU46244688"
-        }
-      ],
+      "attachments": [],
       "createdAt": "2026-07-22T02:08:14",
-      "updatedAt": "2026-07-22T02:08:14"
+      "updatedAt": "2026-07-22T08:23:10"
     },
     {
       "id": "14e367c8e6974188a86ff3b8d81654b8",
