@@ -5059,6 +5059,38 @@
       "attachments": [],
       "createdAt": "2026-07-22T02:23:39",
       "updatedAt": "2026-07-22T08:32:02"
+    },
+    {
+      "id": "5fa66ae43ec64ef3bf49ffd278e59612",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3641",
+        "Tên Xã": "Bưu điện xã Mường Cơi",
+        "Mã Bưu cục": "363810",
+        "Tên Bưu cục": "Tân Lang",
+        "Họ và tên người sử dụng": "Sa Thị My",
+        "Mã HRM": "00218231",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "200253231",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-22T09:25:11",
+      "updatedAt": "2026-07-22T09:25:11"
     }
   ]
 }
