@@ -4908,13 +4908,13 @@
       "id": "e8f416eb69a4482e885acfe9f0f72a60",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
+        "Mã BĐ Xã": "3638",
         "Tên Xã": "Xã Mường Bang",
         "Mã Bưu cục": "363800",
         "Tên Bưu cục": "Mường Lang",
         "Họ và tên người sử dụng": "Đinh Thị Huyền",
         "Mã HRM": "00244055",
-        "Bộ phận / Phòng ban": "Bưu cục",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-KHKD-LINHNM",
         "Loại máy": "Desktop",
@@ -4942,11 +4942,11 @@
         {
           "type": "thermal_printer",
           "name": "XP-58IIB",
-          "serial": ""
+          "serial": "58IIBBKBU2CK00095"
         }
       ],
       "createdAt": "2026-07-21T10:35:41",
-      "updatedAt": "2026-07-21T10:35:41"
+      "updatedAt": "2026-07-22T08:51:10"
     },
     {
       "id": "579becec73c6496686e46a318e75f000",
