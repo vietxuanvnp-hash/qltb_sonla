@@ -4983,13 +4983,13 @@
       "id": "14e367c8e6974188a86ff3b8d81654b8",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3625",
+        "Tên Xã": "Bưu điện xã Bình Thuận",
         "Mã Bưu cục": "366130",
-        "Tên Bưu cục": "VHX PHỎNG LÁI",
-        "Họ và tên người sử dụng": "HOÀNG THỊ VÂN ANH",
+        "Tên Bưu cục": "Phỏng Lái",
+        "Họ và tên người sử dụng": "Hoàng Thị Vân Anh",
         "Mã HRM": "00262086",
-        "Bộ phận / Phòng ban": "TRƯỞNG BC",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-PL-HAOTT",
         "Loại máy": "Desktop",
@@ -5013,10 +5013,15 @@
           "type": "laser_printer",
           "name": "HL-B2000D",
           "serial": "e78340e2n815654"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprint XP-58IIH",
+          "serial": "201320726541.3"
         }
       ],
       "createdAt": "2026-07-22T02:09:52",
-      "updatedAt": "2026-07-22T02:09:52"
+      "updatedAt": "2026-07-22T08:28:26"
     },
     {
       "id": "021945cbf73943a5b22094bdbcf9231d",
