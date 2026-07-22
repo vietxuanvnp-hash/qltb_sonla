@@ -4718,7 +4718,7 @@
         {
           "type": "laser_printer",
           "name": "Brother-B2000D",
-          "serial": ""
+          "serial": "E78340E2N815661"
         },
         {
           "type": "thermal_printer",
@@ -4728,11 +4728,11 @@
         {
           "type": "barcode_reader",
           "name": "ZEBRA TECH.CORP",
-          "serial": "DS2208"
+          "serial": "20213010563684"
         }
       ],
       "createdAt": "2026-07-21T07:38:10",
-      "updatedAt": "2026-07-22T09:36:21"
+      "updatedAt": "2026-07-22T09:44:44"
     },
     {
       "id": "f0ed5d880c3c4e3ba620497e89f974ed",
