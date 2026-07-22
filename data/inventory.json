@@ -4716,6 +4716,11 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Brother-B2000D",
+          "serial": ""
+        },
+        {
           "type": "thermal_printer",
           "name": "XPRINTER",
           "serial": "426bug255240039"
@@ -4727,7 +4732,7 @@
         }
       ],
       "createdAt": "2026-07-21T07:38:10",
-      "updatedAt": "2026-07-22T09:34:16"
+      "updatedAt": "2026-07-22T09:36:21"
     },
     {
       "id": "f0ed5d880c3c4e3ba620497e89f974ed",
