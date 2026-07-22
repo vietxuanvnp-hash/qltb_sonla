@@ -4742,37 +4742,6 @@
       "updatedAt": "2026-07-21T07:48:29"
     },
     {
-      "id": "9732562110204746aa181303aa5a4ef2",
-      "category": "5. Đầu Đọc Mã Vạch",
-      "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "362890",
-        "Tên Bưu cục": "Đông Sang",
-        "Họ và tên người sử dụng": "Quách Thị Huyền",
-        "Mã HRM": "00278330",
-        "Bộ phận / Phòng ban": "GDV Xã Đông Sang",
-        "Mã vật tư": "",
-        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "Đầu Đọc Mã Vạch không có tại đơn vị",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "Loại đọc": "",
-        "Kết nối": "",
-        "Nước sản xuất": "",
-        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
-        "Năm sử dụng": "",
-        "Thời gian bảo hành (Còn/Hết)": ""
-      },
-      "attachments": [],
-      "createdAt": "2026-07-21T07:54:38",
-      "updatedAt": "2026-07-21T07:54:38"
-    },
-    {
       "id": "5d1db77266e740458c1e83a234b80c73",
       "category": "3. Máy Tính",
       "fields": {
