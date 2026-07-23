@@ -5005,6 +5005,45 @@
       "attachments": [],
       "createdAt": "2026-07-22T09:25:11",
       "updatedAt": "2026-07-22T09:25:11"
+    },
+    {
+      "id": "c3a20764ed904915aa5612c33b023d5a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363750",
+        "Tên Bưu cục": "VHX MƯỜNG BANG",
+        "Họ và tên người sử dụng": "Phùng Thị Thơ",
+        "Mã HRM": "00056663",
+        "Bộ phận / Phòng ban": "nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 390",
+        "Năm sản xuất": "",
+        "Serial Number": "J7M2WBX",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-gb",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft 365 Apps for enterprise - en-gb",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "D0:67:E5:12:F3:14"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser Jet Pro M203d",
+          "serial": "VNP4D00624"
+        }
+      ],
+      "createdAt": "2026-07-23T08:53:58",
+      "updatedAt": "2026-07-23T08:53:58"
     }
   ]
 }
