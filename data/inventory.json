@@ -4997,6 +4997,38 @@
       "attachments": [],
       "createdAt": "2026-07-24T09:27:58",
       "updatedAt": "2026-07-24T09:27:58"
+    },
+    {
+      "id": "bed625f2ad0c464e8a2eba8d15b6958b",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363810",
+        "Tên Bưu cục": "BĐ VHX TÂN LANG",
+        "Họ và tên người sử dụng": "SA THỊ MY",
+        "Mã HRM": "00218231",
+        "Bộ phận / Phòng ban": "nhân viên vhx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CAS PR-II",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30KG",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-24T09:31:48",
+      "updatedAt": "2026-07-24T09:31:48"
     }
   ]
 }
