@@ -3744,13 +3744,13 @@
       "id": "80b79efaaa6b4d9f91847f09888bdd79",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "367700",
-        "Tên Bưu cục": "BDX SỐP CỘP",
-        "Họ và tên người sử dụng": "LÒ THÙY LINH",
+        "Mã BĐ Xã": "3666",
+        "Tên Xã": "Bưu điện xã Sốp Cộp",
+        "Mã Bưu cục": "3666",
+        "Tên Bưu cục": "Bưu điện xã Sốp Cộp",
+        "Họ và tên người sử dụng": "Lò Thùy Linh",
         "Mã HRM": "00254145",
-        "Bộ phận / Phòng ban": "THỦ QUỸ",
+        "Bộ phận / Phòng ban": "Thủ Quỹ",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SC-TQ-LINH",
         "Loại máy": "Desktop",
@@ -3769,9 +3769,20 @@
         "IP Address": "10.27.15.212",
         "MAC Address": "CC:28:AA:B2:3C:CD"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "Sharp",
+          "serial": ""
+        }
+      ],
       "createdAt": "2026-07-17T09:03:02",
-      "updatedAt": "2026-07-17T09:03:02"
+      "updatedAt": "2026-07-24T08:21:35"
     },
     {
       "id": "454b7c8e3f8d41d5bf8a206f07652fc6",
