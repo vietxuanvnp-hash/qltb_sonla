@@ -2123,7 +2123,7 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "36",
-        "Tên Xã": "Bưu điện tỉnh",
+        "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
         "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Hà Quang Trung",
@@ -2155,7 +2155,7 @@
         }
       ],
       "createdAt": "2026-07-13T04:08:15",
-      "updatedAt": "2026-07-16T08:01:28"
+      "updatedAt": "2026-07-24T08:09:28"
     },
     {
       "id": "b7ace1a548a041589b20b79f9f704b3e",
