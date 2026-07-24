@@ -4347,10 +4347,20 @@
           "type": "laser_printer",
           "name": "Canon-2900",
           "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprint",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "Santack",
+          "serial": ""
         }
       ],
       "createdAt": "2026-07-18T00:38:37",
-      "updatedAt": "2026-07-18T00:41:50"
+      "updatedAt": "2026-07-24T07:57:38"
     },
     {
       "id": "c8c56f5e1c2042fd9268cfb47f5c402f",
