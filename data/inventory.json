@@ -2649,45 +2649,6 @@
       "updatedAt": "2026-07-16T08:13:40"
     },
     {
-      "id": "41fccc0d244249289cbcb8f4e87a0e05",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "3600",
-        "Tên Xã": "Bưu điện Phường Tô Hiệu",
-        "Mã Bưu cục": "361280",
-        "Tên Bưu cục": "Chiềng Xôm",
-        "Họ và tên người sử dụng": "Lò Thị Hải Yến",
-        "Mã HRM": "00218399",
-        "Bộ phận / Phòng ban": "NV Kinh doanh tại điểm",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-56KAIV9",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 5060",
-        "Năm sản xuất": "",
-        "Serial Number": "2V950T2",
-        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "114 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "License Windows": "OEM QBTR6-GNV4T-F8BVC-2HGKX-9HJV2",
-        "License Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "10.200.120.191",
-        "MAC Address": "00:09:0F:AA:00:01"
-      },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "Canon 2900",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-07-15T07:49:16",
-      "updatedAt": "2026-07-15T09:48:08"
-    },
-    {
       "id": "26caf1998e3044dc8adfdb828fe5a2fe",
       "category": "3. Máy Tính",
       "fields": {
