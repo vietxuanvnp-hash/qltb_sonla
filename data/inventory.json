@@ -4904,6 +4904,37 @@
       ],
       "createdAt": "2026-07-23T08:53:58",
       "updatedAt": "2026-07-23T08:53:58"
+    },
+    {
+      "id": "f67369ef6eae4e81a20af5a5fa522e3c",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363810",
+        "Tên Bưu cục": "BĐ VHX TÂN LANG",
+        "Họ và tên người sử dụng": "SA THỊ MY",
+        "Mã HRM": "00218231",
+        "Bộ phận / Phòng ban": "nhân viên vhx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "laser Jet pro M203d",
+        "Khổ giấy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "VNP4D03119",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-24T09:24:35",
+      "updatedAt": "2026-07-24T09:24:35"
     }
   ]
 }
