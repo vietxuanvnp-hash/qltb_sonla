@@ -5060,6 +5060,37 @@
       "attachments": [],
       "createdAt": "2026-07-24T11:27:52",
       "updatedAt": "2026-07-24T11:27:52"
+    },
+    {
+      "id": "29f42d79bfc24e84af8feb2ded00c22f",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3638",
+        "Tên Bưu cục": "Phù Yên",
+        "Họ và tên người sử dụng": "Lê Cẩm Nhung",
+        "Mã HRM": "0056635",
+        "Bộ phận / Phòng ban": "Kế Toán",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in HL-B2000D",
+        "Khổ giấy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-24T11:30:11",
+      "updatedAt": "2026-07-24T11:30:11"
     }
   ]
 }
