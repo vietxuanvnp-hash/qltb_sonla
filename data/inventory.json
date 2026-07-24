@@ -4935,6 +4935,37 @@
       "attachments": [],
       "createdAt": "2026-07-24T09:24:35",
       "updatedAt": "2026-07-24T09:24:35"
+    },
+    {
+      "id": "6253633bd9364183bd814066267ed0f9",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363810",
+        "Tên Bưu cục": "BĐ VHX TÂN LANG",
+        "Họ và tên người sử dụng": "SA THỊ MY",
+        "Mã HRM": "00218231",
+        "Bộ phận / Phòng ban": "nhân viên vhx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Xprinter xp-5811H",
+        "Khổ giấy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "201320726541.3",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-24T09:26:23",
+      "updatedAt": "2026-07-24T09:26:23"
     }
   ]
 }
