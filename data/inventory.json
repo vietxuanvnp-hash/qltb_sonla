@@ -44,7 +44,7 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "36",
-        "Tên Xã": "Bưu điện tỉnh Sơn La",
+        "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3611",
         "Tên Bưu cục": "VP Trung tâm Vận Hành",
         "Họ và tên người sử dụng": "Lèo Việt Xuấn",
@@ -70,7 +70,7 @@
       },
       "attachments": [],
       "createdAt": "2026-06-15T08:19:36",
-      "updatedAt": "2026-07-15T01:12:14"
+      "updatedAt": "2026-07-24T08:08:13"
     },
     {
       "id": "3a08461d6454485d8fac0640decfe163",
