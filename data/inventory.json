@@ -5664,6 +5664,45 @@
       "attachments": [],
       "createdAt": "2026-07-27T08:40:50",
       "updatedAt": "2026-07-27T08:40:50"
+    },
+    {
+      "id": "a9edf8e778df4de8b9a83a9ed8e9dcbe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3632",
+        "Tên Xã": "Bưu điện xã Bắc yên",
+        "Mã Bưu cục": "364300",
+        "Tên Bưu cục": "Bưu cục Bắc yên",
+        "Họ và tên người sử dụng": "Trần Đình Duy",
+        "Mã HRM": "00056875",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-BY-KTT-DUYD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "G3MSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "236 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM DM9N3-X6W4M-RMPW7-RT9WY-FGDFC",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.19.16",
+        "MAC Address": "B0:7B:25:11:22:D5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "41001260"
+        }
+      ],
+      "createdAt": "2026-07-27T09:00:39",
+      "updatedAt": "2026-07-27T09:00:39"
     }
   ]
 }
