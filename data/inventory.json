@@ -5736,6 +5736,38 @@
       "attachments": [],
       "createdAt": "2026-07-27T09:03:59",
       "updatedAt": "2026-07-27T09:03:59"
+    },
+    {
+      "id": "9e5795c971f24a0fad80f056c1b5de59",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "SƠN LA",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "XÃ YÊN CHÂU",
+        "Mã Bưu cục": "362400",
+        "Tên Bưu cục": "BCTT YÊN CHÂU",
+        "Họ và tên người sử dụng": "QUÀNG THỊ HOA",
+        "Mã HRM": "00056474",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-27T09:05:57",
+      "updatedAt": "2026-07-27T09:05:57"
     }
   ]
 }
