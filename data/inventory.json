@@ -4945,15 +4945,15 @@
       "id": "bed625f2ad0c464e8a2eba8d15b6958b",
       "category": "7. Cân Điện Tử",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3641",
+        "Tên Xã": "Bưu điện xã Mường Cơi",
         "Mã Bưu cục": "363810",
-        "Tên Bưu cục": "BĐ VHX TÂN LANG",
-        "Họ và tên người sử dụng": "SA THỊ MY",
+        "Tên Bưu cục": "Tân Lang",
+        "Họ và tên người sử dụng": "Sa Thị My",
         "Mã HRM": "00218231",
-        "Bộ phận / Phòng ban": "nhân viên vhx",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "CC207210",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
         "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
@@ -4971,7 +4971,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-24T09:31:48",
-      "updatedAt": "2026-07-27T09:43:37"
+      "updatedAt": "2026-07-27T09:44:34"
     },
     {
       "id": "fb507a20cb4c425682ff2d06a32157e3",
