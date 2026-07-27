@@ -5274,6 +5274,50 @@
       ],
       "createdAt": "2026-07-27T07:38:35",
       "updatedAt": "2026-07-27T07:38:35"
+    },
+    {
+      "id": "3631177e5294457f8b1899ed5f518899",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3650",
+        "Tên Xã": "",
+        "Mã Bưu cục": "361500",
+        "Tên Bưu cục": "Mai Sơn",
+        "Họ và tên người sử dụng": "Phạm Thị Giang Hương",
+        "Mã HRM": "00056459",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-552FF6R",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.23.37",
+        "MAC Address": "E0:D5:5E:13:90:4B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB2900",
+          "serial": "NDMA297931"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "EPSON TM-T82II",
+          "serial": "TCEY007377"
+        }
+      ],
+      "createdAt": "2026-07-27T08:40:48",
+      "updatedAt": "2026-07-27T08:40:48"
     }
   ]
 }
