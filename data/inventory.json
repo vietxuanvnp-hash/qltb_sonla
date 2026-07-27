@@ -5230,6 +5230,50 @@
       "attachments": [],
       "createdAt": "2026-07-26T02:58:16",
       "updatedAt": "2026-07-26T02:58:16"
+    },
+    {
+      "id": "7b12ecc69b3642498f2543b0b2b24e62",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3650",
+        "Tên Xã": "Mai Sơn",
+        "Mã Bưu cục": "361500",
+        "Tên Bưu cục": "Bưu cục trung tâm",
+        "Họ và tên người sử dụng": "Phạm Thị Giang Hương",
+        "Mã HRM": "00056459",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-GDTT-HUO",
+        "Loại máy": "Desktop",
+        "Hãng": "BIOSTAR Group",
+        "Model": "H81MHV3",
+        "Năm sản xuất": "",
+        "Serial Number": "None",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "594 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.23.27",
+        "MAC Address": "B8:97:5A:FB:CC:DD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro 4003dn",
+          "serial": "VNC020202022"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "SEWOO SLK-TS400",
+          "serial": "SW20CST19819"
+        }
+      ],
+      "createdAt": "2026-07-27T07:38:35",
+      "updatedAt": "2026-07-27T07:38:35"
     }
   ]
 }
