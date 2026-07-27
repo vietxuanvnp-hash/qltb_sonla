@@ -935,16 +935,11 @@
         {
           "type": "thermal_printer",
           "name": "Zebera-Pc45d",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Zebra",
-          "serial": ""
+          "serial": "329C25A0109"
         }
       ],
       "createdAt": "2026-06-30T04:46:15",
-      "updatedAt": "2026-07-27T09:52:56"
+      "updatedAt": "2026-07-27T09:54:43"
     },
     {
       "id": "087301eb5fc14507ac71bdaf4f605e95",
