@@ -4954,14 +4954,14 @@
         "Họ và tên người sử dụng": "SA THỊ MY",
         "Mã HRM": "00218231",
         "Bộ phận / Phòng ban": "nhân viên vhx",
-        "Mã vật tư": "",
+        "Mã vật tư": "CC207210",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "CAS PR-II",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
         "Loại cân (Cân bàn/Cân bưu kiện...)": "",
-        "Hãng sản xuất": "",
+        "Hãng sản xuất": "CAS",
         "Model": "PRII-30EB",
         "Tải trọng tối đa (vd: 30kg, 100kg)": "30KG",
-        "Serial Number": "",
+        "Serial Number": "200253231",
         "Năm sản xuất": "",
         "Ngày kiểm định gần nhất": "",
         "Thời hạn kiểm định tiếp theo": "",
@@ -4971,7 +4971,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-24T09:31:48",
-      "updatedAt": "2026-07-24T09:31:48"
+      "updatedAt": "2026-07-27T09:43:37"
     },
     {
       "id": "fb507a20cb4c425682ff2d06a32157e3",
