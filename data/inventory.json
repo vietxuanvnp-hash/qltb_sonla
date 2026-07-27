@@ -5489,6 +5489,38 @@
       "attachments": [],
       "createdAt": "2026-07-27T08:27:33",
       "updatedAt": "2026-07-27T08:27:33"
+    },
+    {
+      "id": "f78bb265187549879df649e998fd72fa",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362700",
+        "Tên Bưu cục": "lóng phiêng",
+        "Họ và tên người sử dụng": "trần ánh hằng",
+        "Mã HRM": "00087514",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-27T08:28:11",
+      "updatedAt": "2026-07-27T08:28:11"
     }
   ]
 }
