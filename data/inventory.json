@@ -792,22 +792,22 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "Hp M203dn",
-          "serial": ""
+          "name": "Canon-2900",
+          "serial": "NJXA187327"
         },
         {
           "type": "thermal_printer",
-          "name": "Xprinter",
-          "serial": ""
+          "name": "Xprinter xp-Q260",
+          "serial": "BV2409180163"
         },
         {
           "type": "barcode_reader",
           "name": "Zebera",
-          "serial": ""
+          "serial": "18074010503242"
         }
       ],
       "createdAt": "2026-06-30T03:42:57",
-      "updatedAt": "2026-07-16T04:20:07"
+      "updatedAt": "2026-07-27T09:28:53"
     },
     {
       "id": "e40cc29ed1484f4980b75c408d3b4843",
