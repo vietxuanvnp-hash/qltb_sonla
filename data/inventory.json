@@ -351,13 +351,18 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": "MQCA607134"
+        },
+        {
           "type": "photocopier",
           "name": "SHARP AR-6023NV",
-          "serial": ""
+          "serial": "03002530"
         }
       ],
       "createdAt": "2026-06-30T01:18:22",
-      "updatedAt": "2026-07-16T03:53:57"
+      "updatedAt": "2026-07-27T08:59:01"
     },
     {
       "id": "1d6b986128394d75950e3ad90e8e51b2",
