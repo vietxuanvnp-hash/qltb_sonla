@@ -5553,6 +5553,45 @@
       "attachments": [],
       "createdAt": "2026-07-27T08:32:18",
       "updatedAt": "2026-07-27T08:32:18"
+    },
+    {
+      "id": "f5be2fb782054a3395f89f4c60b2df7a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362600",
+        "Tên Bưu cục": "VHX YÊN SƠN",
+        "Họ và tên người sử dụng": "NGUYỄN NGỌC HÀ",
+        "Mã HRM": "00217753",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-27T08:34:25",
+      "updatedAt": "2026-07-27T08:34:25"
     }
   ]
 }
