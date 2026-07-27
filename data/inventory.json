@@ -5353,6 +5353,37 @@
       "attachments": [],
       "createdAt": "2026-07-27T08:23:08",
       "updatedAt": "2026-07-27T08:23:08"
+    },
+    {
+      "id": "7a868e796d2e4769b2f74a0897a47434",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362700",
+        "Tên Bưu cục": "lóng phiêng",
+        "Họ và tên người sử dụng": "trần ánh hằng",
+        "Mã HRM": "00087514",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "xprinter",
+        "Khổ giấy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-27T08:25:32",
+      "updatedAt": "2026-07-27T08:25:32"
     }
   ]
 }
