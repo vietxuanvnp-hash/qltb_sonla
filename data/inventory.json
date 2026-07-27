@@ -5677,6 +5677,38 @@
       ],
       "createdAt": "2026-07-27T09:13:49",
       "updatedAt": "2026-07-27T09:13:49"
+    },
+    {
+      "id": "30c57b78a8c0405283d1bda48c06dad0",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3642",
+        "Tên Xã": "Bưu điện xã Mường Bang",
+        "Mã Bưu cục": "363770",
+        "Tên Bưu cục": "Mường Do",
+        "Họ và tên người sử dụng": "Lê Văn Hiệp",
+        "Mã HRM": "00072974",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân điện tử",
+        "Hãng sản xuất": "CAS",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "200253922",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-27T09:59:34",
+      "updatedAt": "2026-07-27T09:59:34"
     }
   ]
 }
