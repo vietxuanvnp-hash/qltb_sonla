@@ -5521,6 +5521,38 @@
       "attachments": [],
       "createdAt": "2026-07-27T08:28:11",
       "updatedAt": "2026-07-27T08:28:11"
+    },
+    {
+      "id": "943855b63d45485a96d1734df13093fd",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362580",
+        "Tên Bưu cục": "chiềng đông",
+        "Họ và tên người sử dụng": "Lò Thị Biên Thùy",
+        "Mã HRM": "00056492",
+        "Bộ phận / Phòng ban": "chiềng đông",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-27T08:32:18",
+      "updatedAt": "2026-07-27T08:32:18"
     }
   ]
 }
