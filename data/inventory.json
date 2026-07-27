@@ -5423,6 +5423,41 @@
       ],
       "createdAt": "2026-07-27T08:25:46",
       "updatedAt": "2026-07-27T08:25:46"
+    },
+    {
+      "id": "4387014ec1a24096b0656b617da9b3e1",
+      "category": "4C. Máy Photocopy",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362700",
+        "Tên Bưu cục": "lóng phiêng",
+        "Họ và tên người sử dụng": "trần ánh hằng",
+        "Mã HRM": "00087514",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "canon",
+        "Hình thức sử dụng": "",
+        "Khổ giấy tối đa": "",
+        "Chức năng (In/Scan/Copy)": "",
+        "Số Counter hiện tại\n(Số bản đã in)": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "IP Address": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-27T08:26:21",
+      "updatedAt": "2026-07-27T08:26:21"
     }
   ]
 }
