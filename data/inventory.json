@@ -5384,6 +5384,45 @@
       "attachments": [],
       "createdAt": "2026-07-27T08:25:32",
       "updatedAt": "2026-07-27T08:25:32"
+    },
+    {
+      "id": "1e5ca14da0474626b63ded545b67301b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3645",
+        "Tên Bưu cục": "Bưu Cục Yên Châu",
+        "Họ và tên người sử dụng": "Nguyễn Thái Hà",
+        "Mã HRM": "00276113",
+        "Bộ phận / Phòng ban": "Kế Toán Chuyên Quản",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KETOANTRUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT009275367",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15,6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM K2N9R-6CH4H-XM3R6-K2W84-VMH8Y",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.14.17",
+        "MAC Address": "CC:28:AA:B2:3A:80"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-27T08:25:46",
+      "updatedAt": "2026-07-27T08:25:46"
     }
   ]
 }
