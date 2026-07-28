@@ -4049,13 +4049,13 @@
       "id": "cf1d1516b4e042029dc9fcc0f437db1a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "366270",
-        "Tên Xã": "LONG HẸ",
+        "Mã BĐ Xã": "3680",
+        "Tên Xã": "Bưu điện xã Co Mạ",
         "Mã Bưu cục": "366270",
-        "Tên Bưu cục": "XÃ LONG HẸ",
-        "Họ và tên người sử dụng": "QUÀNG VĂN THUẬN",
+        "Tên Bưu cục": "Long Hẹ",
+        "Họ và tên người sử dụng": "Quàng Văn Thuận",
         "Mã HRM": "00097626",
-        "Bộ phận / Phòng ban": "ĐIỂM GIAO DỊCH XÃ LONG HẸ",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-PL-THUON",
         "Loại máy": "Desktop",
@@ -4087,7 +4087,7 @@
         }
       ],
       "createdAt": "2026-07-17T09:44:54",
-      "updatedAt": "2026-07-17T09:44:54"
+      "updatedAt": "2026-07-28T01:18:19"
     },
     {
       "id": "14c9f51f8bd144cd8aa6875e5c4c3258",
