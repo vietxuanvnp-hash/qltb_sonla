@@ -5818,6 +5818,55 @@
       "attachments": [],
       "createdAt": "2026-07-28T09:37:50",
       "updatedAt": "2026-07-28T09:37:50"
+    },
+    {
+      "id": "0d17b4268834444ebb19d40b95f6a7dd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3605",
+        "Tên Xã": "Bưu điện Phường Mộc Sơn",
+        "Mã Bưu cục": "362800",
+        "Tên Bưu cục": "Bưu cục Mộc Châu",
+        "Họ và tên người sử dụng": "Hà Thị Thanh Quý",
+        "Mã HRM": "00097028",
+        "Bộ phận / Phòng ban": "Phòng giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-GDTT01",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE245CJGW",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1170 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM J7YXQ-H3NBT-29MM2-JGDY8-33XC3",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.13.140",
+        "MAC Address": "38:CA:84:45:FC:BF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP-4003dn",
+          "serial": "VNC0202675"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "WNN58E",
+          "serial": "D52/2304270166"
+        },
+        {
+          "type": "scanner",
+          "name": "HP Scanjet Pro 2500 f1",
+          "serial": "CN79Ja10N2"
+        }
+      ],
+      "createdAt": "2026-07-28T10:48:21",
+      "updatedAt": "2026-07-28T10:48:21"
     }
   ]
 }
