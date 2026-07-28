@@ -4093,13 +4093,13 @@
       "id": "14c9f51f8bd144cd8aa6875e5c4c3258",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "366530",
+        "Mã BĐ Xã": "3621",
         "Tên Xã": "Bưu điện xã Nậm lầu",
         "Mã Bưu cục": "366530",
-        "Tên Bưu cục": "Điểm bưu điện xã Nậm Lầu",
+        "Tên Bưu cục": "Nậm Lầu",
         "Họ và tên người sử dụng": "Quàng Thị Diên",
         "Mã HRM": "00267608",
-        "Bộ phận / Phòng ban": "Điểm giao dịch xã Nậm lầu",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-QAPLBF8",
         "Loại máy": "Desktop",
@@ -4131,7 +4131,7 @@
         }
       ],
       "createdAt": "2026-07-17T09:53:20",
-      "updatedAt": "2026-07-17T09:53:20"
+      "updatedAt": "2026-07-28T01:19:48"
     },
     {
       "id": "01b7d99957634e8082b220e7cccace20",
