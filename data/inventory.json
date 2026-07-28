@@ -4041,9 +4041,20 @@
         "IP Address": "192.168.1.4",
         "MAC Address": "F4:6B:8C:CC:BA:B8"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother HL-B2000D",
+          "serial": "E78340E2N815650"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Honneywell-PC45d",
+          "serial": "349C25A20267"
+        }
+      ],
       "createdAt": "2026-07-17T09:34:10",
-      "updatedAt": "2026-07-17T09:34:10"
+      "updatedAt": "2026-07-28T04:12:14"
     },
     {
       "id": "cf1d1516b4e042029dc9fcc0f437db1a",
