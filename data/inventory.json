@@ -4312,13 +4312,13 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "Canon-2900",
-          "serial": ""
+          "name": "HP-M203d",
+          "serial": "VNP4002117"
         },
         {
           "type": "thermal_printer",
-          "name": "Xprint",
-          "serial": ""
+          "name": "POSBANK-A8",
+          "serial": "PTAP211200909"
         },
         {
           "type": "ups",
@@ -4327,7 +4327,7 @@
         }
       ],
       "createdAt": "2026-07-18T00:38:37",
-      "updatedAt": "2026-07-24T07:57:38"
+      "updatedAt": "2026-07-28T04:03:43"
     },
     {
       "id": "c8c56f5e1c2042fd9268cfb47f5c402f",
