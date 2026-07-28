@@ -4121,17 +4121,17 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "",
-          "serial": ""
+          "name": "Brother HL-B2000D",
+          "serial": "E78340E2N815657"
         },
         {
           "type": "thermal_printer",
-          "name": "",
-          "serial": ""
+          "name": "Xprint XP-58IIH",
+          "serial": "BU39091837"
         }
       ],
       "createdAt": "2026-07-17T09:53:20",
-      "updatedAt": "2026-07-28T01:19:48"
+      "updatedAt": "2026-07-28T03:43:20"
     },
     {
       "id": "01b7d99957634e8082b220e7cccace20",
