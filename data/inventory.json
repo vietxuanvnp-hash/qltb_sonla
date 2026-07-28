@@ -5785,6 +5785,39 @@
       "attachments": [],
       "createdAt": "2026-07-28T03:46:57",
       "updatedAt": "2026-07-28T03:46:57"
+    },
+    {
+      "id": "a7dab61c473e4fa0bc696757a570600d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Trung tâm kinh doanh",
+        "Họ và tên người sử dụng": "Nguyễn Minh Đức",
+        "Mã HRM": "00247342",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-KHKD-DUCNM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 990",
+        "Năm sản xuất": "",
+        "Serial Number": "6RLL6V1",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.157.88",
+        "MAC Address": "5C:F9:DD:78:46:7A"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-28T09:37:50",
+      "updatedAt": "2026-07-28T09:37:50"
     }
   ]
 }
