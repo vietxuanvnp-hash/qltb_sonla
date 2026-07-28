@@ -5742,6 +5742,38 @@
       "attachments": [],
       "createdAt": "2026-07-28T03:07:08",
       "updatedAt": "2026-07-28T03:07:08"
+    },
+    {
+      "id": "a9e78671512944db84d20653e19b6c16",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3621",
+        "Tên Xã": "Bưu điện xã Nậm Lầu",
+        "Mã Bưu cục": "366530",
+        "Tên Bưu cục": "Nậm Lầu",
+        "Họ và tên người sử dụng": "Quàng Thị Diên",
+        "Mã HRM": "00267608",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân điện tử",
+        "Hãng sản xuất": "CAS",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "200254364",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-28T03:46:57",
+      "updatedAt": "2026-07-28T03:46:57"
     }
   ]
 }
