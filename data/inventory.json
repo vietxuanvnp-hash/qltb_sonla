@@ -947,10 +947,10 @@
       "fields": {
         "Mã BĐ Xã": "3620",
         "Tên Xã": "Bưu điện xã Chiềng La",
-        "Mã Bưu cục": "366080",
-        "Tên Bưu cục": "Chiềng La",
-        "Họ và tên người sử dụng": "QUÀNG THỊ DOM",
-        "Mã HRM": "014186005809",
+        "Mã Bưu cục": "366050",
+        "Tên Bưu cục": "Nong Lay",
+        "Họ và tên người sử dụng": "Quàng Thị Dom",
+        "Mã HRM": "00056836",
         "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "DESKTOP-15LL5HB",
@@ -973,13 +973,13 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "Brother",
-          "serial": "E78340E2N815476"
+          "name": "HP-M203d",
+          "serial": "VNP4D02125"
         },
         {
           "type": "thermal_printer",
           "name": "Xprinter",
-          "serial": ""
+          "serial": "BU390918523"
         },
         {
           "type": "barcode_reader",
@@ -988,7 +988,7 @@
         }
       ],
       "createdAt": "2026-06-30T05:12:22",
-      "updatedAt": "2026-07-29T02:55:39"
+      "updatedAt": "2026-07-29T04:31:39"
     },
     {
       "id": "c6b5ca8285194903b573b1ac92a4388f",
