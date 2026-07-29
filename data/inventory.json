@@ -4488,17 +4488,22 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "",
-          "serial": ""
+          "name": "Canon",
+          "serial": "NPZA015759"
         },
         {
           "type": "thermal_printer",
           "name": "",
           "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra-DS2208",
+          "serial": "20216010550699"
         }
       ],
       "createdAt": "2026-07-21T02:19:03",
-      "updatedAt": "2026-07-21T02:19:03"
+      "updatedAt": "2026-07-29T03:11:45"
     },
     {
       "id": "9e9b512d5f0441ddaa800edb5a0e0b08",
