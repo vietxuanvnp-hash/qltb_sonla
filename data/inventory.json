@@ -5583,14 +5583,14 @@
         "Mã BĐ Xã": "3645",
         "Tên Xã": "XÃ YÊN CHÂU",
         "Mã Bưu cục": "362400",
-        "Tên Bưu cục": "BCTT YÊN CHÂU",
-        "Họ và tên người sử dụng": "QUÀNG THỊ HOA",
+        "Tên Bưu cục": "GD2 Yên C",
+        "Họ và tên người sử dụng": "Quàng Thị Hoa",
         "Mã HRM": "00056474",
         "Bộ phận / Phòng ban": "GIAO DỊCH",
-        "Mã vật tư": "",
+        "Mã vật tư": "CC207210",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
-        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân điện tử",
         "Hãng sản xuất": "",
         "Model": "",
         "Tải trọng tối đa (vd: 30kg, 100kg)": "",
@@ -5604,7 +5604,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-27T09:05:57",
-      "updatedAt": "2026-07-27T09:05:57"
+      "updatedAt": "2026-07-29T10:12:56"
     },
     {
       "id": "286a7bc841ab435cab3ca2002df0d660",
