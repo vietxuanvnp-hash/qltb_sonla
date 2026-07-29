@@ -978,17 +978,12 @@
         },
         {
           "type": "thermal_printer",
-          "name": "Xprinter",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Zebra",
-          "serial": ""
+          "name": "Xprinter XP-58mm",
+          "serial": "BU38290161"
         }
       ],
       "createdAt": "2026-06-30T05:12:22",
-      "updatedAt": "2026-07-29T02:55:39"
+      "updatedAt": "2026-07-29T03:59:46"
     },
     {
       "id": "c6b5ca8285194903b573b1ac92a4388f",
