@@ -4979,12 +4979,12 @@
         "Họ và tên người sử dụng": "Lê Cẩm Nhung",
         "Mã HRM": "0056635",
         "Bộ phận / Phòng ban": "Kế Toán",
-        "Mã vật tư": "",
+        "Mã vật tư": "CC207240",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in HL-B2000D",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in (Khối Sản xuất)",
         "Khổ giấy": "",
         "Hãng": "",
-        "Model": "",
+        "Model": "Máy in HL-B2000D",
         "Năm sản xuất": "",
         "Serial Number": "",
         "Kết nối": "",
@@ -4995,7 +4995,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-24T11:30:11",
-      "updatedAt": "2026-07-24T11:30:11"
+      "updatedAt": "2026-07-29T07:01:07"
     },
     {
       "id": "8d7b1f0b17c244849c5254b62859ce43",
