@@ -4939,8 +4939,8 @@
       "id": "fb507a20cb4c425682ff2d06a32157e3",
       "category": "4A. Máy In Laser",
       "fields": {
-        "Mã Tỉnh": "14",
-        "Tên Tỉnh": "Sơn La",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
         "Mã BĐ Xã": "3638",
         "Tên Xã": "Phù Yên",
         "Mã Bưu cục": "3638",
@@ -4948,12 +4948,12 @@
         "Họ và tên người sử dụng": "Lê Cẩm Nhung",
         "Mã HRM": "0056635",
         "Bộ phận / Phòng ban": "Kế Toán",
-        "Mã vật tư": "",
+        "Mã vật tư": "CC207240",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in HL-B2000D",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in (Khối Sản xuất)",
         "Khổ giấy": "",
         "Hãng": "",
-        "Model": "",
+        "Model": "Máy in HL-B2000D",
         "Năm sản xuất": "",
         "Serial Number": "",
         "Kết nối": "",
@@ -4964,7 +4964,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-24T11:27:52",
-      "updatedAt": "2026-07-24T11:27:52"
+      "updatedAt": "2026-07-29T07:00:27"
     },
     {
       "id": "29f42d79bfc24e84af8feb2ded00c22f",
