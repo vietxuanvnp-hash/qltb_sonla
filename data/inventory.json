@@ -974,7 +974,7 @@
         {
           "type": "laser_printer",
           "name": "Brother",
-          "serial": ""
+          "serial": "E78340E2N815476"
         },
         {
           "type": "thermal_printer",
@@ -988,7 +988,7 @@
         }
       ],
       "createdAt": "2026-06-30T05:12:22",
-      "updatedAt": "2026-07-16T04:27:41"
+      "updatedAt": "2026-07-29T02:55:39"
     },
     {
       "id": "c6b5ca8285194903b573b1ac92a4388f",
