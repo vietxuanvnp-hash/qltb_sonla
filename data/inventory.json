@@ -5949,6 +5949,50 @@
       "attachments": [],
       "createdAt": "2026-07-29T03:59:48",
       "updatedAt": "2026-07-29T03:59:48"
+    },
+    {
+      "id": "e1bffca2877c4863a1a71858d8dceb8b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3620",
+        "Tên Xã": "Bưu điện xã Chiềng La",
+        "Mã Bưu cục": "366080",
+        "Tên Bưu cục": "Chiềng La",
+        "Họ và tên người sử dụng": "Quàng Thị Dom",
+        "Mã HRM": "00056836",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-CL-DOMQT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWV",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "F4:6B:8C:CC:BB:B7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "brother HL-B2000D",
+          "serial": "E78340E2N815476"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPrinter",
+          "serial": "BU38290161"
+        }
+      ],
+      "createdAt": "2026-07-29T04:21:02",
+      "updatedAt": "2026-07-29T04:21:02"
     }
   ]
 }
