@@ -5872,13 +5872,13 @@
       "id": "6102b2f8473848c284c06159c7c435d3",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3639",
+        "Tên Xã": "Bưu điện xã Gia Phù",
         "Mã Bưu cục": "364000",
-        "Tên Bưu cục": "364000",
+        "Tên Bưu cục": "Tường Phù",
         "Họ và tên người sử dụng": "Đinh Thị Hoa",
         "Mã HRM": "00117444",
-        "Bộ phận / Phòng ban": "bưu tá",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "BENHVIENMAYTINH",
         "Loại máy": "Desktop",
@@ -5910,7 +5910,7 @@
         }
       ],
       "createdAt": "2026-07-29T01:28:46",
-      "updatedAt": "2026-07-29T01:28:46"
+      "updatedAt": "2026-07-29T02:36:23"
     }
   ]
 }
