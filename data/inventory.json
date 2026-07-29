@@ -5900,6 +5900,50 @@
       ],
       "createdAt": "2026-07-28T10:57:28",
       "updatedAt": "2026-07-28T10:57:28"
+    },
+    {
+      "id": "6102b2f8473848c284c06159c7c435d3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "364000",
+        "Tên Bưu cục": "364000",
+        "Họ và tên người sử dụng": "Đinh Thị Hoa",
+        "Mã HRM": "00117444",
+        "Bộ phận / Phòng ban": "bưu tá",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BENHVIENMAYTINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S144",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "577 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "C4:34:6B:4E:EF:2F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser jet Pro M203d",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-29T01:28:46",
+      "updatedAt": "2026-07-29T01:28:46"
     }
   ]
 }
