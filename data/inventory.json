@@ -4979,12 +4979,12 @@
         "Họ và tên người sử dụng": "Lê Cẩm Nhung",
         "Mã HRM": "0056635",
         "Bộ phận / Phòng ban": "Kế Toán",
-        "Mã vật tư": "CC207240",
+        "Mã vật tư": "",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in (Khối Sản xuất)",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in HL-B2000D",
         "Khổ giấy": "",
         "Hãng": "",
-        "Model": "Máy in HL-B2000D",
+        "Model": "",
         "Năm sản xuất": "",
         "Serial Number": "",
         "Kết nối": "",
@@ -4995,7 +4995,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-24T11:30:11",
-      "updatedAt": "2026-07-29T07:01:07"
+      "updatedAt": "2026-07-24T11:30:11"
     },
     {
       "id": "8d7b1f0b17c244849c5254b62859ce43",
@@ -5975,6 +5975,39 @@
       "attachments": [],
       "createdAt": "2026-07-29T04:34:14",
       "updatedAt": "2026-07-29T04:34:45"
+    },
+    {
+      "id": "4306dfbac69a4ce9ba38ec4db8549d5f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-29T07:01:09",
+      "updatedAt": "2026-07-29T07:01:09"
     }
   ]
 }
