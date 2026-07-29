@@ -978,12 +978,17 @@
         },
         {
           "type": "thermal_printer",
-          "name": "Xprinter XP-58mm",
-          "serial": "BU38290161"
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
         }
       ],
       "createdAt": "2026-06-30T05:12:22",
-      "updatedAt": "2026-07-29T03:59:46"
+      "updatedAt": "2026-07-29T02:55:39"
     },
     {
       "id": "c6b5ca8285194903b573b1ac92a4388f",
@@ -5911,6 +5916,39 @@
       ],
       "createdAt": "2026-07-29T01:28:46",
       "updatedAt": "2026-07-29T02:36:23"
+    },
+    {
+      "id": "22e75a3f35594ccd8792ed168586561c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-29T03:59:48",
+      "updatedAt": "2026-07-29T03:59:48"
     }
   ]
 }
