@@ -5993,6 +5993,38 @@
       ],
       "createdAt": "2026-07-29T04:21:02",
       "updatedAt": "2026-07-29T04:21:02"
+    },
+    {
+      "id": "bdc4032d6f5b417ba232ece4ea35777c",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3620",
+        "Tên Xã": "Chiềng La",
+        "Mã Bưu cục": "366080",
+        "Tên Bưu cục": "Chiềng La",
+        "Họ và tên người sử dụng": "Quàng Thị Dom",
+        "Mã HRM": "00056836",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "CAS",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-29T04:23:56",
+      "updatedAt": "2026-07-29T04:23:56"
     }
   ]
 }
