@@ -6027,43 +6027,37 @@
       "updatedAt": "2026-07-30T01:56:47"
     },
     {
-      "id": "65bd311171fd4b0b8136f87daddeaa77",
+      "id": "05dcdf13a53f4c518c076297fb592537",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "3663",
-        "Tên Bưu cục": "Xã Sông Mã",
-        "Họ và tên người sử dụng": "Dương Lan Chi",
-        "Mã HRM": "00056777",
-        "Bộ phận / Phòng ban": "Kế Toán",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-OC2MN70",
-        "Loại máy": "Desktop",
-        "Hãng": "ASUSTeK COMPUTER INC.",
-        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "S9PFWT00929536C",
-        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
-        "RAM": "15.6 GB",
-        "Ổ cứng": "475 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
-        "Office": "Microsoft 365 Apps for enterprise - en-us",
-        "License Windows": "OEM 2CMGT-QNK8C-X99PD-D3VPQ-7T92M",
-        "License Office": "Microsoft 365 Apps for enterprise - en-us",
-        "Antivirus": "Windows Defender, McAfee",
-        "IP Address": "10.27.18.6",
-        "MAC Address": "CC:28:AA:B2:3C:08"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Canon 252dw",
-          "serial": "NEEA012616"
-        }
-      ],
-      "createdAt": "2026-07-30T02:26:23",
-      "updatedAt": "2026-07-30T02:26:23"
+      "attachments": [],
+      "createdAt": "2026-07-30T02:26:25",
+      "updatedAt": "2026-07-30T02:26:25"
     }
   ]
 }
