@@ -416,10 +416,10 @@
         "Mã BĐ Xã": "3669",
         "Tên Xã": "Mường Bám",
         "Mã Bưu cục": "366325",
-        "Tên Bưu cục": "Bưu Điện VHX Mường Bám",
+        "Tên Bưu cục": "Mường Bám",
         "Họ và tên người sử dụng": "Cà Thị Ly",
         "Mã HRM": "00217180",
-        "Bộ phận / Phòng ban": "Bưu Điện VHX Mường Bám",
+        "Bộ phận / Phòng ban": "Bưu Điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-MB-LYCT",
         "Loại máy": "Desktop",
@@ -456,7 +456,7 @@
         }
       ],
       "createdAt": "2026-06-30T02:12:01",
-      "updatedAt": "2026-07-17T10:12:48"
+      "updatedAt": "2026-07-30T10:21:19"
     },
     {
       "id": "d1ea0f20f7804802a64564c34cb138b2",
