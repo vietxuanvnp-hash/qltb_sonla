@@ -6181,43 +6181,37 @@
       "updatedAt": "2026-07-30T09:29:11"
     },
     {
-      "id": "8730727870bd416e8dbc40e4e80658aa",
+      "id": "ee0d1de7ad474caba76f25e7547d36e4",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "3611",
-        "Họ và tên người sử dụng": "Trần Thị Việt Anh",
-        "Mã HRM": "00056378",
-        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-LQ9DCS6",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "To be filled by O.E.M.",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "To be filled by O.E.M.",
-        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "576 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2016",
-        "License Windows": "Windows(R) Operating System, RETAIL channel 8HVX7",
-        "License Office": "Microsoft Office Professional Plus 2016",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.27.39.227",
-        "MAC Address": "FC:AA:14:35:FB:C1"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP M203D",
-          "serial": "VLP4D03112"
-        }
-      ],
-      "createdAt": "2026-07-30T09:30:14",
-      "updatedAt": "2026-07-30T09:30:14"
+      "attachments": [],
+      "createdAt": "2026-07-30T09:30:16",
+      "updatedAt": "2026-07-30T09:30:16"
     }
   ]
 }
