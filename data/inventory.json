@@ -6058,6 +6058,50 @@
       "attachments": [],
       "createdAt": "2026-07-30T02:26:25",
       "updatedAt": "2026-07-30T02:26:25"
+    },
+    {
+      "id": "c80d952be1e74f898f133c7ad45f611b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3622",
+        "Tên Xã": "Điểm Bưu điện xã Bon Phặng",
+        "Mã Bưu cục": "365860",
+        "Tên Bưu cục": "Bưu điện xã Bon Phặng",
+        "Họ và tên người sử dụng": "Lò Thị Ngân",
+        "Mã HRM": "00056834",
+        "Bộ phận / Phòng ban": "Điểm bưu điện xã Bon Phặng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-BP",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP PRODESK 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S44F",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "9.9 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel J462D",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "40:A8:F0:60:0E:DA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-30T02:27:33",
+      "updatedAt": "2026-07-30T02:27:33"
     }
   ]
 }
