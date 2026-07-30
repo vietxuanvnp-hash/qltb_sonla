@@ -5975,6 +5975,50 @@
       "attachments": [],
       "createdAt": "2026-07-29T04:34:14",
       "updatedAt": "2026-07-29T04:34:45"
+    },
+    {
+      "id": "786a30fb9b094f34bb8392ee4e4b9528",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "363880",
+        "Tên Xã": "Xã Mường Thải",
+        "Mã Bưu cục": "363880",
+        "Tên Bưu cục": "Xã Mường Thải",
+        "Họ và tên người sử dụng": "Triệu Thị Ồm",
+        "Mã HRM": "0026113",
+        "Bộ phận / Phòng ban": "Phát xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-CRJGD6A",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221WL",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM GN7TC-29JRH-Q7W26-BBB9K-P38GQ",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.19",
+        "MAC Address": "10:B6:76:9E:C5:FC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LaserJetpro M203d",
+          "serial": "VNP4D01735"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "WNN58E",
+          "serial": "D52/2304270095"
+        }
+      ],
+      "createdAt": "2026-07-30T01:56:47",
+      "updatedAt": "2026-07-30T01:56:47"
     }
   ]
 }
