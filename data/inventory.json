@@ -6279,13 +6279,13 @@
       "id": "f491a7f998334068b85cc1cd04a1a9d8",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "Sơn La",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3611",
+        "Tên Bưu cục": "VP Trung tâm Vận Hành",
         "Họ và tên người sử dụng": "Lương Huyền Trang",
         "Mã HRM": "0056385",
-        "Bộ phận / Phòng ban": "TTVH - Bưu điện tỉnh Sơn La",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SL-KTNV-TRANGLH",
         "Loại máy": "Desktop",
@@ -6306,7 +6306,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-30T09:52:55",
-      "updatedAt": "2026-07-30T09:52:55"
+      "updatedAt": "2026-07-30T10:00:13"
     }
   ]
 }
