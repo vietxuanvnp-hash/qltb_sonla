@@ -6274,6 +6274,39 @@
       ],
       "createdAt": "2026-07-30T09:51:49",
       "updatedAt": "2026-07-30T09:51:49"
+    },
+    {
+      "id": "f491a7f998334068b85cc1cd04a1a9d8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "Sơn La",
+        "Họ và tên người sử dụng": "Lương Huyền Trang",
+        "Mã HRM": "0056385",
+        "Bộ phận / Phòng ban": "TTVH - Bưu điện tỉnh Sơn La",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SL-KTNV-TRANGLH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3080",
+        "Năm sản xuất": "",
+        "Serial Number": "1WW5XM3",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.78",
+        "MAC Address": "C0:25:A5:9F:D2:8D"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-30T09:52:55",
+      "updatedAt": "2026-07-30T09:52:55"
     }
   ]
 }
