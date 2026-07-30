@@ -4397,7 +4397,7 @@
         "Mã BĐ Xã": "36",
         "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
-        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh Sơn La",
+        "Tên Bưu cục": "Văn phòng BĐT Sơn La",
         "Họ và tên người sử dụng": "Nguyễn Tuấn Linh",
         "Mã HRM": "00107158",
         "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
@@ -4427,7 +4427,7 @@
         }
       ],
       "createdAt": "2026-07-18T10:19:15",
-      "updatedAt": "2026-07-20T08:38:19"
+      "updatedAt": "2026-07-30T10:07:24"
     },
     {
       "id": "5b155797922e460797e67b856ff25c80",
