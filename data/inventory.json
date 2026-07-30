@@ -6146,6 +6146,39 @@
       ],
       "createdAt": "2026-07-30T02:41:07",
       "updatedAt": "2026-07-30T02:41:07"
+    },
+    {
+      "id": "81413bded6c14feea7600f73c30abb34",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "3611",
+        "Họ và tên người sử dụng": "Đỗ Thị Thành",
+        "Mã HRM": "00056917",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TP-THANHDT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Z441H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM Y4NQB-WH4RH-BKWBD-P8YQV-XD7X3",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.100",
+        "MAC Address": "48:4D:7E:D7:DB:2E"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-30T09:29:11",
+      "updatedAt": "2026-07-30T09:29:11"
     }
   ]
 }
