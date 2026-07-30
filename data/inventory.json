@@ -6185,6 +6185,45 @@
       "attachments": [],
       "createdAt": "2026-07-30T09:30:16",
       "updatedAt": "2026-07-30T09:30:16"
+    },
+    {
+      "id": "bc34b37152044a7dbef59cc27550218a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3611",
+        "Tên Bưu cục": "VP Trung tâm vận hành",
+        "Họ và tên người sử dụng": "Trần Thị Việt Anh",
+        "Mã HRM": "00056378",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-LQ9DCS6",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "576 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 8HVX7",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.39.227",
+        "MAC Address": "FC:AA:14:35:FB:C1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP m203d",
+          "serial": "VNP4D03112"
+        }
+      ],
+      "createdAt": "2026-07-30T09:36:53",
+      "updatedAt": "2026-07-30T09:36:53"
     }
   ]
 }
