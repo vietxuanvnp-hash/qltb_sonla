@@ -2131,7 +2131,7 @@
         "Mã BĐ Xã": "36",
         "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
-        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Tên Bưu cục": "Văn phòng BĐT Sơn La",
         "Họ và tên người sử dụng": "Hà Quang Trung",
         "Mã HRM": "00056367",
         "Bộ phận / Phòng ban": "Phòng Tổ chức Hành Chính",
@@ -2161,7 +2161,7 @@
         }
       ],
       "createdAt": "2026-07-13T04:08:15",
-      "updatedAt": "2026-07-24T08:09:28"
+      "updatedAt": "2026-07-30T09:08:27"
     },
     {
       "id": "b7ace1a548a041589b20b79f9f704b3e",
