@@ -6235,6 +6235,45 @@
       ],
       "createdAt": "2026-07-30T09:38:08",
       "updatedAt": "2026-07-30T09:38:08"
+    },
+    {
+      "id": "c991187090ec467fa0f2a401d9d68ee4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "Bưu điện tỉnh Sơn La",
+        "Họ và tên người sử dụng": "Hà Trung Dũng",
+        "Mã HRM": "00056382",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SL-KTNV-DUNGHT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3668",
+        "Năm sản xuất": "",
+        "Serial Number": "9QFX9P2",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "576 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.39.85",
+        "MAC Address": "8C:EC:4B:62:74:CF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 3300",
+          "serial": "LQHA617812"
+        }
+      ],
+      "createdAt": "2026-07-30T09:51:49",
+      "updatedAt": "2026-07-30T09:51:49"
     }
   ]
 }
