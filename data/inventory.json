@@ -6240,10 +6240,10 @@
       "id": "c991187090ec467fa0f2a401d9d68ee4",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "Bưu điện tỉnh Sơn La",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3611",
+        "Tên Bưu cục": "VP Trung tâm Vận Hành",
         "Họ và tên người sử dụng": "Hà Trung Dũng",
         "Mã HRM": "00056382",
         "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
@@ -6273,7 +6273,7 @@
         }
       ],
       "createdAt": "2026-07-30T09:51:49",
-      "updatedAt": "2026-07-30T09:51:49"
+      "updatedAt": "2026-07-30T10:01:19"
     },
     {
       "id": "f491a7f998334068b85cc1cd04a1a9d8",
