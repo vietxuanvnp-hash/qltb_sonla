@@ -6191,6 +6191,50 @@
       ],
       "createdAt": "2026-07-30T09:36:53",
       "updatedAt": "2026-07-30T09:36:53"
+    },
+    {
+      "id": "bbfd0d1ce1004853b3ec6e36b88b783f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "365880",
+        "Tên Bưu cục": "Điểm VHX Tông Cọ",
+        "Họ và tên người sử dụng": "Quàng Thị Tía",
+        "Mã HRM": "00056852",
+        "Bộ phận / Phòng ban": "Điểm Thu tiền điện xã Tông Cọ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-TC-TIAQT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAY8",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.15",
+        "MAC Address": "F4:6B:8C:CC:B8:D9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-30T09:38:08",
+      "updatedAt": "2026-07-30T09:38:08"
     }
   ]
 }
