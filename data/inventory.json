@@ -6102,6 +6102,50 @@
       ],
       "createdAt": "2026-07-30T02:27:33",
       "updatedAt": "2026-07-30T02:27:33"
+    },
+    {
+      "id": "bc2ab4539aed4d92b95a625d0d366587",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366030",
+        "Tên Bưu cục": "Bưu điện xã Chiềng Ngàm",
+        "Họ và tên người sử dụng": "Lò Thị Thiên",
+        "Mã HRM": "00056837",
+        "Bộ phận / Phòng ban": "Điểm bưu điện xã Chiềng Ngàm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-POO53EA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132QV",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "110 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Enterprise LTSC 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "License Windows": "OEM M7TNF-MGHXQ-DP2VC-BDHD4-844BP",
+        "License Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Reason Cybersecurity, Windows Defender, Avast Antivirus",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "38:22:E2:18:89:12"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-30T02:41:07",
+      "updatedAt": "2026-07-30T02:41:07"
     }
   ]
 }
