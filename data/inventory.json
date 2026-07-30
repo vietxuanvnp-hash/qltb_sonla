@@ -414,7 +414,7 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3669",
-        "Tên Xã": "Mường Bám",
+        "Tên Xã": "Bưu điện xã Mường Bám",
         "Mã Bưu cục": "366325",
         "Tên Bưu cục": "Mường Bám",
         "Họ và tên người sử dụng": "Cà Thị Ly",
@@ -456,7 +456,7 @@
         }
       ],
       "createdAt": "2026-06-30T02:12:01",
-      "updatedAt": "2026-07-30T10:21:19"
+      "updatedAt": "2026-07-30T10:41:22"
     },
     {
       "id": "d1ea0f20f7804802a64564c34cb138b2",
