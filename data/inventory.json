@@ -393,9 +393,15 @@
         "IP Address": "10.27.18.11",
         "MAC Address": "CC:28:AA:B2:3B:3E"
       },
-      "attachments": [],
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": "MQCA658397"
+        }
+      ],
       "createdAt": "2026-06-30T01:19:39",
-      "updatedAt": "2026-07-16T03:51:01"
+      "updatedAt": "2026-07-30T02:13:34"
     },
     {
       "id": "9c4680f0f1de49399d2dba135d43cda4",
