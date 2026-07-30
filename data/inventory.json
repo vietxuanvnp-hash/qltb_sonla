@@ -2092,7 +2092,7 @@
         "Mã BĐ Xã": "36",
         "Tên Xã": "BĐT Sơn La",
         "Mã Bưu cục": "3609",
-        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
+        "Tên Bưu cục": "Văn phòng BĐT Sơn La",
         "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
         "Mã HRM": "00056919",
         "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
@@ -2122,7 +2122,7 @@
         }
       ],
       "createdAt": "2026-07-13T03:54:05",
-      "updatedAt": "2026-07-16T08:00:40"
+      "updatedAt": "2026-07-30T09:08:09"
     },
     {
       "id": "a8b961b7ce3d460da19c88942612ef80",
