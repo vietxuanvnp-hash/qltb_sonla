@@ -6274,6 +6274,55 @@
       "attachments": [],
       "createdAt": "2026-07-30T09:52:55",
       "updatedAt": "2026-07-30T10:00:13"
+    },
+    {
+      "id": "7ae81d27594942cdb6c7de3576b33f0a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366860",
+        "Tên Bưu cục": "BCP Sông Mã",
+        "Họ và tên người sử dụng": "Phùng Thị Vân Hà",
+        "Mã HRM": "0005672",
+        "Bộ phận / Phòng ban": "Khai Thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-KTH",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXS",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.18.5",
+        "MAC Address": "F4:6B:8C:CC:B9:2D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-03T07:03:30",
+      "updatedAt": "2026-08-03T07:03:30"
     }
   ]
 }
