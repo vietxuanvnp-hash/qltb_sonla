@@ -6453,6 +6453,38 @@
       "attachments": [],
       "createdAt": "2026-08-04T03:50:51",
       "updatedAt": "2026-08-04T03:50:51"
+    },
+    {
+      "id": "c5d2cdf061044f43b48ccdc9bd4bfa5c",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362700",
+        "Tên Bưu cục": "lóng phiêng",
+        "Họ và tên người sử dụng": "trần ánh hằng",
+        "Mã HRM": "00087514",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "xprinter",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "JK-A",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "5668671745",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-12-01",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T03:55:02",
+      "updatedAt": "2026-08-04T03:55:02"
     }
   ]
 }
