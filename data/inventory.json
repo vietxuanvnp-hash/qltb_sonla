@@ -6824,6 +6824,45 @@
       "attachments": [],
       "createdAt": "2026-08-04T08:51:06",
       "updatedAt": "2026-08-04T08:51:06"
+    },
+    {
+      "id": "ac49c3ba146542f8a23d957bebd8df72",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Thuận Châu",
+        "Tên Xã": "Thuận Châu",
+        "Mã Bưu cục": "365770",
+        "Tên Bưu cục": "Phát Thuận Châu",
+        "Họ và tên người sử dụng": "Hoàng Đức Việt",
+        "Mã HRM": "00274425",
+        "Bộ phận / Phòng ban": "Khai thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-TC-KTH-02",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAYB",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.16.11",
+        "MAC Address": "F4:6B:8C:CC:B9:BF"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA/CR2278A",
+          "serial": "25203523701422"
+        }
+      ],
+      "createdAt": "2026-08-04T09:04:56",
+      "updatedAt": "2026-08-04T09:04:56"
     }
   ]
 }
