@@ -6727,6 +6727,38 @@
       ],
       "createdAt": "2026-08-04T04:50:48",
       "updatedAt": "2026-08-04T04:50:48"
+    },
+    {
+      "id": "6d7630b36bfe4a24850652944ff2df86",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "SƠN LA",
+        "Mã BĐ Xã": "3624",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362550",
+        "Tên Bưu cục": "CHIỀNG PẰN",
+        "Họ và tên người sử dụng": "QUÀNG THỊ HOÀI",
+        "Mã HRM": "00056496",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN VHX CHIỀNG PẰN",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân điện tử",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T07:33:04",
+      "updatedAt": "2026-08-04T07:33:04"
     }
   ]
 }
