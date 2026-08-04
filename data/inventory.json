@@ -6678,6 +6678,55 @@
       "attachments": [],
       "createdAt": "2026-08-04T04:25:21",
       "updatedAt": "2026-08-04T04:25:21"
+    },
+    {
+      "id": "5c8744d34ca24b2080d7fdd897a31f68",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366850",
+        "Tên Bưu cục": "KT sm",
+        "Họ và tên người sử dụng": "Phùng Thị Vân Hà",
+        "Mã HRM": "0005672",
+        "Bộ phận / Phòng ban": "kt sông mã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-KTH",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXS",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.18.5",
+        "MAC Address": "F4:6B:8C:CC:B9:2D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZD62142-D0PF00EZ",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "22256523431412",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-04T04:50:48",
+      "updatedAt": "2026-08-04T04:50:48"
     }
   ]
 }
