@@ -6517,6 +6517,38 @@
       "attachments": [],
       "createdAt": "2026-08-04T04:01:54",
       "updatedAt": "2026-08-04T04:01:54"
+    },
+    {
+      "id": "801f79d152ea4e2cbac7e773e5bc5198",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362500",
+        "Tên Bưu cục": "PHIÊNG KHOÀI",
+        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
+        "Mã HRM": "00056479",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ 30KG",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN ĐIỆN TỬ",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "200254669",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "ĐANG SỬ DỤNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T04:04:19",
+      "updatedAt": "2026-08-04T04:04:19"
     }
   ]
 }
