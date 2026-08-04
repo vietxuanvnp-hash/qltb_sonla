@@ -6712,12 +6712,12 @@
         {
           "type": "laser_printer",
           "name": "canon",
-          "serial": ""
+          "serial": "NAQA494032"
         },
         {
           "type": "thermal_printer",
           "name": "ZD62142-D0PF00EZ",
-          "serial": ""
+          "serial": "357C1620210"
         },
         {
           "type": "barcode_reader",
@@ -6726,7 +6726,7 @@
         }
       ],
       "createdAt": "2026-08-04T04:50:48",
-      "updatedAt": "2026-08-04T09:31:05"
+      "updatedAt": "2026-08-04T09:42:18"
     },
     {
       "id": "6d7630b36bfe4a24850652944ff2df86",
