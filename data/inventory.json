@@ -6721,12 +6721,12 @@
         },
         {
           "type": "barcode_reader",
-          "name": "22256523431412",
-          "serial": ""
+          "name": "Zebra",
+          "serial": "22256523431412"
         }
       ],
       "createdAt": "2026-08-04T04:50:48",
-      "updatedAt": "2026-08-04T04:50:48"
+      "updatedAt": "2026-08-04T09:31:05"
     },
     {
       "id": "6d7630b36bfe4a24850652944ff2df86",
