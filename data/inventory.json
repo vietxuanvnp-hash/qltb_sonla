@@ -6378,12 +6378,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3657",
-        "Tên Xã": "BĐX Thuận Châu",
+        "Tên Xã": "BCVH Thuận Châu",
         "Mã Bưu cục": "365770",
-        "Tên Bưu cục": "BCVH Thuận Châu",
+        "Tên Bưu cục": "BCP Thuận Châu",
         "Họ và tên người sử dụng": "Lường Thị Thơm",
         "Mã HRM": "00057003",
-        "Bộ phận / Phòng ban": "BCVH",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-KTH-01",
         "Loại máy": "Desktop",
@@ -6406,21 +6406,21 @@
         {
           "type": "laser_printer",
           "name": "Canon/LBP3300",
-          "serial": ""
+          "serial": "LQHA619983"
         },
         {
           "type": "thermal_printer",
           "name": "Gk420d",
-          "serial": ""
+          "serial": "28J132901687"
         },
         {
           "type": "barcode_reader",
-          "name": "ZEBZA",
-          "serial": ""
+          "name": "Zebra-DS2208",
+          "serial": "20205010552140"
         }
       ],
       "createdAt": "2026-08-04T02:56:50",
-      "updatedAt": "2026-08-04T02:56:50"
+      "updatedAt": "2026-08-04T09:18:59"
     },
     {
       "id": "59ed468be73d4659b0337fc4ad93be1a",
