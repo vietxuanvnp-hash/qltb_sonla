@@ -6323,6 +6323,55 @@
       ],
       "createdAt": "2026-08-03T07:03:30",
       "updatedAt": "2026-08-03T07:03:30"
+    },
+    {
+      "id": "0828eb1152114bdb829b5621d08ede7a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3657",
+        "Tên Xã": "BĐX Thuận Châu",
+        "Mã Bưu cục": "365770",
+        "Tên Bưu cục": "BCVH Thuận Châu",
+        "Họ và tên người sử dụng": "Lường Thị Thơm",
+        "Mã HRM": "00057003",
+        "Bộ phận / Phòng ban": "Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ThnkCentrg",
+        "Loại máy": "",
+        "Hãng": "Lenovo",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LBP3300/canon",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Gk420d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-04T02:45:07",
+      "updatedAt": "2026-08-04T02:45:07"
     }
   ]
 }
