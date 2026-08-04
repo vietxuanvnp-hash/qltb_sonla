@@ -6918,6 +6918,38 @@
       ],
       "createdAt": "2026-08-04T09:58:09",
       "updatedAt": "2026-08-04T09:58:09"
+    },
+    {
+      "id": "5afe85ebfb8c44a1a6be8ba36f79daea",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "366860",
+        "Tên Bưu cục": "BCP Sông Mã",
+        "Họ và tên người sử dụng": "Bùi Thị Ánh",
+        "Mã HRM": "00257811",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "DB -II",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "60KG",
+        "Serial Number": "1A0957685",
+        "Năm sản xuất": "2018",
+        "Ngày kiểm định gần nhất": "2025-01-02",
+        "Thời hạn kiểm định tiếp theo": "2026-01-02",
+        "Vị trí lắp đặt/Sử dụng": "Bưu cục phát",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T10:08:34",
+      "updatedAt": "2026-08-04T10:08:34"
     }
   ]
 }
