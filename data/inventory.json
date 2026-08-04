@@ -6549,6 +6549,39 @@
       "attachments": [],
       "createdAt": "2026-08-04T04:04:19",
       "updatedAt": "2026-08-04T04:04:19"
+    },
+    {
+      "id": "9220bafd963945ca97fa7095bc6771b7",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362500",
+        "Tên Bưu cục": "PHIÊNG KHOÀI",
+        "Họ và tên người sử dụng": "LÊ THỊ LÝ",
+        "Mã HRM": "00056479",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐỒNG HỒ LÒ XO 100KG",
+        "Loại thiết bị": "",
+        "Hãng": "NHƠN HÒA",
+        "Model": "",
+        "Năm sản xuất": "2020",
+        "Serial Number": "",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "VIỆT NAM",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T04:06:50",
+      "updatedAt": "2026-08-04T04:06:50"
     }
   ]
 }
