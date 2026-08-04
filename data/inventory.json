@@ -6683,13 +6683,13 @@
       "id": "5c8744d34ca24b2080d7fdd897a31f68",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "366850",
-        "Tên Bưu cục": "KT sm",
+        "Mã BĐ Xã": "3668",
+        "Tên Xã": "BCVH Sông Mã",
+        "Mã Bưu cục": "366860",
+        "Tên Bưu cục": "BCP Sông Mã",
         "Họ và tên người sử dụng": "Phùng Thị Vân Hà",
         "Mã HRM": "0005672",
-        "Bộ phận / Phòng ban": "kt sông mã",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SM-KTH",
         "Loại máy": "Desktop",
@@ -6726,7 +6726,7 @@
         }
       ],
       "createdAt": "2026-08-04T04:50:48",
-      "updatedAt": "2026-08-04T09:42:18"
+      "updatedAt": "2026-08-04T09:44:12"
     },
     {
       "id": "6d7630b36bfe4a24850652944ff2df86",
