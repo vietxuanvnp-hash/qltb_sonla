@@ -6614,6 +6614,38 @@
       "attachments": [],
       "createdAt": "2026-08-04T04:21:45",
       "updatedAt": "2026-08-04T04:21:45"
+    },
+    {
+      "id": "3f8d7a4f34cf458390ac624d9f380119",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362400",
+        "Tên Bưu cục": "Bưu điện xã Yên Châu",
+        "Họ và tên người sử dụng": "Quàng Thị Hoa",
+        "Mã HRM": "00056474",
+        "Bộ phận / Phòng ban": "Giao dịch trung tâm Yên Châu",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân lò xo",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân lò xo",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "100Kg",
+        "Serial Number": "19A.04221",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-05-12",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "Giao dịch trung tâm Yên Châu",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": "VN-N242-02291"
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T04:24:10",
+      "updatedAt": "2026-08-04T04:24:10"
     }
   ]
 }
