@@ -6279,13 +6279,13 @@
       "id": "7ae81d27594942cdb6c7de3576b33f0a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3663",
+        "Tên Xã": "Bưu điện xã Sông Mã",
         "Mã Bưu cục": "366860",
         "Tên Bưu cục": "BCP Sông Mã",
         "Họ và tên người sử dụng": "Phùng Thị Vân Hà",
         "Mã HRM": "0005672",
-        "Bộ phận / Phòng ban": "Khai Thác",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SM-KTH",
         "Loại máy": "Desktop",
@@ -6322,7 +6322,7 @@
         }
       ],
       "createdAt": "2026-08-03T07:03:30",
-      "updatedAt": "2026-08-03T07:03:30"
+      "updatedAt": "2026-08-04T04:20:39"
     },
     {
       "id": "0828eb1152114bdb829b5621d08ede7a",
