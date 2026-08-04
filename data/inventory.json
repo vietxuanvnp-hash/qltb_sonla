@@ -6874,6 +6874,50 @@
       ],
       "createdAt": "2026-08-04T09:53:52",
       "updatedAt": "2026-08-04T09:53:52"
+    },
+    {
+      "id": "12a95f8b45af401e85201d3b991915a2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3668",
+        "Tên Xã": "BCVH Sông Mã",
+        "Mã Bưu cục": "366860",
+        "Tên Bưu cục": "BCP Sông Mã",
+        "Họ và tên người sử dụng": "Bùi Thị Ánh",
+        "Mã HRM": "00257811",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-NH47K27",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LWY",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM R92X7-9NG4G-VBQGK-HQ43W-4VWGQ",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.18.13",
+        "MAC Address": "F8:ED:FC:6A:70:EE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra",
+          "serial": "357C1620210"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "20206010561980"
+        }
+      ],
+      "createdAt": "2026-08-04T09:58:09",
+      "updatedAt": "2026-08-04T09:58:09"
     }
   ]
 }
