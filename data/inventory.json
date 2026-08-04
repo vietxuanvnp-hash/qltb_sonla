@@ -6485,6 +6485,38 @@
       "attachments": [],
       "createdAt": "2026-08-04T03:55:02",
       "updatedAt": "2026-08-04T03:55:02"
+    },
+    {
+      "id": "821c272ba24f4fd391dc54818d7de46b",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362600",
+        "Tên Bưu cục": "VHX YÊN SƠN",
+        "Họ và tên người sử dụng": "NGUYỄN NGỌC HÀ",
+        "Mã HRM": "00217753",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân điện tử",
+        "Hãng sản xuất": "cas-prll",
+        "Model": "prll-30eb",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "15/30kg",
+        "Serial Number": "200253310",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "2025-12-12",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "trên bàn",
+        "Tình trạng hoạt động": "bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T04:01:54",
+      "updatedAt": "2026-08-04T04:01:54"
     }
   ]
 }
