@@ -6759,6 +6759,38 @@
       "attachments": [],
       "createdAt": "2026-08-04T07:33:04",
       "updatedAt": "2026-08-04T07:33:04"
+    },
+    {
+      "id": "c66c5fc196354a8b8e7b3b1862d7807e",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362430",
+        "Tên Bưu cục": "VHX CHIENG KHOI",
+        "Họ và tên người sử dụng": "BUI THÚY AN",
+        "Mã HRM": "00248526",
+        "Bộ phận / Phòng ban": "IT",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-04T08:04:25",
+      "updatedAt": "2026-08-04T08:04:25"
     }
   ]
 }
