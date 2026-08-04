@@ -6431,10 +6431,10 @@
         "Mã BĐ Xã": "",
         "Tên Xã": "",
         "Mã Bưu cục": "362700",
-        "Tên Bưu cục": "lóng phiêng",
-        "Họ và tên người sử dụng": "trần ánh hằng",
+        "Tên Bưu cục": "Lóng Phiêng",
+        "Họ và tên người sử dụng": "Trần Ánh Hằng",
         "Mã HRM": "00087514",
-        "Bộ phận / Phòng ban": "vhx",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
         "Tên tài sản\n(Theo danh mục CCDC)": "xprinter",
@@ -6452,7 +6452,7 @@
       },
       "attachments": [],
       "createdAt": "2026-08-04T03:50:51",
-      "updatedAt": "2026-08-04T03:50:51"
+      "updatedAt": "2026-08-04T09:28:49"
     },
     {
       "id": "c5d2cdf061044f43b48ccdc9bd4bfa5c",
