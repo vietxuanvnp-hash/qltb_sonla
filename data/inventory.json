@@ -7007,10 +7007,10 @@
       "id": "9279f7a33dc74fb7b8f9458441d35bea",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "36",
-        "Tên Bưu cục": "Văn phòng BĐT",
+        "Mã BĐ Xã": "36",
+        "Tên Xã": "BĐT Sơn La",
+        "Mã Bưu cục": "3609",
+        "Tên Bưu cục": "Văn phòng BĐT Sơn La",
         "Họ và tên người sử dụng": "Hà Thị Thu Hằng",
         "Mã HRM": "00056916",
         "Bộ phận / Phòng ban": "Tổ chức hành chính",
@@ -7040,7 +7040,7 @@
         }
       ],
       "createdAt": "2026-08-05T07:15:46",
-      "updatedAt": "2026-08-05T07:15:46"
+      "updatedAt": "2026-08-05T10:43:55"
     },
     {
       "id": "fc07d2f3354d408694ab2334f392fd98",
