@@ -7043,45 +7043,6 @@
       "updatedAt": "2026-08-05T07:15:46"
     },
     {
-      "id": "1c6e6129e18d46e2a8c20ef56bfd65b4",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "36",
-        "Tên Xã": "BĐT Sơn La",
-        "Mã Bưu cục": "3611",
-        "Tên Bưu cục": "Trung tâm Vận Hành",
-        "Họ và tên người sử dụng": "Lèo Việt Xuấn",
-        "Mã HRM": "00056386",
-        "Bộ phận / Phòng ban": "Trung tâm Vận Hành",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "SLA-KTNV-XUANLV",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11SYS0T500",
-        "Năm sản xuất": "",
-        "Serial Number": "YLT0AAWJ",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
-        "RAM": "11.7 GB",
-        "Ổ cứng": "386 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
-        "Office": "Microsoft 365 - en-us",
-        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
-        "License Office": "Microsoft 365 - en-us",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.27.39.50",
-        "MAC Address": "F4:6B:8C:CC:BA:0A"
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Canon-3300",
-          "serial": "SHBM256872"
-        }
-      ],
-      "createdAt": "2026-08-05T07:18:34",
-      "updatedAt": "2026-08-05T07:18:34"
-    },
-    {
       "id": "fc07d2f3354d408694ab2334f392fd98",
       "category": "3. Máy Tính",
       "fields": {
