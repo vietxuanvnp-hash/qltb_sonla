@@ -7080,6 +7080,39 @@
       ],
       "createdAt": "2026-08-05T07:18:34",
       "updatedAt": "2026-08-05T07:18:34"
+    },
+    {
+      "id": "fc07d2f3354d408694ab2334f392fd98",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "VPBĐT",
+        "Họ và tên người sử dụng": "Phạm Việt Hà",
+        "Mã HRM": "00056354",
+        "Bộ phận / Phòng ban": "Tổ chức hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PHAMVIETHA",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT009243362",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM ND6PR-QKQMJ-DG37C-XHYPV-X77CM",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.27.157.171",
+        "MAC Address": "CC:28:AA:B2:3C:36"
+      },
+      "attachments": [],
+      "createdAt": "2026-08-05T08:41:28",
+      "updatedAt": "2026-08-05T08:41:28"
     }
   ]
 }
