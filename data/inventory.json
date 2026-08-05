@@ -6970,6 +6970,38 @@
       "attachments": [],
       "createdAt": "2026-08-05T06:13:16",
       "updatedAt": "2026-08-05T06:13:16"
+    },
+    {
+      "id": "6ee168586d7d43ee9f74f3318b89e22b",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362470",
+        "Tên Bưu cục": "BĐX CHIỀNG HẶC",
+        "Họ và tên người sử dụng": "HOÀNG THANH GIANG",
+        "Mã HRM": "00105429",
+        "Bộ phận / Phòng ban": "BĐT SƠN LA",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cas",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân điện tử",
+        "Hãng sản xuất": "china",
+        "Model": "PRll-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "15/30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "2025-07-12",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-05T06:14:16",
+      "updatedAt": "2026-08-05T06:14:16"
     }
   ]
 }
