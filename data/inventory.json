@@ -7002,6 +7002,45 @@
       "attachments": [],
       "createdAt": "2026-08-05T06:14:16",
       "updatedAt": "2026-08-05T06:14:16"
+    },
+    {
+      "id": "9279f7a33dc74fb7b8f9458441d35bea",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "36",
+        "Tên Bưu cục": "Văn phòng BĐT",
+        "Họ và tên người sử dụng": "Hà Thị Thu Hằng",
+        "Mã HRM": "00056916",
+        "Bộ phận / Phòng ban": "Tổ chức hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PGD-HANGHTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "26YSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM 7JP2N-BP88H-MVH6D-3Q98T-V6DFC",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.157.71",
+        "MAC Address": "B0:7B:25:11:23:92"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LBP3300",
+          "serial": "LQHA152019"
+        }
+      ],
+      "createdAt": "2026-08-05T07:15:46",
+      "updatedAt": "2026-08-05T07:15:46"
     }
   ]
 }
