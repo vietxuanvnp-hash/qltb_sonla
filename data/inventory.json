@@ -7106,6 +7106,38 @@
       "attachments": [],
       "createdAt": "2026-08-06T00:31:14",
       "updatedAt": "2026-08-06T00:31:14"
+    },
+    {
+      "id": "a130f84d909c495283cbfe748dda35b5",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "SƠN LA",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "XÃ YÊN CHÂU",
+        "Mã Bưu cục": "362400",
+        "Tên Bưu cục": "BCTT YÊN CHÂU",
+        "Họ và tên người sử dụng": "QUÀNG THỊ HOA",
+        "Mã HRM": "00056474",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN LÒ XO",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân lò xo",
+        "Hãng sản xuất": "nhơn hòa",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "100",
+        "Serial Number": "",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "2022-01-01",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-06T00:33:21",
+      "updatedAt": "2026-08-06T00:33:21"
     }
   ]
 }
