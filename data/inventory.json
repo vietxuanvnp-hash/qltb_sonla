@@ -7138,6 +7138,55 @@
       "attachments": [],
       "createdAt": "2026-08-06T00:33:21",
       "updatedAt": "2026-08-06T00:33:21"
+    },
+    {
+      "id": "b7951b7b8bc14c7bb443874e99fa7e0d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3630",
+        "Tên Xã": "BƯU ĐIỆN XÃ MƯỜNG BÚ",
+        "Mã Bưu cục": "365080",
+        "Tên Bưu cục": "MƯỜNG BÚ",
+        "Họ và tên người sử dụng": "CÀ CÔNG CHÍ",
+        "Mã HRM": "00081162",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ MƯỜNG BÚ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-ML-BCMUONGB",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWT",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "264 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.2",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-07T03:31:43",
+      "updatedAt": "2026-08-07T03:31:43"
     }
   ]
 }
