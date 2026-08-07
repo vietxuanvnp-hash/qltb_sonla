@@ -7220,6 +7220,39 @@
       "attachments": [],
       "createdAt": "2026-08-07T10:30:17",
       "updatedAt": "2026-08-07T10:30:17"
+    },
+    {
+      "id": "a0f3979801cf4a0a8ae88dacd5b50fc7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3605",
+        "Tên Xã": "Bưu điện phường Mộc Sơn",
+        "Mã Bưu cục": "362940",
+        "Tên Bưu cục": "BCP Mộc Châu",
+        "Họ và tên người sử dụng": "BCP Mộc Châu",
+        "Mã HRM": "00362940",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-KT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWX",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "License Windows": "Windows(R) Operating System, OEM_DM channel 4RHJ7",
+        "License Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.13.161",
+        "MAC Address": "F4:6B:8C:CC:BA:3D"
+      },
+      "attachments": [],
+      "createdAt": "2026-08-07T10:37:07",
+      "updatedAt": "2026-08-07T10:37:07"
     }
   ]
 }
