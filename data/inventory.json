@@ -7253,6 +7253,45 @@
       "attachments": [],
       "createdAt": "2026-08-07T10:37:07",
       "updatedAt": "2026-08-07T10:37:07"
+    },
+    {
+      "id": "e67493477876437a9903f67fdf756576",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3628",
+        "Tên Xã": "BCVH Mộc Châu",
+        "Mã Bưu cục": "362940",
+        "Tên Bưu cục": "BCP Mộc Châu",
+        "Họ và tên người sử dụng": "BCP Mộc Châu",
+        "Mã HRM": "00362940",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-BCPTN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "510-p006l",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV6480JPL",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "576 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional 2021 - en-us",
+        "Antivirus": "Avast Antivirus, Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.13.20",
+        "MAC Address": "C8:D3:FF:36:21:67"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Symbol-LI4278",
+          "serial": "1530000504044"
+        }
+      ],
+      "createdAt": "2026-08-07T10:40:34",
+      "updatedAt": "2026-08-07T10:40:34"
     }
   ]
 }
