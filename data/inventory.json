@@ -7292,6 +7292,50 @@
       ],
       "createdAt": "2026-08-07T10:40:34",
       "updatedAt": "2026-08-07T10:40:34"
+    },
+    {
+      "id": "33cef1aa09ac453cb1380457aebb3353",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3605",
+        "Tên Xã": "Bưu điện phường Mộc Sơn",
+        "Mã Bưu cục": "362800",
+        "Tên Bưu cục": "GD2 Mộc Châu",
+        "Họ và tên người sử dụng": "Vũ Thị Thùy Dương",
+        "Mã HRM": "00110760",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-KSV",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXB",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26100",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 8HVX7",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.13.164",
+        "MAC Address": "F4:6B:8C:CC:BA:4E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-LBP223dw",
+          "serial": "NQGA066886"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprint XP-58IIB",
+          "serial": "BBU241050077"
+        }
+      ],
+      "createdAt": "2026-08-07T10:54:33",
+      "updatedAt": "2026-08-07T10:54:33"
     }
   ]
 }
