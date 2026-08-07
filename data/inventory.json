@@ -7187,6 +7187,39 @@
       ],
       "createdAt": "2026-08-07T03:31:43",
       "updatedAt": "2026-08-07T03:31:43"
+    },
+    {
+      "id": "fd3ede730c8d4998ae5bbbd2400bf3c9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3605",
+        "Tên Xã": "Bưu điện Phường Mộc Sơn",
+        "Mã Bưu cục": "362800",
+        "Tên Bưu cục": "GD2 Mộc Châu",
+        "Họ và tên người sử dụng": "Hà Thị Thanh Quý",
+        "Mã HRM": "00097028",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-POSBANK",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181489",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, OEM_COA_NSLP channel 4C38M",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.13.16",
+        "MAC Address": "50:AF:73:38:23:8A"
+      },
+      "attachments": [],
+      "createdAt": "2026-08-07T10:30:17",
+      "updatedAt": "2026-08-07T10:30:17"
     }
   ]
 }
