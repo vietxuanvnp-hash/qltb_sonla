@@ -7336,6 +7336,50 @@
       ],
       "createdAt": "2026-08-07T10:54:33",
       "updatedAt": "2026-08-07T10:54:33"
+    },
+    {
+      "id": "5d791e101d7e45329c987eb51ab82ea9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3641",
+        "Tên Xã": "Bưu điện xã Mường Cơi",
+        "Mã Bưu cục": "363840",
+        "Tên Bưu cục": "Mường Cơi",
+        "Họ và tên người sử dụng": "Đinh Thị Thi",
+        "Mã HRM": "00056664",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-MC-THITD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01133B1",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "38:22:E2:18:7F:35"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother HL-B2000D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-10T03:00:54",
+      "updatedAt": "2026-08-10T03:00:54"
     }
   ]
 }
