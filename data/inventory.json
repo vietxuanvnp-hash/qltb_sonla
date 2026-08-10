@@ -7380,6 +7380,38 @@
       ],
       "createdAt": "2026-08-10T03:00:54",
       "updatedAt": "2026-08-10T03:42:52"
+    },
+    {
+      "id": "91be9572ce674d389e030b54904568d3",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3641",
+        "Tên Xã": "Bưu điện Xã Mường Cơi",
+        "Mã Bưu cục": "363840",
+        "Tên Bưu cục": "Mường Cơi",
+        "Họ và tên người sử dụng": "Đinh Thị Thi",
+        "Mã HRM": "00056545",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "oneko",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "5888871728",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-10T03:45:15",
+      "updatedAt": "2026-08-10T03:45:15"
     }
   ]
 }
