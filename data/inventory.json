@@ -7370,16 +7370,16 @@
         {
           "type": "laser_printer",
           "name": "Brother HL-B2000D",
-          "serial": ""
+          "serial": "E78340E2N815522"
         },
         {
           "type": "barcode_reader",
-          "name": "",
-          "serial": ""
+          "name": "Zebra-DS2208",
+          "serial": "20205010580083"
         }
       ],
       "createdAt": "2026-08-10T03:00:54",
-      "updatedAt": "2026-08-10T03:00:54"
+      "updatedAt": "2026-08-10T03:42:52"
     }
   ]
 }
