@@ -4810,13 +4810,13 @@
       "id": "c3a20764ed904915aa5612c33b023d5a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3642",
+        "Tên Xã": "Bưu điện xã Mường Bang",
         "Mã Bưu cục": "363750",
-        "Tên Bưu cục": "VHX MƯỜNG BANG",
+        "Tên Bưu cục": "Mường Bang",
         "Họ và tên người sử dụng": "Phùng Thị Thơ",
         "Mã HRM": "00056663",
-        "Bộ phận / Phòng ban": "nhân viên",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "HP",
         "Loại máy": "Desktop",
@@ -4843,7 +4843,7 @@
         }
       ],
       "createdAt": "2026-07-23T08:53:58",
-      "updatedAt": "2026-07-23T08:53:58"
+      "updatedAt": "2026-08-11T03:15:53"
     },
     {
       "id": "6253633bd9364183bd814066267ed0f9",
