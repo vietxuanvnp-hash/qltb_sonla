@@ -5914,10 +5914,10 @@
       "id": "786a30fb9b094f34bb8392ee4e4b9528",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "363880",
-        "Tên Xã": "Xã Mường Thải",
+        "Mã BĐ Xã": "3641",
+        "Tên Xã": "Bưu điện xã Mường Cơi",
         "Mã Bưu cục": "363880",
-        "Tên Bưu cục": "Xã Mường Thải",
+        "Tên Bưu cục": "Mường Thải",
         "Họ và tên người sử dụng": "Triệu Thị Ồm",
         "Mã HRM": "0026113",
         "Bộ phận / Phòng ban": "Phát xã",
@@ -5952,7 +5952,7 @@
         }
       ],
       "createdAt": "2026-07-30T01:56:47",
-      "updatedAt": "2026-07-30T01:56:47"
+      "updatedAt": "2026-08-11T02:57:44"
     },
     {
       "id": "c80d952be1e74f898f133c7ad45f611b",
