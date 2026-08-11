@@ -6124,8 +6124,8 @@
       "id": "bbfd0d1ce1004853b3ec6e36b88b783f",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3620",
+        "Tên Xã": "Bưu điện xã Chiềng La",
         "Mã Bưu cục": "365880",
         "Tên Bưu cục": "Điểm VHX Tông Cọ",
         "Họ và tên người sử dụng": "Quàng Thị Tía",
@@ -6162,7 +6162,7 @@
         }
       ],
       "createdAt": "2026-07-30T09:38:08",
-      "updatedAt": "2026-07-30T09:38:08"
+      "updatedAt": "2026-08-11T03:21:52"
     },
     {
       "id": "c991187090ec467fa0f2a401d9d68ee4",
