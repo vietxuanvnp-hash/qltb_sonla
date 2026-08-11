@@ -5959,12 +5959,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3622",
-        "Tên Xã": "Điểm Bưu điện xã Bon Phặng",
+        "Tên Xã": "Điểm Bưu điện xã Muổi Nọi",
         "Mã Bưu cục": "365860",
-        "Tên Bưu cục": "Bưu điện xã Bon Phặng",
+        "Tên Bưu cục": "Bon Phặng",
         "Họ và tên người sử dụng": "Lò Thị Ngân",
         "Mã HRM": "00056834",
-        "Bộ phận / Phòng ban": "Điểm bưu điện xã Bon Phặng",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-TC-BP",
         "Loại máy": "Desktop",
@@ -5996,7 +5996,7 @@
         }
       ],
       "createdAt": "2026-07-30T02:27:33",
-      "updatedAt": "2026-07-30T02:27:33"
+      "updatedAt": "2026-08-11T03:10:01"
     },
     {
       "id": "bc2ab4539aed4d92b95a625d0d366587",
