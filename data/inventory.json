@@ -5583,13 +5583,13 @@
       "id": "286a7bc841ab435cab3ca2002df0d660",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3636",
-        "Tên Xã": "PHÙ YÊN",
+        "Mã BĐ Xã": "3638",
+        "Tên Xã": "Bưu điện xã Phù Yên",
         "Mã Bưu cục": "363600",
-        "Tên Bưu cục": "BƯU ĐIỆN XÃ PHÙ YÊN",
+        "Tên Bưu cục": "GD2 Phù Yên",
         "Họ và tên người sử dụng": "NÔNG THU HƯƠNG",
         "Mã HRM": "00106274",
-        "Bộ phận / Phòng ban": "PHÒNG GIAO DỊCH",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-PY-GDTT-VAN",
         "Loại máy": "Desktop",
@@ -5616,7 +5616,7 @@
         }
       ],
       "createdAt": "2026-07-27T09:13:49",
-      "updatedAt": "2026-07-27T09:13:49"
+      "updatedAt": "2026-08-11T02:54:13"
     },
     {
       "id": "30c57b78a8c0405283d1bda48c06dad0",
