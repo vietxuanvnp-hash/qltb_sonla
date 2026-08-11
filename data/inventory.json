@@ -5405,13 +5405,13 @@
       "id": "f5be2fb782054a3395f89f4c60b2df7a",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3648",
+        "Tên Xã": "Bưu điện xã Yên Sơn",
         "Mã Bưu cục": "362600",
-        "Tên Bưu cục": "VHX YÊN SƠN",
+        "Tên Bưu cục": "Yên Sơn",
         "Họ và tên người sử dụng": "NGUYỄN NGỌC HÀ",
         "Mã HRM": "00217753",
-        "Bộ phận / Phòng ban": "VHX",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "HP",
         "Loại máy": "",
@@ -5438,7 +5438,7 @@
         }
       ],
       "createdAt": "2026-07-27T08:34:25",
-      "updatedAt": "2026-07-27T08:34:25"
+      "updatedAt": "2026-08-11T03:17:15"
     },
     {
       "id": "13b2e0f96a0640089046a8707b639508",
