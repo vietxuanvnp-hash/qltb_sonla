@@ -6451,15 +6451,15 @@
       "id": "821c272ba24f4fd391dc54818d7de46b",
       "category": "7. Cân Điện Tử",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3648",
+        "Tên Xã": "Bưu điện xã Yên Sơn",
         "Mã Bưu cục": "362600",
-        "Tên Bưu cục": "VHX YÊN SƠN",
+        "Tên Bưu cục": "Yên Sơn",
         "Họ và tên người sử dụng": "NGUYỄN NGỌC HÀ",
         "Mã HRM": "00217753",
-        "Bộ phận / Phòng ban": "VHX",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
         "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
@@ -6477,7 +6477,7 @@
       },
       "attachments": [],
       "createdAt": "2026-08-04T04:01:54",
-      "updatedAt": "2026-08-04T04:01:54"
+      "updatedAt": "2026-08-11T03:18:29"
     },
     {
       "id": "801f79d152ea4e2cbac7e773e5bc5198",
