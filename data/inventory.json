@@ -7498,6 +7498,45 @@
       ],
       "createdAt": "2026-08-12T08:00:16",
       "updatedAt": "2026-08-12T08:00:16"
+    },
+    {
+      "id": "267407d45bc34430a4be81363cc643ab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "xã yên châu",
+        "Mã Bưu cục": "362400",
+        "Tên Bưu cục": "bctt yên châu",
+        "Họ và tên người sử dụng": "trần thu hiền",
+        "Mã HRM": "00116680",
+        "Bộ phận / Phòng ban": "Phòng giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-YC-KSV-HIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAY1",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 8HVX7",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.14.65",
+        "MAC Address": "F4:6B:8C:CC:BC:60"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "máy photo canon 2009",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-12T08:03:10",
+      "updatedAt": "2026-08-12T08:03:10"
     }
   ]
 }
