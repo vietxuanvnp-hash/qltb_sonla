@@ -4974,13 +4974,13 @@
       "id": "8d7b1f0b17c244849c5254b62859ce43",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "367800",
-        "Tên Xã": "BĐVH Xã Mường Lạn, Sơn La",
-        "Mã Bưu cục": "367750",
+        "Mã BĐ Xã": "3666",
+        "Tên Xã": "Bưu điện xã Sốp Cộp",
+        "Mã Bưu cục": "367800",
         "Tên Bưu cục": "Mường Lạn",
         "Họ và tên người sử dụng": "Quàng Thị Ngân",
         "Mã HRM": "00056790",
-        "Bộ phận / Phòng ban": "Nhân Viên KD",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-SC-MUONGLAN",
         "Loại máy": "Desktop",
@@ -5012,7 +5012,7 @@
         }
       ],
       "createdAt": "2026-07-25T01:33:18",
-      "updatedAt": "2026-07-25T01:33:18"
+      "updatedAt": "2026-08-12T07:33:19"
     },
     {
       "id": "2c755589fdfb41ec87265444a0d148c6",
