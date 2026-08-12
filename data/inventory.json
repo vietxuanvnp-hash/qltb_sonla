@@ -7406,6 +7406,50 @@
       "attachments": [],
       "createdAt": "2026-08-11T03:14:48",
       "updatedAt": "2026-08-11T03:14:48"
+    },
+    {
+      "id": "ae2132b6f39944a982e72c47a1c4f71a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3676",
+        "Tên Xã": "Bưu điện xã Chiềng Sơn",
+        "Mã Bưu cục": "362910",
+        "Tên Bưu cục": "Chiềng Ve",
+        "Họ và tên người sử dụng": "Mè Thị Phương",
+        "Mã HRM": "00056543",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-BCCVE",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAX7",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F4:6B:8C:CC:BA:D2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "VNC5J01129"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra-DS2208",
+          "serial": "19241010501144"
+        }
+      ],
+      "createdAt": "2026-08-12T04:38:04",
+      "updatedAt": "2026-08-12T04:38:04"
     }
   ]
 }
