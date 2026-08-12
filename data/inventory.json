@@ -7454,6 +7454,50 @@
       "attachments": [],
       "createdAt": "2026-08-12T06:51:03",
       "updatedAt": "2026-08-12T06:51:03"
+    },
+    {
+      "id": "6177f5915a724cf28761bab31cfa3bf0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "362400",
+        "Tên Bưu cục": "BƯU CỤC TRUNG TÂM YÊN CHÂU",
+        "Họ và tên người sử dụng": "KHUẤT NHẬT LỆ",
+        "Mã HRM": "00107769",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-IVUM813",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE245CHQS",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "License Windows": "OEM NHVP6-3M32B-7G6WT-JKGF8-QDB6Q",
+        "License Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.27.14.8",
+        "MAC Address": "38:CA:84:40:AE:17"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "VNC0202695"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-12T08:00:16",
+      "updatedAt": "2026-08-12T08:00:16"
     }
   ]
 }
