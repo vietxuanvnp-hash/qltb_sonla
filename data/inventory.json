@@ -7439,8 +7439,13 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "HP",
+          "name": "HP-M203d",
           "serial": "VNC5J01129"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "A8-Posbank",
+          "serial": "PTAP211201432"
         },
         {
           "type": "barcode_reader",
@@ -7449,7 +7454,7 @@
         }
       ],
       "createdAt": "2026-08-12T04:38:04",
-      "updatedAt": "2026-08-12T04:38:04"
+      "updatedAt": "2026-08-12T06:43:41"
     }
   ]
 }
