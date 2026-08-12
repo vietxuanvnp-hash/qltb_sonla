@@ -7753,6 +7753,55 @@
       "attachments": [],
       "createdAt": "2026-08-12T08:35:47",
       "updatedAt": "2026-08-12T08:35:47"
+    },
+    {
+      "id": "fe31843c9cd344e1a9fd38587283cb0d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "Bưu điện xã Yên Châu",
+        "Mã Bưu cục": "362430",
+        "Tên Bưu cục": "Chiềng Khoi",
+        "Họ và tên người sử dụng": "BUI THÚY AN",
+        "Mã HRM": "00248526",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-YC-CK-ANTB",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S450",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50Hz 3.49 GHz",
+        "RAM": "3.43 GB",
+        "Ổ cứng": "500 GB",
+        "Hệ điều hành": "Windows 7 Ultimate",
+        "Office": "Microsoft Office LTSC Professional Plus 2010 - en-us",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP-M203dn",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "A8-POSBANK",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-12T10:07:49",
+      "updatedAt": "2026-08-12T10:07:49"
     }
   ]
 }
