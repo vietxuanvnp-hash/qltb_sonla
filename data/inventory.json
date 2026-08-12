@@ -7614,6 +7614,50 @@
       ],
       "createdAt": "2026-08-12T08:13:09",
       "updatedAt": "2026-08-12T08:13:09"
+    },
+    {
+      "id": "17d408d0944e410da7c4a42b9378e804",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "362440",
+        "Tên Xã": "xã yên châu",
+        "Mã Bưu cục": "362440",
+        "Tên Bưu cục": "văn hóa xã sặp vạt yên châu",
+        "Họ và tên người sử dụng": "Quàng Trung Thu",
+        "Mã HRM": "00056501",
+        "Bộ phận / Phòng ban": "văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-YC-SAPVAT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LNP",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM BN8H6-29P2P-29H3Q-BWVYB-39M6Q",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F8:ED:FC:6A:6F:D1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-12T08:17:22",
+      "updatedAt": "2026-08-12T08:17:22"
     }
   ]
 }
