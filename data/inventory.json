@@ -7720,6 +7720,39 @@
       "attachments": [],
       "createdAt": "2026-08-12T08:20:28",
       "updatedAt": "2026-08-12T08:20:28"
+    },
+    {
+      "id": "5bf9a2ffde014395926d7e58c023622b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "362600",
+        "Tên Xã": "xã yên sơn tỉnh sơn la",
+        "Mã Bưu cục": "362600",
+        "Tên Bưu cục": "vhx yên sơn",
+        "Họ và tên người sử dụng": "nguyễn ngọc hà",
+        "Mã HRM": "00217753",
+        "Bộ phận / Phòng ban": "văn hóa xã",
+        "Mã vật tư": "máy tính",
+        "Tên máy (Hostname)": "máy tính",
+        "Loại máy": "hp",
+        "Hãng": "hp",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-12T08:35:47",
+      "updatedAt": "2026-08-12T08:35:47"
     }
   ]
 }
