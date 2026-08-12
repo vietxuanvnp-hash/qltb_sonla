@@ -7455,6 +7455,38 @@
       ],
       "createdAt": "2026-08-12T04:38:04",
       "updatedAt": "2026-08-12T06:43:41"
+    },
+    {
+      "id": "6942488249204ee0b0e06a11c9ec515c",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3676",
+        "Tên Xã": "Bưu điện xã Chiềng Sơn",
+        "Mã Bưu cục": "362910",
+        "Tên Bưu cục": "Chiềng Ve",
+        "Họ và tên người sử dụng": "Mè Thị Phương",
+        "Mã HRM": "00056543",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "SN50457",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-08-12T06:51:03",
+      "updatedAt": "2026-08-12T06:51:03"
     }
   ]
 }
