@@ -7852,6 +7852,50 @@
       ],
       "createdAt": "2026-08-13T03:02:39",
       "updatedAt": "2026-08-13T03:02:39"
+    },
+    {
+      "id": "21042afbf393486ab6c830412a729cf1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "367800",
+        "Tên Xã": "BĐVH Xã Mường Lạn, Sơn La",
+        "Mã Bưu cục": "367750",
+        "Tên Bưu cục": "Mường Lạn",
+        "Họ và tên người sử dụng": "Quàng Thị Ngân",
+        "Mã HRM": "00056790",
+        "Bộ phận / Phòng ban": "Nhân Viên KD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SC-MUONGLAN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LKY",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM PXTCJ-MNT7Y-XRG8X-Q9HMY-CWGP3",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "10:B6:76:9E:C8:B1"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-13T03:23:19",
+      "updatedAt": "2026-08-13T03:23:19"
     }
   ]
 }
