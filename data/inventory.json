@@ -7813,6 +7813,45 @@
       ],
       "createdAt": "2026-08-13T02:17:14",
       "updatedAt": "2026-08-13T02:17:14"
+    },
+    {
+      "id": "cc4971bd2d4449e581d53e40dcb96db3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "HUYỆN SỐP CỘP",
+        "Tên Xã": "",
+        "Mã Bưu cục": "367700",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ SỐP CỘP",
+        "Họ và tên người sử dụng": "LÒ THÙY LINH",
+        "Mã HRM": "00254145",
+        "Bộ phận / Phòng ban": "KSV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SC-GD3",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181386",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 8HVX7",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.27.15.60",
+        "MAC Address": "50:AF:73:38:22:97"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "X PRINTER",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-13T03:02:39",
+      "updatedAt": "2026-08-13T03:02:39"
     }
   ]
 }
