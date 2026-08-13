@@ -7896,6 +7896,45 @@
       ],
       "createdAt": "2026-08-13T03:23:19",
       "updatedAt": "2026-08-13T03:23:19"
+    },
+    {
+      "id": "0f0c6f4dc5304b8da19fd50b24dc9d77",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3658",
+        "Tên Xã": "Bưu điện xã Chiềng Khương",
+        "Mã Bưu cục": "367060",
+        "Tên Bưu cục": "BC3 Chiềng Khương",
+        "Họ và tên người sử dụng": "Nguyễn Thùy Linh",
+        "Mã HRM": "00056737",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-CKU-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH434S1B0",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "3.4 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "40:A8:F0:65:99:33"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprint-XP 58IIH",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-13T07:35:37",
+      "updatedAt": "2026-08-13T07:35:37"
     }
   ]
 }
