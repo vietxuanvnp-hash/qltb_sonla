@@ -7586,13 +7586,13 @@
       "id": "17d408d0944e410da7c4a42b9378e804",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "362440",
-        "Tên Xã": "xã yên châu",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "Bưu điện xã Yên Châu",
         "Mã Bưu cục": "362440",
-        "Tên Bưu cục": "văn hóa xã sặp vạt yên châu",
+        "Tên Bưu cục": "Sặp Vạt",
         "Họ và tên người sử dụng": "Quàng Trung Thu",
         "Mã HRM": "00056501",
-        "Bộ phận / Phòng ban": "văn hóa xã",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-YC-SAPVAT",
         "Loại máy": "Desktop",
@@ -7624,7 +7624,7 @@
         }
       ],
       "createdAt": "2026-08-12T08:17:22",
-      "updatedAt": "2026-08-12T08:17:22"
+      "updatedAt": "2026-08-19T01:30:20"
     },
     {
       "id": "79f250cf23b444d1aa32f29b7dbf717f",
