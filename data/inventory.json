@@ -7470,13 +7470,13 @@
       "id": "267407d45bc34430a4be81363cc643ab",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "xã yên châu",
+        "Mã BĐ Xã": "3645",
+        "Tên Xã": "Bưu điện xã Yên Châu",
         "Mã Bưu cục": "362400",
-        "Tên Bưu cục": "bctt yên châu",
-        "Họ và tên người sử dụng": "trần thu hiền",
+        "Tên Bưu cục": "GD2 Yên Châu",
+        "Họ và tên người sử dụng": "Trần Thu Yền",
         "Mã HRM": "00116680",
-        "Bộ phận / Phòng ban": "Phòng giao dịch",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-YC-KSV-HIEN",
         "Loại máy": "Desktop",
@@ -7497,13 +7497,13 @@
       },
       "attachments": [
         {
-          "type": "photocopier",
-          "name": "máy photo canon 2009",
+          "type": "laser_printer",
+          "name": "Canon-2900",
           "serial": ""
         }
       ],
       "createdAt": "2026-08-12T08:03:10",
-      "updatedAt": "2026-08-12T08:03:10"
+      "updatedAt": "2026-08-19T01:32:10"
     },
     {
       "id": "17d408d0944e410da7c4a42b9378e804",
