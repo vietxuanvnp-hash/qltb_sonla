@@ -3108,8 +3108,8 @@
         "Họ và tên người sử dụng": "Vũ Quỳnh Hương",
         "Mã HRM": "00081519",
         "Bộ phận / Phòng ban": "Bưu cục GD3",
-        "Mã vật tư": "",
-        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "CC207210",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
         "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
         "Loại cân (Cân bàn/Cân bưu kiện...)": "",
         "Hãng sản xuất": "",
@@ -3125,7 +3125,7 @@
       },
       "attachments": [],
       "createdAt": "2026-07-16T07:35:50",
-      "updatedAt": "2026-07-16T09:49:14"
+      "updatedAt": "2026-08-19T01:12:43"
     },
     {
       "id": "3150eec64de54664b45b0f32fcc66d38",
