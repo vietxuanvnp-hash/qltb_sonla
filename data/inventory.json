@@ -7858,6 +7858,55 @@
       ],
       "createdAt": "2026-08-13T07:35:37",
       "updatedAt": "2026-08-13T07:35:37"
+    },
+    {
+      "id": "7b9aaa9c744849169d0ac8c700b8a06a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "367060",
+        "Tên Bưu cục": "BC3 Chiềng Khương",
+        "Họ và tên người sử dụng": "Nguyễn Thùy Linh",
+        "Mã HRM": "00056737",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-SM-CHKHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LW5",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM GNY9T-74YX7-99KXH-CRPYT-PDK9D",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "F8:ED:FC:6A:6F:47"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra-ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebera",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-28T09:35:46",
+      "updatedAt": "2026-08-28T09:35:46"
     }
   ]
 }
