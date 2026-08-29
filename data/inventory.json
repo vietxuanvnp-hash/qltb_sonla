@@ -7907,6 +7907,55 @@
       ],
       "createdAt": "2026-08-28T09:35:46",
       "updatedAt": "2026-08-28T09:35:46"
+    },
+    {
+      "id": "1467929d17b2452ca20b558874b829c8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "363220",
+        "Tên Bưu cục": "Hua Păng",
+        "Họ và tên người sử dụng": "Cầm Văn Liêm",
+        "Mã HRM": "00214684",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-VHXHUAPA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VX61H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "OEM XQYC4-HHNQF-8HWQD-CM433-XHJVD",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.120.47",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-LBP6320",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprint-XP 58",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebera",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-08-29T08:31:39",
+      "updatedAt": "2026-08-29T08:31:39"
     }
   ]
 }
