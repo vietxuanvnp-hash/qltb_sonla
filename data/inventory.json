@@ -7741,10 +7741,10 @@
       "id": "cc4971bd2d4449e581d53e40dcb96db3",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "HUYỆN SỐP CỘP",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3666",
+        "Tên Xã": "Bưu điện xã Sốp Cộp",
         "Mã Bưu cục": "367700",
-        "Tên Bưu cục": "BƯU ĐIỆN XÃ SỐP CỘP",
+        "Tên Bưu cục": "GD2 Sốp Cộp",
         "Họ và tên người sử dụng": "LÒ THÙY LINH",
         "Mã HRM": "00254145",
         "Bộ phận / Phòng ban": "KSV",
@@ -7774,7 +7774,7 @@
         }
       ],
       "createdAt": "2026-08-13T03:02:39",
-      "updatedAt": "2026-08-13T03:02:39"
+      "updatedAt": "2026-08-29T08:35:20"
     },
     {
       "id": "21042afbf393486ab6c830412a729cf1",
