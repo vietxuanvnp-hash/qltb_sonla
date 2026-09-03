@@ -7956,6 +7956,50 @@
       ],
       "createdAt": "2026-08-29T08:31:39",
       "updatedAt": "2026-08-29T08:31:39"
+    },
+    {
+      "id": "466cf3308ab747d19a6c27bdc8fbade2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3639",
+        "Tên Xã": "Bưu điện xã Gia Phù",
+        "Mã Bưu cục": "364020",
+        "Tên Bưu cục": "BC3 Gia Phù",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "0056654",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-PY-GP-HANT",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAXQ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "64:D6:9A:E3:82:71"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother-HL-B2000D",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "Zebera",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-09-03T08:15:17",
+      "updatedAt": "2026-09-03T08:15:17"
     }
   ]
 }
