@@ -8218,6 +8218,55 @@
       "attachments": [],
       "createdAt": "2026-09-07T07:27:15",
       "updatedAt": "2026-09-07T07:27:15"
+    },
+    {
+      "id": "9aec22cebfca4cbabc14e749ab97131e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3679",
+        "Tên Xã": "Bưu điện xã Quỳnh Nhai",
+        "Mã Bưu cục": "365300",
+        "Tên Bưu cục": "GD2 Quỳnh Nhai",
+        "Họ và tên người sử dụng": "Trần Thị Hằng",
+        "Mã HRM": "00053393",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-QN-TKBD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 Pro G6 Microtower PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE245CJHS",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "License Windows": "OEM 873N2-7RT27-KDY2V-DBM6R-2KC23",
+        "License Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender, 360 Total Security",
+        "IP Address": "10.27.21.115",
+        "MAC Address": "38:CA:84:45:FD:EF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP laserjet pro 4003",
+          "serial": "VNC0202407"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "scan canon",
+          "serial": "KNTM42652"
+        }
+      ],
+      "createdAt": "2026-09-07T07:28:44",
+      "updatedAt": "2026-09-07T07:28:44"
     }
   ]
 }
