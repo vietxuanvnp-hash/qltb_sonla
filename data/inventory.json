@@ -8000,6 +8000,45 @@
       ],
       "createdAt": "2026-09-03T08:15:17",
       "updatedAt": "2026-09-03T08:15:17"
+    },
+    {
+      "id": "64763d63e7094571b6812578780a7372",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3679",
+        "Tên Xã": "Xã Quỳnh Nhai",
+        "Mã Bưu cục": "365300",
+        "Tên Bưu cục": "BCTT",
+        "Họ và tên người sử dụng": "Quàng Văn Biên",
+        "Mã HRM": "0005658100056581",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-QN-BIENQV",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "73MSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "1025 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "OEM MGMGN-KD4KR-B79Y9-8TQBB-FGDFC",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.21.131",
+        "MAC Address": "B0:7B:25:11:23:26"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "máy in LaserJet Pro M402dne",
+          "serial": "PHC6J20963"
+        }
+      ],
+      "createdAt": "2026-09-07T03:31:58",
+      "updatedAt": "2026-09-07T03:31:58"
     }
   ]
 }
