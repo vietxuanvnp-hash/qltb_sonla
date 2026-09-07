@@ -8006,11 +8006,11 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3679",
-        "Tên Xã": "Xã Quỳnh Nhai",
-        "Mã Bưu cục": "365300",
-        "Tên Bưu cục": "BCTT",
+        "Tên Xã": "Bưu điện xã Quỳnh Nhai",
+        "Mã Bưu cục": "3679",
+        "Tên Bưu cục": "Bưu điện xã Quỳnh Nhai",
         "Họ và tên người sử dụng": "Quàng Văn Biên",
-        "Mã HRM": "0005658100056581",
+        "Mã HRM": "00056581",
         "Bộ phận / Phòng ban": "Phòng TCKH",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-QN-BIENQV",
@@ -8038,7 +8038,7 @@
         }
       ],
       "createdAt": "2026-09-07T03:31:58",
-      "updatedAt": "2026-09-07T03:31:58"
+      "updatedAt": "2026-09-07T03:43:16"
     }
   ]
 }
