@@ -8094,12 +8094,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3615",
-        "Tên Xã": "BC Vận Hành Mai Sơn",
+        "Tên Xã": "BCVH Mai Sơn",
         "Mã Bưu cục": "361530",
         "Tên Bưu cục": "KT Mai Sơn",
-        "Họ và tên người sử dụng": "Lường",
+        "Họ và tên người sử dụng": "Lường Văn Cảnh",
         "Mã HRM": "00056453",
-        "Bộ phận / Phòng ban": "KT Mai Sơn",
+        "Bộ phận / Phòng ban": "Bưu cục KT2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-KTH01",
         "Loại máy": "Desktop",
@@ -8136,7 +8136,7 @@
         }
       ],
       "createdAt": "2026-09-07T04:16:31",
-      "updatedAt": "2026-09-07T06:44:44"
+      "updatedAt": "2026-09-07T06:46:51"
     }
   ]
 }
