@@ -8186,6 +8186,38 @@
       ],
       "createdAt": "2026-09-07T07:18:34",
       "updatedAt": "2026-09-07T07:18:34"
+    },
+    {
+      "id": "fff231254f984520b657e957a724183e",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "365300",
+        "Tên Bưu cục": "GD2 Quỳnh Nhai",
+        "Họ và tên người sử dụng": "LÒ THỊ NHÂM",
+        "Mã HRM": "00056714",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CC207210",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn điện tử",
+        "Hãng sản xuất": "TERAAOKA-IKO",
+        "Model": "DS-682 SE",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "01305593",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-09-07T07:27:15",
+      "updatedAt": "2026-09-07T07:27:15"
     }
   ]
 }
