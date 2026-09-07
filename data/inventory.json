@@ -8353,6 +8353,45 @@
       ],
       "createdAt": "2026-09-07T07:45:09",
       "updatedAt": "2026-09-07T07:45:09"
+    },
+    {
+      "id": "c590b2536b0e4ccb920cf9532ec91d03",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "365300",
+        "Tên Bưu cục": "BCTT",
+        "Họ và tên người sử dụng": "Hoàng Thị Thu",
+        "Mã HRM": "00056690",
+        "Bộ phận / Phòng ban": "BDX Quỳnh Nhai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-QN-THUHT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "J5YSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "931 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "OEM PFDXN-XBP29-6CDFQ-DKRGV-KHJV2",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.21.3",
+        "MAC Address": "B0:7B:25:11:23:50"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in Laser Jet Pro M203d",
+          "serial": "VNP4D01812"
+        }
+      ],
+      "createdAt": "2026-09-05T11:52:07",
+      "updatedAt": "2026-09-05T11:52:07"
     }
   ]
 }
