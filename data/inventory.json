@@ -8039,6 +8039,50 @@
       ],
       "createdAt": "2026-09-07T03:31:58",
       "updatedAt": "2026-09-07T03:43:16"
+    },
+    {
+      "id": "a78b20c360ef463ba6759174242fabc5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3615",
+        "Tên Xã": "Bưu cục Vận Hành Mai Sơn",
+        "Mã Bưu cục": "361580",
+        "Tên Bưu cục": "BCP Mai Sơn",
+        "Họ và tên người sử dụng": "Vũ Thị Thùy Dung",
+        "Mã HRM": "00056389",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-PGD-DUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "BIOSTAR Group",
+        "Model": "H610MHP",
+        "Năm sản xuất": "",
+        "Serial Number": "None",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, VOLUME_KMSCLIENT channel T83GX",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "F4:B5:20:64:60:7C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "S480BUG23A090101"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-09-07T04:06:22",
+      "updatedAt": "2026-09-07T04:06:22"
     }
   ]
 }
