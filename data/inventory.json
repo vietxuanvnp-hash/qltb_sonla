@@ -8436,6 +8436,45 @@
       ],
       "createdAt": "2026-09-07T08:05:07",
       "updatedAt": "2026-09-07T08:05:07"
+    },
+    {
+      "id": "9a7af35cbe7f4c2e8e5b74767c95b318",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3679",
+        "Tên Xã": "Bưu điện xã Quỳnh Nhai",
+        "Mã Bưu cục": "3679",
+        "Tên Bưu cục": "Bưu điện xã Quỳnh Nhai",
+        "Họ và tên người sử dụng": "Lừ Thị Du",
+        "Mã HRM": "00056691",
+        "Bộ phận / Phòng ban": "Thủ quỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCP-PC",
+        "Loại máy": "PC",
+        "Hãng": "HP",
+        "Model": "O.E.M",
+        "Năm sản xuất": "",
+        "Serial Number": "O.E.M",
+        "CPU": "Intel(R) Cleron(R) CPU G1630 @ 2.8GHz 2.979GHz",
+        "RAM": "4 GB",
+        "Ổ cứng": "120GB",
+        "Hệ điều hành": "Windown 7 untimate",
+        "Office": "Microsoft office 2013",
+        "License Windows": "None",
+        "License Office": "",
+        "Antivirus": "Kapersky",
+        "IP Address": "192.168.0.109",
+        "MAC Address": "00-00-00-00-00-00-00-00"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP-M203dn",
+          "serial": "VNP4D03287"
+        }
+      ],
+      "createdAt": "2026-09-07T08:15:08",
+      "updatedAt": "2026-09-07T08:15:08"
     }
   ]
 }
