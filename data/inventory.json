@@ -8392,6 +8392,50 @@
       ],
       "createdAt": "2026-09-05T11:52:07",
       "updatedAt": "2026-09-05T11:52:07"
+    },
+    {
+      "id": "af225082995645caaf8b2255085d341d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3679",
+        "Tên Xã": "Bưu cục Quỳnh Nhai",
+        "Mã Bưu cục": "365300",
+        "Tên Bưu cục": "Bưu cục GD2",
+        "Họ và tên người sử dụng": "trần thị hằng",
+        "Mã HRM": "00056693",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-QN-GD01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "3RHSTC3",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "OEM M6JNB-7JTW7-KGVRC-4QDDD-GF4BP",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Reason Cybersecurity, Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.21.208",
+        "MAC Address": "B0:7B:25:11:1E:0B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet M402dn",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "X- printer XP-58",
+          "serial": "BBU2502130123"
+        }
+      ],
+      "createdAt": "2026-09-07T08:05:07",
+      "updatedAt": "2026-09-07T08:05:07"
     }
   ]
 }
