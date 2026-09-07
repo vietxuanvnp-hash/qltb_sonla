@@ -8272,10 +8272,10 @@
       "id": "e0f181e3d0fe44a5bc8092d67c7df154",
       "category": "7. Cân Điện Tử",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã Tỉnh": "36",
+        "Tên Tỉnh": "BĐT Sơn La",
+        "Mã BĐ Xã": "3679",
+        "Tên Xã": "Bưu điện xã Quỳnh Nhai",
         "Mã Bưu cục": "365300",
         "Tên Bưu cục": "GD2 Quỳnh Nhai",
         "Họ và tên người sử dụng": "LÒ THỊ NHÂM",
@@ -8283,7 +8283,7 @@
         "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "CCCD",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CC207210",
         "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân điện tử",
         "Hãng sản xuất": "CAS",
         "Model": "DB - II",
@@ -8298,7 +8298,7 @@
       },
       "attachments": [],
       "createdAt": "2026-09-07T07:35:52",
-      "updatedAt": "2026-09-07T07:35:52"
+      "updatedAt": "2026-09-07T07:46:48"
     },
     {
       "id": "0fbc62abddc948529c973fca5a1b5ede",
