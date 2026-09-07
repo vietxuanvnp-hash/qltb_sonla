@@ -8050,7 +8050,7 @@
         "Tên Bưu cục": "BCP Mai Sơn",
         "Họ và tên người sử dụng": "Vũ Thị Thùy Dung",
         "Mã HRM": "00056389",
-        "Bộ phận / Phòng ban": "BCP",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-PGD-DUNG",
         "Loại máy": "Desktop",
@@ -8071,18 +8071,23 @@
       },
       "attachments": [
         {
+          "type": "laser_printer",
+          "name": "Canon-2900",
+          "serial": "NMYA427470"
+        },
+        {
           "type": "thermal_printer",
           "name": "Xprinter",
           "serial": "S480BUG23A090101"
         },
         {
           "type": "barcode_reader",
-          "name": "",
-          "serial": ""
+          "name": "Motorola-LI4278",
+          "serial": "1322600500488"
         }
       ],
       "createdAt": "2026-09-07T04:06:22",
-      "updatedAt": "2026-09-07T04:06:22"
+      "updatedAt": "2026-09-07T04:18:43"
     },
     {
       "id": "59bcc08384b14923a6b0821c1151c10b",
