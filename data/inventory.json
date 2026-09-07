@@ -8137,6 +8137,55 @@
       ],
       "createdAt": "2026-09-07T04:16:31",
       "updatedAt": "2026-09-07T06:46:51"
+    },
+    {
+      "id": "ff56e8facfa5494b87027b5337c5b346",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3679",
+        "Tên Xã": "Bưu điện xã Quỳnh Nhai",
+        "Mã Bưu cục": "365300",
+        "Tên Bưu cục": "GD2 Quỳnh Nhai",
+        "Họ và tên người sử dụng": "LÒ THỊ NHÂM",
+        "Mã HRM": "00056714",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-QN-GDTT10",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LKG",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "License Windows": "OEM X3DNY-W3QPX-WYJ8K-TTFJC-76DXD",
+        "License Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.27.21.58",
+        "MAC Address": "10:B6:76:9E:C7:5A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP-M203",
+          "serial": "VNF3100722"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Honneywell-PC42d",
+          "serial": "20098B00A2"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "20216010550759"
+        }
+      ],
+      "createdAt": "2026-09-07T07:18:34",
+      "updatedAt": "2026-09-07T07:18:34"
     }
   ]
 }
