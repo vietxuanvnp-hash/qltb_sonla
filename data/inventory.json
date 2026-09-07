@@ -8267,6 +8267,38 @@
       ],
       "createdAt": "2026-09-07T07:28:44",
       "updatedAt": "2026-09-07T07:28:44"
+    },
+    {
+      "id": "e0f181e3d0fe44a5bc8092d67c7df154",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "365300",
+        "Tên Bưu cục": "GD2 Quỳnh Nhai",
+        "Họ và tên người sử dụng": "LÒ THỊ NHÂM",
+        "Mã HRM": "00056714",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CCCD",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân điện tử",
+        "Hãng sản xuất": "CAS",
+        "Model": "DB - II",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "60kg",
+        "Serial Number": "18095792",
+        "Năm sản xuất": "2018",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-09-07T07:35:52",
+      "updatedAt": "2026-09-07T07:35:52"
     }
   ]
 }
