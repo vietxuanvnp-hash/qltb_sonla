@@ -8299,6 +8299,60 @@
       "attachments": [],
       "createdAt": "2026-09-07T07:35:52",
       "updatedAt": "2026-09-07T07:35:52"
+    },
+    {
+      "id": "0fbc62abddc948529c973fca5a1b5ede",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3653",
+        "Tên Xã": "BCVH Quỳnh Nhai",
+        "Mã Bưu cục": "361520",
+        "Tên Bưu cục": "BCP Quỳnh Nhai",
+        "Họ và tên người sử dụng": "Là Thị Thủy",
+        "Mã HRM": "00056384",
+        "Bộ phận / Phòng ban": "Bưu cục PH2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-QN-LAMLT-02",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "",
+        "Serial Number": "YLT0AAWL",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.21.218",
+        "MAC Address": "F4:6B:8C:CC:B9:04"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother",
+          "serial": "E78340E2N815592"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zbra-ZD620",
+          "serial": "D3J183401746"
+        },
+        {
+          "type": "photocopier",
+          "name": "Sharp-AR6032",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Shangcheng",
+          "serial": "880V7210475747"
+        }
+      ],
+      "createdAt": "2026-09-07T07:45:09",
+      "updatedAt": "2026-09-07T07:45:09"
     }
   ]
 }
