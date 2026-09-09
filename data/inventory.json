@@ -8652,6 +8652,45 @@
       "attachments": [],
       "createdAt": "2026-09-09T09:22:03",
       "updatedAt": "2026-09-09T09:22:03"
+    },
+    {
+      "id": "2e2a252bc6c04fd2a37aa29f4df52b56",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "HÁT LÓT",
+        "Tên Xã": "NGÔ TIẾN TÂN",
+        "Mã Bưu cục": "361450",
+        "Tên Bưu cục": "361540",
+        "Họ và tên người sử dụng": "NGÔ TIÊN TÂN",
+        "Mã HRM": "CORE",
+        "Bộ phận / Phòng ban": "HP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "HP",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "2025",
+        "Serial Number": "8CC5231LFP",
+        "CPU": "1",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "",
+        "License Windows": "OEM 3FQRQ-N83P4-FX8CD-GGQTW-MTDXD",
+        "License Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": "F8:ED:FC:6A:6F:FE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "cần sửa chữa hay kẹp giấy bụi mục da nhiều"
+        }
+      ],
+      "createdAt": "2026-09-09T09:23:09",
+      "updatedAt": "2026-09-09T09:23:09"
     }
   ]
 }
