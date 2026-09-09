@@ -8580,6 +8580,45 @@
       ],
       "createdAt": "2026-09-09T09:19:25",
       "updatedAt": "2026-09-09T09:19:25"
+    },
+    {
+      "id": "d03cdf2b5c114c9e9980ade505a3522e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "HÁT LÓT",
+        "Tên Xã": "NGÔ TIẾN TÂN",
+        "Mã Bưu cục": "361450",
+        "Tên Bưu cục": "361540",
+        "Họ và tên người sử dụng": "NGÔ TIÊN TÂN",
+        "Mã HRM": "CORE",
+        "Bộ phận / Phòng ban": "HP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "HP",
+        "Hãng": "HP",
+        "Model": "",
+        "Năm sản xuất": "2025",
+        "Serial Number": "",
+        "CPU": "1",
+        "RAM": "",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "License Windows": "",
+        "License Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "cần sửa chữa hay kẹp giấy bụi mục da nhiều"
+        }
+      ],
+      "createdAt": "2026-09-09T09:21:00",
+      "updatedAt": "2026-09-09T09:21:00"
     }
   ]
 }
