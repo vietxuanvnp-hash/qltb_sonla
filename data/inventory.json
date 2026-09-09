@@ -8508,6 +8508,39 @@
       "attachments": [],
       "createdAt": "2026-09-09T01:01:56",
       "updatedAt": "2026-09-09T01:01:56"
+    },
+    {
+      "id": "4f1e3e7117a04807b7c2bbaebb30a41b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3678",
+        "Tên Bưu cục": "Bưu điện xã Vân Hồ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
+        "Mã HRM": "00056515",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MC-KT2",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "ASUS EXPERTCENTER D700ME_D700SE",
+        "Năm sản xuất": "",
+        "Serial Number": "S9PFWT00925736F",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "License Windows": "OEM 4Y2CN-KGCCF-K48H7-W88PK-66PTB",
+        "License Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.102",
+        "MAC Address": "CC:28:AA:B2:3B:0C"
+      },
+      "attachments": [],
+      "createdAt": "2026-09-09T01:03:43",
+      "updatedAt": "2026-09-09T01:03:43"
     }
   ]
 }
