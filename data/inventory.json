@@ -8619,6 +8619,39 @@
       ],
       "createdAt": "2026-09-09T09:21:00",
       "updatedAt": "2026-09-09T09:21:00"
+    },
+    {
+      "id": "979a4d514d0344a5bee735238434e3b0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "HÁT LÓT",
+        "Tên Xã": "NGÔ TIẾN TÂN",
+        "Mã Bưu cục": "361540",
+        "Tên Bưu cục": "361540",
+        "Họ và tên người sử dụng": "NGÔ TIÊN TÂN",
+        "Mã HRM": "CORE",
+        "Bộ phận / Phòng ban": "HP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-VHXHLOT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "2025",
+        "Serial Number": "8CC5231LFP",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "License Windows": "OEM 3FQRQ-N83P4-FX8CD-GGQTW-MTDXD",
+        "License Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "F8:ED:FC:6A:6F:FE"
+      },
+      "attachments": [],
+      "createdAt": "2026-09-09T09:22:03",
+      "updatedAt": "2026-09-09T09:22:03"
     }
   ]
 }
