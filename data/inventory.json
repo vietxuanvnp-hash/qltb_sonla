@@ -8674,6 +8674,39 @@
       ],
       "createdAt": "2026-09-10T08:08:04",
       "updatedAt": "2026-09-10T08:08:04"
+    },
+    {
+      "id": "eeafb1c4e8a743b78b45dc38e47786e4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "361860",
+        "Tên Bưu cục": "Bưu cục Chiềng Mai",
+        "Họ và tên người sử dụng": "Trịnh kim Quý",
+        "Mã HRM": "00263692",
+        "Bộ phận / Phòng ban": "Phát Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-CM-CHITV",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011325V",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "License Windows": "OEM M7BK6-3BNXC-99BGD-DBX3F-MWRBP",
+        "License Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.20",
+        "MAC Address": "38:22:E2:18:8E:E8"
+      },
+      "attachments": [],
+      "createdAt": "2026-09-10T08:12:13",
+      "updatedAt": "2026-09-10T08:12:13"
     }
   ]
 }
