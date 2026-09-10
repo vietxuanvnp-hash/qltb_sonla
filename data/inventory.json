@@ -8546,12 +8546,12 @@
       "id": "2e2a252bc6c04fd2a37aa29f4df52b56",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "HÁT LÓT",
-        "Tên Xã": "NGÔ TIẾN TÂN",
+        "Mã BĐ Xã": "3650",
+        "Tên Xã": "Bưu điện xã Mai Sơn",
         "Mã Bưu cục": "361450",
-        "Tên Bưu cục": "361540",
-        "Họ và tên người sử dụng": "NGÔ TIÊN TÂN",
-        "Mã HRM": "CORE",
+        "Tên Bưu cục": "Hát Lót",
+        "Họ và tên người sử dụng": "Ngô Tiến Tân",
+        "Mã HRM": "361540",
         "Bộ phận / Phòng ban": "HP",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "HP",
@@ -8574,12 +8574,12 @@
       "attachments": [
         {
           "type": "laser_printer",
-          "name": "canon",
-          "serial": "cần sửa chữa hay kẹp giấy bụi mục da nhiều"
+          "name": "canon-2900",
+          "serial": ""
         }
       ],
       "createdAt": "2026-09-09T09:23:09",
-      "updatedAt": "2026-09-09T09:23:09"
+      "updatedAt": "2026-09-10T03:43:19"
     }
   ]
 }
