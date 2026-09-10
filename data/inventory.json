@@ -8513,8 +8513,8 @@
       "id": "4f1e3e7117a04807b7c2bbaebb30a41b",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3678",
+        "Tên Xã": "Bưu điện xã Vân Hồ",
         "Mã Bưu cục": "3678",
         "Tên Bưu cục": "Bưu điện xã Vân Hồ",
         "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
@@ -8540,7 +8540,7 @@
       },
       "attachments": [],
       "createdAt": "2026-09-09T01:03:43",
-      "updatedAt": "2026-09-09T01:03:43"
+      "updatedAt": "2026-09-10T03:44:07"
     },
     {
       "id": "2e2a252bc6c04fd2a37aa29f4df52b56",
