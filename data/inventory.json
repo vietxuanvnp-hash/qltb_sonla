@@ -8547,6 +8547,50 @@
       ],
       "createdAt": "2026-09-09T09:23:09",
       "updatedAt": "2026-09-10T03:43:19"
+    },
+    {
+      "id": "865f0e53f9fa4c00b16280425c963637",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "361600",
+        "Tên Bưu cục": "BC Cò Nòi",
+        "Họ và tên người sử dụng": "Nguyễn Thị Lan",
+        "Mã HRM": "00104576",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-CN-LANTN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1044 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "B4:2E:99:BE:2A:A4"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-09-10T07:55:31",
+      "updatedAt": "2026-09-10T07:55:31"
     }
   ]
 }
