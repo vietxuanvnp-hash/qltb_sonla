@@ -8358,13 +8358,13 @@
       "id": "c590b2536b0e4ccb920cf9532ec91d03",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
+        "Mã BĐ Xã": "3679",
+        "Tên Xã": "Bưu điện xã Quỳnh Nhai",
         "Mã Bưu cục": "365300",
-        "Tên Bưu cục": "BCTT",
+        "Tên Bưu cục": "GD2 Quỳnh Nhai",
         "Họ và tên người sử dụng": "Hoàng Thị Thu",
         "Mã HRM": "00056690",
-        "Bộ phận / Phòng ban": "BDX Quỳnh Nhai",
+        "Bộ phận / Phòng ban": "Bưu cục GD2",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-QN-THUHT",
         "Loại máy": "Desktop",
@@ -8391,7 +8391,7 @@
         }
       ],
       "createdAt": "2026-09-05T11:52:07",
-      "updatedAt": "2026-09-05T11:52:07"
+      "updatedAt": "2026-09-10T03:46:37"
     },
     {
       "id": "af225082995645caaf8b2255085d341d",
