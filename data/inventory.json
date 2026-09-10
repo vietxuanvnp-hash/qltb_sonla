@@ -8591,6 +8591,50 @@
       ],
       "createdAt": "2026-09-10T07:55:31",
       "updatedAt": "2026-09-10T07:55:31"
+    },
+    {
+      "id": "c36062014f83446cabe10f2afe30aee1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3656",
+        "Tên Xã": "Chiềng Sung",
+        "Mã Bưu cục": "361700",
+        "Tên Bưu cục": "VHX Chiềng Chăn",
+        "Họ và tên người sử dụng": "Hoàng Thị Yến",
+        "Mã HRM": "00269366",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "00269366",
+        "Tên máy (Hostname)": "DESKTOP-00K5K9I",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3XT51H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "OEM KJ6NK-CH8VR-MYM9B-QPY9Y-7MHX3",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "48:4D:7E:DB:74:D0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "NMYA151368"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "XP58IIB-BB82502130040"
+        }
+      ],
+      "createdAt": "2026-09-10T08:08:51",
+      "updatedAt": "2026-09-10T08:08:51"
     }
   ]
 }
