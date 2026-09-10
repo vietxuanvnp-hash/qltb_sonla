@@ -8360,8 +8360,8 @@
       "fields": {
         "Mã BĐ Xã": "3679",
         "Tên Xã": "Bưu điện xã Quỳnh Nhai",
-        "Mã Bưu cục": "365300",
-        "Tên Bưu cục": "GD2 Quỳnh Nhai",
+        "Mã Bưu cục": "3679",
+        "Tên Bưu cục": "Bưu điện xã Quỳnh Nhai",
         "Họ và tên người sử dụng": "Hoàng Thị Thu",
         "Mã HRM": "00056690",
         "Bộ phận / Phòng ban": "Bưu cục GD2",
@@ -8391,7 +8391,7 @@
         }
       ],
       "createdAt": "2026-09-05T11:52:07",
-      "updatedAt": "2026-09-10T03:46:37"
+      "updatedAt": "2026-09-10T03:48:13"
     },
     {
       "id": "af225082995645caaf8b2255085d341d",
