@@ -8746,6 +8746,50 @@
       ],
       "createdAt": "2026-09-10T08:16:01",
       "updatedAt": "2026-09-10T08:16:01"
+    },
+    {
+      "id": "6a98309b293e436f83054f4ec34901e8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3650",
+        "Tên Xã": "Mai Sơn",
+        "Mã Bưu cục": "362140",
+        "Tên Bưu cục": "Nà Ớt",
+        "Họ và tên người sử dụng": "Lò Thị Phượng",
+        "Mã HRM": "00056447",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-36P723O",
+        "Loại máy": "Desktop",
+        "Hãng": "Winnfox",
+        "Model": "H310C",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "00:E0:4F:24:ED:8C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": "NDMA395004"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "MOTOROLA",
+          "serial": "1322600500888"
+        }
+      ],
+      "createdAt": "2026-09-10T08:31:26",
+      "updatedAt": "2026-09-10T08:31:26"
     }
   ]
 }
