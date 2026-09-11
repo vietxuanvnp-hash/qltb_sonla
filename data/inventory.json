@@ -8682,10 +8682,10 @@
         "Mã BĐ Xã": "",
         "Tên Xã": "",
         "Mã Bưu cục": "361860",
-        "Tên Bưu cục": "Bưu cục Chiềng Mai",
+        "Tên Bưu cục": "BC3 Chiềng Mai",
         "Họ và tên người sử dụng": "Trịnh kim Quý",
         "Mã HRM": "00263692",
-        "Bộ phận / Phòng ban": "Phát Xã",
+        "Bộ phận / Phòng ban": "Bưu cục GD3",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SLA-MS-CM-CHITV",
         "Loại máy": "Desktop",
@@ -8712,7 +8712,7 @@
         }
       ],
       "createdAt": "2026-09-10T08:16:01",
-      "updatedAt": "2026-09-10T08:16:01"
+      "updatedAt": "2026-09-11T03:31:15"
     },
     {
       "id": "6a98309b293e436f83054f4ec34901e8",
