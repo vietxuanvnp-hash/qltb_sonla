@@ -8889,6 +8889,55 @@
       ],
       "createdAt": "2026-09-11T09:53:41",
       "updatedAt": "2026-09-11T09:53:41"
+    },
+    {
+      "id": "b9fabe81d41e4319946b738598390d89",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "363130",
+        "Tên Xã": "Xã Tô Múa",
+        "Mã Bưu cục": "363130",
+        "Tên Bưu cục": "363130 - Tô Múa",
+        "Họ và tên người sử dụng": "Lường Thị Trang",
+        "Mã HRM": "00258095",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-VH-TM-TRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SYS0T500",
+        "Năm sản xuất": "0",
+        "Serial Number": "YLT0AAXK",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "251 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "Windows(R) Operating System, RETAIL channel 3V66T",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.27.51.2",
+        "MAC Address": "F4:6B:8C:CC:B8:E6"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-09-11T09:55:04",
+      "updatedAt": "2026-09-11T09:55:04"
     }
   ]
 }
