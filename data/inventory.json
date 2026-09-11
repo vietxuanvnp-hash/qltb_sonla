@@ -8597,12 +8597,12 @@
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "3656",
-        "Tên Xã": "Chiềng Sung",
+        "Tên Xã": "Bưu điện xã Chiềng Sung",
         "Mã Bưu cục": "361700",
-        "Tên Bưu cục": "VHX Chiềng Chăn",
+        "Tên Bưu cục": "Chiềng Chăn",
         "Họ và tên người sử dụng": "Hoàng Thị Yến",
         "Mã HRM": "00269366",
-        "Bộ phận / Phòng ban": "giao dịch",
+        "Bộ phận / Phòng ban": "Bưu điện VHX",
         "Mã vật tư": "00269366",
         "Tên máy (Hostname)": "DESKTOP-00K5K9I",
         "Loại máy": "Desktop",
@@ -8634,7 +8634,7 @@
         }
       ],
       "createdAt": "2026-09-10T08:08:51",
-      "updatedAt": "2026-09-10T08:08:51"
+      "updatedAt": "2026-09-11T03:33:12"
     },
     {
       "id": "d2bcb99b54424087a8e61953b82b0c2a",
