@@ -8829,6 +8829,50 @@
       ],
       "createdAt": "2026-09-10T08:49:10",
       "updatedAt": "2026-09-10T08:49:10"
+    },
+    {
+      "id": "61e59ac6c1be40359d706eb5b113611b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "361860",
+        "Tên Bưu cục": "Bưu điện xã Chiềng Mai",
+        "Họ và tên người sử dụng": "Quàng Mạnh Linh",
+        "Mã HRM": "00220200",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SLA-MS-CM-LINH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LX8",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "License Windows": "OEM NYQ97-JV2QX-6DMFW-6G2VB-HT99D",
+        "License Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "F8:ED:FC:6A:6E:04"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter - XP 480B",
+          "serial": "S480BUG23A090097"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol Bar Code",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-09-11T01:55:53",
+      "updatedAt": "2026-09-11T01:55:53"
     }
   ]
 }
