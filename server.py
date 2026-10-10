@@ -100,6 +100,7 @@ ATTACHMENT_TYPES = [
     {"id": "laser_printer", "name": "Máy in laser", "category": "4A. Máy In Laser"},
     {"id": "thermal_printer", "name": "Máy in nhiệt", "category": "4B. Máy In Nhiệt"},
     {"id": "photocopier", "name": "Máy photocopy", "category": "4C. Máy Photocopy"},
+    {"id": "electronic_scale", "name": "Cân điện tử", "category": "7. Cân Điện Tử"},
     {"id": "barcode_reader", "name": "Đầu đọc mã vạch", "category": "5. Đầu Đọc Mã Vạch"},
     {"id": "scanner", "name": "Máy quét (Scanner)", "category": "8. Thiết Bị Khác"},
     {"id": "ups", "name": "Bộ lưu điện (UPS)", "category": "8. Thiết Bị Khác"},
@@ -347,7 +348,6 @@ def record_identity(record: dict) -> str:
     ]
     return "|".join(str(part).strip().lower() for part in parts if str(part).strip())
 
-
 def clean_attachments(value: object) -> list[dict]:
     allowed = {item["id"]: item for item in ATTACHMENT_TYPES}
     output = []
@@ -357,15 +357,17 @@ def clean_attachments(value: object) -> list[dict]:
         if not isinstance(item, dict) or item.get("type") not in allowed:
             continue
         definition = allowed[item["type"]]
-        output.append(
-            {
-                "type": definition["id"],
-                "label": definition["name"],
-                "category": definition["category"],
-                "name": clean_value(item.get("name")),
-                "serial": clean_value(item.get("serial")),
-            }
-        )
+        entry = {
+            "type": definition["id"],
+            "label": definition["name"],
+            "category": definition["category"],
+            "name": clean_value(item.get("name")),
+            "serial": clean_value(item.get("serial")),
+        }
+        if definition["id"] == "electronic_scale":
+            entry["maxLoad"] = clean_value(item.get("maxLoad"))
+            entry["nextInspection"] = clean_value(item.get("nextInspection"))
+        output.append(entry)
     return output
 
 
@@ -394,6 +396,9 @@ def expanded_records(records: list[dict]) -> list[dict]:
                     "Loại thiết bị": attachment.get("label", ""),
                 }
             )
+            if attachment.get("type") == "electronic_scale":
+                fields["Tải trọng tối đa (vd: 30kg, 100kg)"] = attachment.get("maxLoad", "")
+                fields["Thời hạn kiểm định tiếp theo"] = attachment.get("nextInspection", "")
             output.append(
                 {
                     "id": f"{record.get('id', '')}:{attachment.get('type', '')}",

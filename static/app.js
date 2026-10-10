@@ -46,11 +46,18 @@ const ATTACHMENT_TYPES = [
   { id: "laser_printer",   name: "Máy in laser",          category: "4A. Máy In Laser" },
   { id: "thermal_printer", name: "Máy in nhiệt",          category: "4B. Máy In Nhiệt" },
   { id: "photocopier",     name: "Máy photocopy",         category: "4C. Máy Photocopy" },
+  { id: "electronic_scale", name: "Cân điện tử",          category: "7. Cân Điện Tử" },
   { id: "barcode_reader",  name: "Đầu đọc mã vạch",      category: "5. Đầu Đọc Mã Vạch" },
   { id: "scanner",         name: "Máy quét (Scanner)",    category: "8. Thiết Bị Khác" },
   { id: "ups",             name: "Bộ lưu điện (UPS)",     category: "8. Thiết Bị Khác" },
 ];
-
+// Các ô nhập bổ sung riêng cho từng loại thiết bị dùng kèm
+const ATTACHMENT_EXTRA_FIELDS = {
+  electronic_scale: [
+    { key: "maxLoad",        field: "Tải trọng tối đa (vd: 30kg, 100kg)", type: "text" },
+    { key: "nextInspection", field: "Thời hạn kiểm định tiếp theo",       type: "date" },
+  ],
+};
 const EXCLUDED_KEYWORDS = ["server", "máy chủ", "nas", "san"];
 
 function buildSchema() {
@@ -314,6 +321,12 @@ function renderAttachmentOptions(record = null) {
     .map((item) => {
       const value = existing.get(item.id);
       const checked = Boolean(value);
+      const extraFieldsHtml = (ATTACHMENT_EXTRA_FIELDS[item.id] || [])
+        .map((ex) => `<label>
+            <span>${escapeHtml(ex.field)}</span>
+            <input class="input" type="${ex.type}" data-attachment-extra="${escapeHtml(item.id)}" data-extra-key="${ex.key}" value="${escapeHtml(value?.[ex.key] || "")}" />
+          </label>`)
+        .join("");
       return `<div class="attachment-item" data-attachment="${escapeHtml(item.id)}">
         <label class="attachment-toggle">
           <input type="checkbox" data-attachment-toggle="${escapeHtml(item.id)}" ${checked ? "checked" : ""} />
@@ -328,6 +341,7 @@ function renderAttachmentOptions(record = null) {
             <span>Số S/N</span>
             <input class="input" data-attachment-serial="${escapeHtml(item.id)}" value="${escapeHtml(value?.serial || "")}" />
           </label>
+          ${extraFieldsHtml}
         </div>
       </div>`;
     })
@@ -406,11 +420,17 @@ function readAttachments() {
   if (category.value !== "3. Máy Tính") return [];
   return state.attachmentTypes
     .filter((item) => attachmentOptions.querySelector(`[data-attachment-toggle="${item.id}"]`)?.checked)
-    .map((item) => ({
-      type: item.id,
-      name: attachmentOptions.querySelector(`[data-attachment-name="${item.id}"]`)?.value?.trim() || "",
-      serial: attachmentOptions.querySelector(`[data-attachment-serial="${item.id}"]`)?.value?.trim() || "",
-    }));
+    .map((item) => {
+      const att = {
+        type: item.id,
+        name: attachmentOptions.querySelector(`[data-attachment-name="${item.id}"]`)?.value?.trim() || "",
+        serial: attachmentOptions.querySelector(`[data-attachment-serial="${item.id}"]`)?.value?.trim() || "",
+      };
+      for (const ex of (ATTACHMENT_EXTRA_FIELDS[item.id] || [])) {
+        att[ex.key] = attachmentOptions.querySelector(`[data-attachment-extra="${item.id}"][data-extra-key="${ex.key}"]`)?.value?.trim() || "";
+      }
+      return att;
+    });
 }
 
 function recordLabel(record) {
@@ -475,6 +495,9 @@ function expandedRecords(records) {
       fields["Model"] = att.name || "";
       fields["Serial Number"] = att.serial || "";
       fields["Loại thiết bị"] = attTypes?.name || "";
+      for (const ex of (ATTACHMENT_EXTRA_FIELDS[att.type] || [])) {
+        fields[ex.field] = att[ex.key] || "";
+      }
       output.push({
         id: `${record.id}:${att.type}`,
         category: attTypes?.category || "8. Thiết Bị Khác",
@@ -966,7 +989,7 @@ function showMachineDonePopup() {
     if (!dlg.open) dlg.showModal();
   } else {
     // Trình duyệt quá cũ không hỗ trợ <dialog>
-    alert("Bạn đã tự động điền xong thông tin máy tính. Hãy TÍCH CHỌN Ở CUỐI PHIẾU và điền thông tin THIẾT BỊ ĐANG DÙNG KÈM máy tính sau đó gửi phiếu.");
+    alert("Bạn đã tự động điền xong thông tin máy tính. Hãy TÍCH CHỌN Ở CUỐI PHIẾU và ĐIỀN THÔNG TIN THIẾT BỊ ĐANG DÙNG KÈM MÁY TÍNH sau đó gửi phiếu.");
     scrollToAttachmentSection();
   }
 }
