@@ -671,6 +671,10 @@ class InventoryHandler(BaseHTTPRequestHandler):
 
     def send_static(self, route: str) -> None:
         route = "index.html" if route in ("", "/") else unquote(route).lstrip("/")
+        if route == "assets/danh_muc_MBC.xlsx" and (ASSETS_DIR / "danh_muc_MBC.xlsx").exists():
+            path = (ASSETS_DIR / "danh_muc_MBC.xlsx").resolve()
+            self.send_file(path)
+            return
         path = (STATIC_DIR / route).resolve()
         if STATIC_DIR.resolve() not in path.parents and path != STATIC_DIR.resolve():
             self.send_error(HTTPStatus.FORBIDDEN)

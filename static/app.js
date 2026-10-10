@@ -23,6 +23,25 @@ const COMPUTER_FORM_EXCLUDED = new Set([
   "Năm sử dụng", "Thời gian bảo hành (Còn/Hết)", "Tình trạng",
 ]);
 
+// Danh sách gợi ý cho trường "Bộ phận / Phòng ban" (datalist – vẫn cho phép nhập tay)
+const DEPARTMENT_FIELD = "Bộ phận / Phòng ban";
+const DEPARTMENT_OPTIONS = [
+  "Bưu cục GD1",
+  "Bưu cục GD2",
+  "Bưu cục GD3",
+  "Bưu điện VHX",
+  "Bưu cục PH1",
+  "Bưu cục PH2",
+  "Ban Giám đốc",
+  "Phòng TCHC",
+  "Phòng TCKH",
+  "Trung tâm Vận hành",
+  "Trung tâm Kinh doanh",
+  "Bưu điện xã / phường",
+  "Kế toán xã / phường",
+  "Thủ quỹ xã / phường",
+];
+
 const ATTACHMENT_TYPES = [
   { id: "laser_printer",   name: "Máy in laser",          category: "4A. Máy In Laser" },
   { id: "thermal_printer", name: "Máy in nhiệt",          category: "4B. Máy In Nhiệt" },
@@ -336,6 +355,19 @@ function renderFields(record = null) {
                  type="text" 
                  value="${escapeHtml(value)}"${reqAttr} 
                  placeholder="Tự động lấy từ lay_thong_tin.bat" />
+        </label>`;
+      }
+      // ================== BỘ PHẬN / PHÒNG BAN (datalist) ==================
+      if (field === DEPARTMENT_FIELD) {
+        return `<label class="${wide}${isReq ? " is-required" : ""}">
+          <span>${escapeHtml(field)}${reqMark}</span>
+          <input class="input" name="${escapeHtml(field)}" id="${id}" type="text"
+                 list="department-list" autocomplete="off"
+                 value="${escapeHtml(value)}"${reqAttr}
+                 placeholder="Chọn hoặc nhập bộ phận / phòng ban" />
+          <datalist id="department-list">
+            ${DEPARTMENT_OPTIONS.map((o) => `<option value="${escapeHtml(o)}"></option>`).join("")}
+          </datalist>
         </label>`;
       }
       // ============================================================
@@ -784,7 +816,8 @@ const URL_PARAM_MAP = {
   antivirus: "Antivirus",
   // === THÊM 2 TRƯỜNG MỚI ===
   licenseWin:  "License Windows",
-  licenseOff:  "License Office"
+  licenseOff:  "License Office",
+  namSX:       "Năm sản xuất"
 };
 
 function applyClientInventory(fields) {
@@ -809,14 +842,43 @@ function loadClientInfoFromUrlParams() {
   }
   if (!found) return false;
 
-  applyClientInventory(fields);
   // Xóa params khỏi URL mà không reload
-  const clean = `${window.location.pathname}`;
-  window.history.replaceState({}, "", clean);
+  window.history.replaceState({}, "", `${window.location.pathname}`);
+
+  // Trường hợp 1: tab nhập liệu ban đầu (đã nhập Mã Bưu cục + Enter) đang chờ kết quả
+  // -> chuyển thông tin về tab đó, tab này chỉ báo "đã chuyển".
+  const pending = readCollectPending();
+  if (pending && getCollectChannel()) {
+    formStatus.textContent = "Đang chuyển thông tin máy về trang nhập liệu...";
+    formStatus.className = "status form-status";
+    handoffToWaitingTab(pending, fields).then((ok) => {
+      if (ok) {
+        clearCollectPending();
+        formStatus.innerHTML = "✅ Đã chuyển thông tin máy về trang nhập liệu. <strong>Bạn có thể đóng tab này.</strong>";
+        formStatus.className = "status form-status is-success";
+        try { window.close(); } catch (_) { /* trình duyệt có thể không cho đóng */ }
+      } else {
+        applyLocally(fields, pending);
+      }
+    });
+    return true;
+  }
+
+  // Trường hợp 2: mở trực tiếp từ lay_thong_tin.bat (không có tab chờ)
+  applyLocally(fields, pending);
+  return true;
+}
+
+function applyLocally(fields, pending) {
+  applyClientInventory(fields);
   formStatus.textContent = "Đã tự động điền thông tin máy tính. Hãy nhập bổ sung thông tin người sử dụng và gửi phiếu.";
   formStatus.className = "status form-status is-success";
+  if (pending && pending.code && window.MBCModule && window.MBCModule.setCode) {
+    window.MBCModule.setCode(pending.code);
+  }
+  clearCollectPending();
   updateMachineInfoBanner();
-  return true;
+  showMachineDonePopup();
 }
 
 // ─── Banner cảnh báo chưa lấy thông tin máy ──────────────────────────────────
@@ -894,6 +956,155 @@ async function triggerBatDownload() {
     formStatus.className = "status form-status is-error";
   }
 }
+
+// ─── Popup báo đã tự điền xong thông tin máy tính ────────────────────────────
+
+function showMachineDonePopup() {
+  const dlg = document.getElementById("machine-done-dialog");
+  if (!dlg) return;
+  if (typeof dlg.showModal === "function") {
+    if (!dlg.open) dlg.showModal();
+  } else {
+    // Trình duyệt quá cũ không hỗ trợ <dialog>
+    alert("Bạn đã tự động điền xong thông tin máy tính. Hãy TÍCH CHỌN Ở CUỐI PHIẾU và điền thông tin THIẾT BỊ ĐANG DÙNG KÈM máy tính sau đó gửi phiếu.");
+    scrollToAttachmentSection();
+  }
+}
+
+function scrollToAttachmentSection() {
+  const sec = document.getElementById("attachment-section");
+  if (sec && !sec.classList.contains("is-hidden")) {
+    sec.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+}
+
+(function initMachineDonePopup() {
+  const dlg = document.getElementById("machine-done-dialog");
+  const btn = document.getElementById("btn-machine-done-close");
+  if (!dlg || !btn) return;
+  btn.addEventListener("click", () => dlg.close());
+  // Bấm ra ngoài hộp thoại để đóng
+  dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
+  // Đóng xong (kể cả bằng phím Esc) thì cuộn xuống phần thiết bị dùng kèm
+  dlg.addEventListener("close", scrollToAttachmentSection);
+})();
+
+// ─── Tự chạy lay_thong_tin.bat khi nhập Mã Bưu cục rồi Enter ─────────────────
+// Luồng: Enter -> mở vnpost://collect (chạy lay_thong_tin.bat) -> bat mở tab mới kèm
+// thông tin máy -> tab mới gửi qua BroadcastChannel về tab này -> tự điền các trường.
+// Không truyền tham số vào vnpost:// nên không có nguy cơ chèn lệnh.
+
+const COLLECT_CHANNEL = "vnpost-device-inventory";
+const COLLECT_PENDING_KEY = "vnpost_collect_pending";
+const COLLECT_PENDING_TTL = 3 * 60 * 1000;   // 3 phút
+const COLLECT_WAIT_MS = 12000;               // chờ tối đa 12 giây
+let collectChannel = null;
+let collectWaiting = null;                   // { id, code, timer }
+
+function readCollectPending() {
+  try {
+    const raw = localStorage.getItem(COLLECT_PENDING_KEY);
+    if (!raw) return null;
+    const p = JSON.parse(raw);
+    if (!p || !p.id || Date.now() - p.ts > COLLECT_PENDING_TTL) return null;
+    return p;
+  } catch (_) { return null; }
+}
+function clearCollectPending() {
+  try { localStorage.removeItem(COLLECT_PENDING_KEY); } catch (_) { /* bỏ qua */ }
+}
+
+function getCollectChannel() {
+  if (collectChannel) return collectChannel;
+  if (typeof BroadcastChannel === "undefined") return null;
+  collectChannel = new BroadcastChannel(COLLECT_CHANNEL);
+  collectChannel.onmessage = (ev) => {
+    const msg = ev.data || {};
+    // Chỉ tab đang chờ, đúng id, mới nhận thông tin máy
+    if (msg.type !== "device-info" || !collectWaiting || msg.id !== collectWaiting.id) return;
+    clearTimeout(collectWaiting.timer);
+    collectWaiting = null;
+    clearCollectPending();
+    applyClientInventory(msg.fields);
+    collectChannel.postMessage({ type: "ack", id: msg.id });
+    formStatus.textContent = "✅ Đã tự động điền thông tin máy tính. Hãy nhập Họ và tên người sử dụng, Mã HRM, Bộ phận rồi gửi phiếu.";
+    formStatus.className = "status form-status is-success";
+    focusNextAfterMbc();
+    showMachineDonePopup();
+  };
+  return collectChannel;
+}
+
+// Tab mới (do bat mở) gửi thông tin về tab chờ và đợi xác nhận tối đa 1,5 giây
+function handoffToWaitingTab(pending, fields) {
+  return new Promise((resolve) => {
+    const ch = getCollectChannel();
+    if (!ch) { resolve(false); return; }
+    const onAck = (ev) => {
+      if (ev.data && ev.data.type === "ack" && ev.data.id === pending.id) {
+        ch.removeEventListener("message", onAck);
+        clearTimeout(timer);
+        resolve(true);
+      }
+    };
+    ch.addEventListener("message", onAck);
+    const timer = setTimeout(() => { ch.removeEventListener("message", onAck); resolve(false); }, 1500);
+    ch.postMessage({ type: "device-info", id: pending.id, fields });
+  });
+}
+
+function focusNextAfterMbc() {
+  const next = dynamicFields.querySelector('[name="Họ và tên người sử dụng"]');
+  if (next) next.focus();
+}
+
+function launchCollectorProtocol() {
+  const iframe = document.createElement("iframe");
+  iframe.style.display = "none";
+  iframe.src = "vnpost://collect";
+  document.body.appendChild(iframe);
+  setTimeout(() => iframe.remove(), 3000);
+}
+
+// Được mbc_drop.js gọi khi người dùng nhập Mã Bưu cục hợp lệ rồi nhấn Enter
+window.requestMachineInfo = function (mbcCode) {
+  // Chỉ nhóm Máy Tính mới có các trường thông tin máy
+  if (category.value !== "3. Máy Tính") return false;
+  const host = dynamicFields.querySelector('[name="Tên máy (Hostname)"]');
+  if (!host) return false;
+  // Đã có thông tin máy thì không chạy lại (muốn lấy lại: dùng nút "Làm mới thông tin máy")
+  if (host.value.trim()) { focusNextAfterMbc(); return false; }
+  if (collectWaiting) return false;            // đang chờ lần trước
+
+  const id = Date.now().toString(36) + Math.random().toString(36).slice(2, 8);
+  try { localStorage.setItem(COLLECT_PENDING_KEY, JSON.stringify({ id, code: mbcCode, ts: Date.now() })); } catch (_) { /* bỏ qua */ }
+  getCollectChannel();
+
+  collectWaiting = {
+    id,
+    code: mbcCode,
+    timer: setTimeout(() => {
+      collectWaiting = null;
+      clearCollectPending();
+      formStatus.innerHTML = `
+        <div class="auto-setup">
+          <strong>⚠️ Chưa nhận được thông tin máy.</strong><br>
+          Nếu trình duyệt hỏi mở "VNPost Device Inventory" hãy chọn <em>Cho phép / Open</em>.
+          Nếu đây là lần đầu trên máy này, hoặc Windows báo "không tìm thấy lay_thong_tin.bat",
+          hãy tải và <strong>chạy (bấm đúp) file này một lần</strong> để cài đặt:
+          <button type="button" class="btn" id="btn-collect-download">Tải lay_thong_tin.bat</button>
+        </div>`;
+      formStatus.className = "status form-status is-error";
+      const btn = document.getElementById("btn-collect-download");
+      if (btn) btn.addEventListener("click", triggerBatDownload);
+    }, COLLECT_WAIT_MS),
+  };
+
+  formStatus.innerHTML = "⏳ Đang chạy lay_thong_tin.bat để lấy thông tin máy... (vài giây)";
+  formStatus.className = "status form-status";
+  launchCollectorProtocol();
+  return true;
+};
 
 // ─── Xuất Excel (SheetJS) ────────────────────────────────────────────────────
 

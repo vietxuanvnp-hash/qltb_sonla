@@ -1,5 +1,6 @@
 @echo off
 chcp 65001 >nul 2>&1
+set "SELF=%~f0"
 
 :: ─────────────────────────────────────────────────────────────────────────────
 :: VNPost Device Inventory – Thu thap thong tin may tinh
@@ -18,9 +19,9 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "try{" ^
  "  $d=Join-Path $env:LOCALAPPDATA 'VNPost';" ^
  "  New-Item -ItemType Directory -Path $d -Force|Out-Null;" ^
- "  $s=$MyInvocation.MyCommand.Path;" ^
- "  if($s -and (Test-Path $s)){Copy-Item $s (Join-Path $d 'lay_thong_tin.bat') -Force};" ^
+ "  $s=$env:SELF;" ^
  "  $bat=Join-Path $d 'lay_thong_tin.bat';" ^
+ "  if($s -and (Test-Path $s) -and ($s -ne $bat)){Copy-Item $s $bat -Force};" ^
  "  $q34=[char]34;" ^
  "  $cv='cmd.exe /c start /min '+$q34+$q34+' '+$q34+$bat+$q34;" ^
  "  $rb='HKCU:\SOFTWARE\Classes\vnpost';" ^
@@ -38,6 +39,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "$na=Get-CimInstance Win32_NetworkAdapterConfiguration|Where-Object{$_.IPEnabled}|Select-Object -First 1;" ^
  "$ram=[math]::Round($cs.TotalPhysicalMemory/1GB,1);" ^
  "$serial=$bios.SerialNumber.Trim();" ^
+ "$namSX='';if($bios.ReleaseDate){$namSX=([datetime]$bios.ReleaseDate).Year.ToString()};" ^
  "$gb=[math]::Round($ds.Sum/1GB,0);" ^
  "$osn=($os.Caption+' '+$os.Version).Trim();" ^
  "$ip=($na.IPAddress|Where-Object{$_ -notmatch ':'}|Select-Object -First 1);" ^
@@ -52,11 +54,11 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "  if($wlic){$licenseWin=($wlic.Description+' '+$wlic.PartialProductKey)}else{$licenseWin='Digital License'}" ^
  "};" ^
  "$licenseOff='';" ^
- "$ospp=(Get-ChildItem '${env:ProgramFiles}\Microsoft Office\Office*\ospp.vbs','${env:ProgramFiles(x86)}\Microsoft Office\Office*\ospp.vbs' -EA SilentlyContinue|Select-Object -First 1);" ^
+ "$ospp=(Get-ChildItem ($env:ProgramFiles+'\Microsoft Office\Office*\ospp.vbs'),(${env:ProgramFiles(x86)}+'\Microsoft Office\Office*\ospp.vbs') -EA SilentlyContinue|Select-Object -First 1);" ^
  "if($ospp){$out=cscript.exe $ospp.FullName /dstatus 2>$null;$licenseOff=(($out|Select-String 'DESCRIPTION|Last 5 characters').Line -join ' ')};" ^
  "if(-not $licenseOff){$licenseOff=$office};" ^
  "$av=(Get-CimInstance -Namespace 'root\SecurityCenter2' -ClassName AntiVirusProduct -EA SilentlyContinue|Select-Object -ExpandProperty displayName);" ^
  "Add-Type -AssemblyName System.Web;" ^
  "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
- "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '))+'&licenseWin='+(E $licenseWin)+'&licenseOff='+(E $licenseOff);" ^
+ "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '))+'&licenseWin='+(E $licenseWin)+'&licenseOff='+(E $licenseOff)+'&namSX='+(E $namSX);" ^
  "Start-Process($u+'/?'+$q)"

@@ -65,6 +65,11 @@ jobs:
               print("[WARN] WRITE_TOKEN chua duoc cau hinh - client se khong the gui phieu")
           PYEOF
 
+      - name: Sync danh muc MBC vao static/assets
+        run: |
+          mkdir -p static/assets
+          cp assets/danh_muc_MBC.xlsx static/assets/danh_muc_MBC.xlsx
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

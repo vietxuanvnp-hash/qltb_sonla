@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="styles.css" />
     <!-- SheetJS để đọc/ghi Excel phía trình duyệt -->
     <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+    <!-- CDN dự phòng nếu cdn.sheetjs.com bị chặn -->
+    <script>window.XLSX || document.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"><\/script>');</script>
   </head>
   <body>
     <header class="topbar">
@@ -145,6 +147,18 @@
       </section>
     </main>
 
+    <!-- Popup báo đã tự điền xong thông tin máy tính -->
+    <dialog id="machine-done-dialog" class="machine-done-dialog" aria-labelledby="machine-done-title">
+      <div class="machine-done-icon" aria-hidden="true">✅</div>
+      <h2 id="machine-done-title">Đã tự động điền xong</h2>
+      <p>
+        Bạn đã tự động điền xong thông tin máy tính.<br>
+        Hãy <strong class="md-em">TÍCH CHỌN Ở CUỐI PHIẾU</strong> và điền thông tin
+        <strong class="md-em">THIẾT BỊ ĐANG DÙNG KÈM</strong> máy tính sau đó <strong>gửi phiếu</strong>.
+      </p>
+      <button type="button" id="btn-machine-done-close" class="primary block">Đã hiểu</button>
+    </dialog>
+
     <!-- Dialog đăng nhập quản trị bằng GitHub Personal Access Token -->
     <dialog id="admin-dialog" class="admin-dialog">
       <form id="admin-login-form" method="dialog">
@@ -172,7 +186,7 @@
 
     
     <script src="github-config.js"></script>
-    <script src="app.js"></script>
-    <script src="mbc_drop.js"></script>
+    <script src="app.js?v=20261011"></script>
+    <script src="mbc_drop.js?v=20261011"></script>
   </body>
 </html>
